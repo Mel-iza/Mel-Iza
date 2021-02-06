@@ -5,8 +5,8 @@
 <center>
 <table>
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&hide=html&layout=compact&theme=great-gatsby" />  
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&theme=great-gatsby"/>  
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&hide=html&layout=compact&theme=vue" />  
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&theme=vue"/>  
          </tr>   
 </table>
 </center> 
@@ -17,6 +17,8 @@ Tenho muito interesse em ciência de dados, inteligência artificial e ética. A
 
 
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  Adoro games, assistir séries e filmes de terror, ficção científica a animação. 
+
+![Separador texto](https://user-images.githubusercontent.com/72058182/107102154-54f7ac00-67f8-11eb-95c1-870789e241c8.gif)
   
   Onde me encontrar? :mag_right:
 
