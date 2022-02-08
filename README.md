@@ -2,14 +2,7 @@
 
 <center>
 <center>
-<center>
-<table>
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&hide=html&layout=compact&theme=vue" />  
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&theme=vue"/>  
-         </tr>   
-</table>
-</center> 
+
  
 ### Olá, seja bem vinda, bem-vindo e bem vinde! :relaxed: :grinning:<img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
 <br>
@@ -29,7 +22,16 @@ Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina
 
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Curiosidades** <br> Adoro games, assistir séries e filmes de terror, ficção científica, animação e investigação. 
 
-![Separador texto](https://user-images.githubusercontent.com/72058182/107102154-54f7ac00-67f8-11eb-95c1-870789e241c8.gif)
+![Separador texto](https://user-images.githubusercontent.com/72058182/152903699-737f9ae7-30a4-4830-9446-be3be304547c.png)
+
+<center>
+<table>
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&hide=html&layout=compact&theme=moltack" />  
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&theme=moltack"/>  
+         </tr>   
+</table>
+</center> 
   
  **Onde me encontrar?** :mag_right:
 
@@ -37,8 +39,9 @@ Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina
 
 <img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a> [E-mail](meliza.caug@gmail.com) 
 
+
   
-  ![](https://komarev.com/ghpvc/?username=Mel-iza&color=blue&style=flat)
+  ![](https://komarev.com/ghpvc/?username=Mel-iza&color=yellow&style=flat)
 <!--
 **Mel-iza/Mel-Iza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
