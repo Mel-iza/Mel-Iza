@@ -3,6 +3,7 @@
 <center>
 <center>
 
+ ![Separador texto](https://user-images.githubusercontent.com/72058182/152903699-737f9ae7-30a4-4830-9446-be3be304547c.png)
  
 ### Olá, seja bem vinda, bem-vindo e bem vinde! :relaxed: :grinning:<img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
 <br>
@@ -22,24 +23,25 @@ Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina
 
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Curiosidades** <br> Adoro games, assistir séries e filmes de terror, ficção científica, animação e investigação. 
 
+ **Onde me encontrar?** :mag_right: <br>
+<a href="https://www.linkedin.com/in/mel-5664a1bb/"><img src="https://user-images.githubusercontent.com/72058182/107100987-b0c03600-67f4-11eb-8cee-6d10391516df.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mel-5664a1bb/)     <img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a>  [E-mail Gmail](meliza.caug@gmail.com)    <img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a>  [E-mail Instituicional](mel.augusto@fatec.sp.gov.br) 
+
 ![Separador texto](https://user-images.githubusercontent.com/72058182/152903699-737f9ae7-30a4-4830-9446-be3be304547c.png)
+<br>
 
-<center>
-<table>
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&hide=html&layout=compact&theme=moltack" />  
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&theme=moltack"/>  
-         </tr>   
-</table>
-</center> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&show_icons=true&theme=gruvbox_light&hide=prs, stars" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&show_icons=true&theme=gruvbox_light" />
+</a>
+
+ 
+ <br>
+ 
   
- **Onde me encontrar?** :mag_right:
-
-<a href="https://www.linkedin.com/in/mel-5664a1bb/"><img src="https://user-images.githubusercontent.com/72058182/107100987-b0c03600-67f4-11eb-8cee-6d10391516df.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mel-5664a1bb/) 
-
-<img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a> [E-mail](meliza.caug@gmail.com) 
-
-
+<br>
   
   ![](https://komarev.com/ghpvc/?username=Mel-iza&color=yellow&style=flat)
 <!--
