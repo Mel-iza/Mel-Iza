@@ -17,6 +17,9 @@ Também sou estudante de tecnologia em Análise e Desenvolvimento de Sistemas (F
 Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina de estudos em Python “Pytech” da Fatec (2021), participei do curso de Python para processsamento de linguagem natural oferecido pelo ICMC/USP (2021), fui aluna do Bootcamp de Data Science e Machine Learning da Tera e também participei do programa "Elas na IA" da WomakersCode (2021), no qual fui capacitada para a certificação Microsoft AI-900 Azure AI Fundamentals.
 <br>
 
+<img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Objetivos de carreira**<br>
+No momento estou me dedicando ao curso técnico e conhecendo melhor a área de ciência de dados. Meu objetivo é atuar como analista ou cientista de dados, para isso estou estudando estatística descritiva e inferencial, básico de machine learning e algoritmos, análise e visualização de dados e matemática. Estou indo no meu tempo e desenvolvendo essas habilidades aos poucos. Pretendo compartilhar um pouquinho de cada um desses tópicos por aqui no meu repositório pessoal de estudos mas um dia eu chego lá :) Estou aberta a propostas de estágio e vagas de nível iniciante. 
+
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Assuntos que possuo interesse**<br>
 :small_orange_diamond: Ciência de dados :small_orange_diamond: Inteligência artificial :small_orange_diamond: Ética :small_orange_diamond: Python :small_orange_diamond: Estatística :small_orange_diamond: Lógica
 
