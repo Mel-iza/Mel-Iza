@@ -22,7 +22,7 @@ No momento estou me dedicando ao curso técnico e conhecendo melhor a área de c
 Estou aberta a propostas de estágio e vagas de nível iniciante. É importante pra mim oportunidades que possuam flexibilidade de horários de trabalho e que seja remoto :)  
 
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Assuntos que possuo interesse**<br>
-:small_orange_diamond: Ciência de dados :small_orange_diamond: Inteligência artificial :small_orange_diamond: Ética :small_orange_diamond: Python :small_orange_diamond: Estatística :small_orange_diamond: Lógica
+:small_orange_diamond: Ciência de dados :small_orange_diamond: Inteligência artificial :small_orange_diamond: Ética :small_orange_diamond: Python :small_orange_diamond: Estatística :small_orange_diamond: Lógica :small_orange_diamond: NLP (Natural Language Processing)
 
 
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Curiosidades** <br> Adoro games, assistir séries e filmes de terror, ficção científica, animação e investigação. 
