@@ -17,10 +17,7 @@ Também sou Engenheira de Machine Learning Junior na Weni, Tutora de projetos de
 Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina de estudos em Python “Pytech” da Fatec (2021), participei do curso de Python para processsamento de linguagem natural oferecido pelo ICMC/USP (2021), fui aluna do Bootcamp de Data Science e Machine Learning da Tera e facilitadora de aprendizagem no curso de Data Science,; e também participei do programa "Elas na IA" da WomakersCode (2021), no qual fui capacitada para a certificação Microsoft AI-900 Azure AI Fundamentals.
 <br>
 
-<img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Objetivos de carreira**<br>
-No momento estou me dedicando ao curso técnico e conhecendo melhor a área de ciência de dados. Meu objetivo é atuar na área de dados, com ênfase em papéis de analista, cientista ou engenheira de dados/machine learning. Para atingir esse objetivo, estou estudando estatística descritiva e inferencial, básico de machine learning e algoritmos, visualização de dados e matemática. Estou indo no meu tempo e desenvolvendo essas habilidades aos poucos. Pretendo compartilhar um pouquinho de cada um desses tópicos por aqui no meu repositório pessoal de estudos :) 
-Estou aberta a propostas de estágio e vagas de nível iniciante. É importante pra mim oportunidades que possuam flexibilidade de horários de trabalho e que seja remoto :)  
-
+<img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Assuntos que possuo interesse**<br>
 :small_orange_diamond: Ciência de dados :small_orange_diamond: Inteligência artificial :small_orange_diamond: Ética :small_orange_diamond: Python :small_orange_diamond: Estatística :small_orange_diamond: Lógica :small_orange_diamond: NLP (Natural Language Processing)
 
@@ -29,7 +26,7 @@ Estou aberta a propostas de estágio e vagas de nível iniciante. É importante 
 
  **Onde me encontrar?** :mag_right: <br>
 <a href="https://www.linkedin.com/in/mel-5664a1bb/"><img src="https://user-images.githubusercontent.com/72058182/107100987-b0c03600-67f4-11eb-8cee-6d10391516df.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mel-5664a1bb/)<br><img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a>  [E-mail Gmail](meliza.caug@gmail.com)<br><img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a> 
-[E-mail Instituicional](mel.augusto@fatec.sp.gov.br) 
+[E-mail Instituicional Fatec](mel.augusto@fatec.sp.gov.br) 
 
 ![Separador texto](https://user-images.githubusercontent.com/72058182/152903699-737f9ae7-30a4-4830-9446-be3be304547c.png)
 <br>
