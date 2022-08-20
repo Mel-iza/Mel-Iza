@@ -3,22 +3,21 @@
 <center>
 <center>
 
-
- ![Separador texto](https://user-images.githubusercontent.com/72058182/152903699-737f9ae7-30a4-4830-9446-be3be304547c.png)
+ <img src="https://user-images.githubusercontent.com/72058182/185769243-14aca4ca-81db-4328-9c9e-607795a59214.png">
  
-### Olá pessoa, seja bem vinda! :relaxed: :grinning:<img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
+### Olá, seja muito bem vinda(o)! :relaxed: :grinning:<img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
 <br>
 
-<img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Sobre mim** <br>
+<img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"></h2></h2>  **Sobre mim** <br>
 Sou uma pessoa perseverante e criativa aberta a novas experiências, ideias, projetos, que adora pensar em problemas, abstrações e levantar hipóteses.
 Também sou Engenheira de Machine Learning Junior na Weni, Tutora de projetos de Data Science e Machine Learning na Tera, estudante de tecnologia em Análise e Desenvolvimento de Sistemas (FATEC) e Bacharel em Filosofia (UFOP). 
 <br>
 
-<img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Experiências** <br>
+<img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"></h2></h2>  **Experiências** <br>
 Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina de estudos em Python “Pytech” da Fatec (2021), participei do curso de Python para processsamento de linguagem natural oferecido pelo ICMC/USP (2021), fui aluna do Bootcamp de Data Science e Machine Learning da Tera e facilitadora de aprendizagem no curso de Data Science,; e também participei do programa "Elas na IA" da WomakersCode (2021), no qual fui capacitada para a certificação Microsoft AI-900 Azure AI Fundamentals.
 <br>
 
-<img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Assuntos que possuo interesse**<br>
+<img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"></h2></h2>  **Assuntos que possuo interesse**<br>
 :white_small_square: Ciência de dados <br>
 :white_small_square: Inteligência artificial <br>
 :white_small_square: Ética <br>
@@ -28,7 +27,7 @@ Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina
 :white_small_square: NLP (Natural Language Processing)<br>
 
 
-<img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Curiosidades** <br> Adoro games, assistir séries e filmes de terror, ficção científica, animação e investigação. 
+<img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"></h2></h2>  **Curiosidades** <br> Adoro games, assistir séries e filmes de terror, ficção científica, animação e investigação. 
 
  **Onde me encontrar?** :mag_right: <br>
 <a href="https://www.linkedin.com/in/mel-5664a1bb/"><img src="https://user-images.githubusercontent.com/72058182/107100987-b0c03600-67f4-11eb-8cee-6d10391516df.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mel-5664a1bb/)<br><img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a>  [E-mail Gmail](meliza.caug@gmail.com)<br><img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a> 
@@ -45,9 +44,7 @@ Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&show_icons=true&theme=gruvbox_light" />
 </a>
 
- 
- <br>
- 
+<br>
   
 <br>
   
