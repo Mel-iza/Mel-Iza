@@ -17,7 +17,6 @@ Também sou Engenheira de Machine Learning Junior na Weni, Tutora de projetos de
 Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina de estudos em Python “Pytech” da Fatec (2021), participei do curso de Python para processsamento de linguagem natural oferecido pelo ICMC/USP (2021), fui aluna do Bootcamp de Data Science e Machine Learning da Tera e facilitadora de aprendizagem no curso de Data Science,; e também participei do programa "Elas na IA" da WomakersCode (2021), no qual fui capacitada para a certificação Microsoft AI-900 Azure AI Fundamentals.
 <br>
 
-<img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Assuntos que possuo interesse**<br>
 :small_orange_diamond: Ciência de dados :small_orange_diamond: Inteligência artificial :small_orange_diamond: Ética :small_orange_diamond: Python :small_orange_diamond: Estatística :small_orange_diamond: Lógica :small_orange_diamond: NLP (Natural Language Processing)
 
