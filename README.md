@@ -1,7 +1,8 @@
-![Mel Iza (1)](https://user-images.githubusercontent.com/72058182/107098378-d3028580-67ed-11eb-867e-0a437aa5f028.gif)
+<img src= "https://user-images.githubusercontent.com/72058182/185760299-082c240f-0e4e-425e-922a-63aecbcd4825.jpg" width="1200px">
 
 <center>
 <center>
+
 
  ![Separador texto](https://user-images.githubusercontent.com/72058182/152903699-737f9ae7-30a4-4830-9446-be3be304547c.png)
  
@@ -18,7 +19,13 @@ Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina
 <br>
 
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Assuntos que possuo interesse**<br>
-:small_orange_diamond: Ciência de dados :small_orange_diamond: Inteligência artificial :small_orange_diamond: Ética :small_orange_diamond: Python :small_orange_diamond: Estatística :small_orange_diamond: Lógica :small_orange_diamond: NLP (Natural Language Processing)
+:white_small_square: Ciência de dados <br>
+:white_small_square: Inteligência artificial <br>
+:white_small_square: Ética <br>
+:white_small_square: Python <br>
+:white_small_square: Estatística <br>
+:white_small_square: Lógica <br>
+:white_small_square: NLP (Natural Language Processing)<br>
 
 
 <img src="https://user-images.githubusercontent.com/72058182/107101809-4361d480-67f7-11eb-88e4-26e8aa78c3a3.png" width="20px"></h2></h2>  **Curiosidades** <br> Adoro games, assistir séries e filmes de terror, ficção científica, animação e investigação. 
