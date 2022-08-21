@@ -40,15 +40,16 @@ Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina
 <img src="https://user-images.githubusercontent.com/72058182/185769243-14aca4ca-81db-4328-9c9e-607795a59214.png">
 <br>
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&show_icons=true&theme=gruvbox_light&hide=prs, stars" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue" />
+</a><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&show_icons=true&theme=gruvbox_light" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&show_icons=true&theme=vue&card_width=495px" />
+</a><br>
 
 <br>
-  
+
 <br>
   
   ![](https://komarev.com/ghpvc/?username=Mel-iza&color=yellow&style=flat)
