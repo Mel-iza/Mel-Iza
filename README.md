@@ -5,7 +5,7 @@
 
  <img src="https://user-images.githubusercontent.com/72058182/185769243-14aca4ca-81db-4328-9c9e-607795a59214.png">
  
-### Olá, seja muito bem vinda(o)! :relaxed: :grinning:<img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
+### Olá, seja muito bem vinda(o)! :blossom: :relaxed: <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
 <br>
 
 <img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"></h2></h2>  **Sobre mim** <br>
@@ -52,7 +52,7 @@ Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina
 
 <br>
   
-  ![](https://komarev.com/ghpvc/?username=Mel-iza&color=yellow&style=flat)
+:grinning: ![](https://komarev.com/ghpvc/?username=Mel-iza&color=green&style=flat) 
 <!--
 **Mel-iza/Mel-Iza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
