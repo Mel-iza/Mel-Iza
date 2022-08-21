@@ -29,13 +29,16 @@ Fui mentoranda do projeto “Ser Mulher em Tech” (2020), participei da oficina
 
 <img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"></h2></h2>  **Curiosidades** <br> Adoro games, assistir séries e filmes de terror, ficção científica, animação e investigação. 
 
- **Onde me encontrar?** :mag_right: <br>
-<a href="https://www.linkedin.com/in/mel-5664a1bb/"><img src="https://user-images.githubusercontent.com/72058182/107100987-b0c03600-67f4-11eb-8cee-6d10391516df.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mel-5664a1bb/)<br><img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a>  [E-mail Gmail](meliza.caug@gmail.com)<br><img src="https://user-images.githubusercontent.com/72058182/107101282-963a8c80-67f5-11eb-8c27-c8d77b01a9d7.png" width="16"></img></a> 
+ <img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"> **Onde me encontrar?**  <br>
+<a href="https://www.linkedin.com/in/mel-5664a1bb/">
+<img src="https://user-images.githubusercontent.com/72058182/185769872-187b55e5-a7fe-44eb-8a10-9de5e5b241b4.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/mel-5664a1bb/)<br>
+<img src="https://user-images.githubusercontent.com/72058182/185770010-0208e8bb-2198-4460-a67e-aa08b30b7db0.png" width="16"></img></a>  [E-mail gmail](meliza.caug@gmail.com)<br>
+<img src="https://user-images.githubusercontent.com/72058182/185770010-0208e8bb-2198-4460-a67e-aa08b30b7db0.png" width="16"></img></a> 
 [E-mail Instituicional Fatec](mel.augusto@fatec.sp.gov.br) 
 
-![Separador texto](https://user-images.githubusercontent.com/72058182/152903699-737f9ae7-30a4-4830-9446-be3be304547c.png)
-<br>
 
+<img src="https://user-images.githubusercontent.com/72058182/185769243-14aca4ca-81db-4328-9c9e-607795a59214.png">
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&show_icons=true&theme=gruvbox_light&hide=prs, stars" />
