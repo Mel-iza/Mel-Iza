@@ -10,7 +10,7 @@
 
 <div align="center">
 <table align="center" border="0px">
-     <tr>
+     <tr valign="center">
        <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue" height="200" width="900cm"></td>
        <td align="center"><a href="https://www.linkedin.com/in/mel-5664a1bb/">
 <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="px" height="30" ><br><a href="mailto:meliza.caug@gmail.com"><img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="px" height="30" ><br><a href="mailto:mel.augusto@fatec.sp.gov.br"><img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="px" height="30" ><br><a href="mailto:mel.augusto@weni.ai"><img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="px" height="30" ><br><img src="https://komarev.com/ghpvc/?username=Mel-iza&color=86ccb6&style=for-the-badge" height="" width=""></td>
@@ -25,9 +25,11 @@ I am also Junior Machine Learning Engineer at Weni, Tutor of Data Science and Ma
 <br>
 <img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br> Data Science  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Artificial intelligence <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  SQL <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing) <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> 
 
+
 🌻 My Pronouns: **She/Her** <br>
 🌻 *I love games, horror and sci-fi movies and last but not least: detective fiction books.*
 
+          
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 <br> 
 <div align="center">
@@ -36,15 +38,58 @@ I am also Junior Machine Learning Engineer at Weni, Tutor of Data Science and Ma
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="175cm" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue" />
 
-</div>
 
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Jupyter</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Pandas</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>SQL</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <td width="80px" align="center">
+            <span><strong>Docker</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Ubuntu</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Canva</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            </td>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Canva</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            </td>
+        </tr>
+  </tbody>
+</table>
 <br>  
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
-
-
  
- 
+
 <!--
 **Mel-iza/Mel-Iza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
