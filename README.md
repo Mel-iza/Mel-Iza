@@ -27,8 +27,8 @@ I am also Junior Machine Learning Engineer at Weni, Tutor of Data Science and Ma
 <img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br> Data Science  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Artificial intelligence <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  SQL <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing) <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> 
 
 
-🌻 My Pronouns: **She/Her** <br>
-⚡ Funfact: I love games, horror and sci-fi movies and last but not least: detective fiction books.
+◻️ My Pronouns: **She/Her** <br>
+◻️ Funfact: I love games, horror and sci-fi movies and last but not least: detective fiction books.
 
           
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
