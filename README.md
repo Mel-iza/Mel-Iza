@@ -9,7 +9,7 @@
 <br>
 <!-- PRIMEIROS CARDS -->
 <div align="center">
-<table align="center" border:"0px"  width="100%" height="auto">
+<table align="center" border:"0px"  width="1200px" height="250cm">
    <tbody>
      <tr valign="middle">
        <td width="80%" height="auto" align="center"><img height="200cm" width="600cm" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue"><img height="200cm" width="300cm" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8"></td>
