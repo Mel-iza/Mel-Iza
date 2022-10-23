@@ -12,7 +12,7 @@
 <table align="center" width="1000px" height="250cm">
    <tbody>
      <tr valign="middle">
-       <td width="80%" height="auto" align="center"><img height="175cm" width="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue"><img height="175cm" width="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8"></td>
+       <td width="80%" height="auto" align="center"><img height="175cm" width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue"><img height="175cm" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8"></td>
       </tbody>
 <!-- <td width="80%" align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8" height="200" width="100"></td>-->
 </table>
