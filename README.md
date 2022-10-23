@@ -4,8 +4,8 @@
 <center>
 
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
- 
-### <img src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="85%" height="auto"><img src="https://user-images.githubusercontent.com/72058182/196844917-4d8b26ce-add9-4d2f-85c8-63c58becb54c.png" width="70px">   <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
+
+### <img src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="85%" height="auto"><img src="https://user-images.githubusercontent.com/72058182/197407343-4f71131d-9fb7-4de8-b8e0-b5de7f4b7f21.png" width="auto" height="60px">   <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
 <br>
 <!-- PRIMEIROS CARDS -->
 <div align="center">
@@ -19,13 +19,13 @@
 </table>
 </div>
 <div>
-<img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829098-406be351-7869-4be7-94fe-73f2ab76bf50.png" height="40px">   <br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829098-406be351-7869-4be7-94fe-73f2ab76bf50.png" height="40px">   <br>
 I am a persevering and creative person open to new experiences, ideas, projects, who loves to think about problems, abstractions and hypotheses.
 Currently I work as a Junior Machine Learning Engineer at Weni evaluating, monitoring and integrating artificial intelligence models using NLP (Natural Language Processing) techniques to improve the communication of intelligent agents (Chatbots) within the product area. I am also a tutor for Data Science and Machine Learning projects at Tera, helping and structuring student service flows, as well as questions about course projects. I am a technology student in Systems Analysis and Development (FATEC) and a Bachelor of Philosophy (UFOP). </div>
 <br>
 
 <!-- INTERESTED IN -->
-<img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br>**Artificial intelligence  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Machine Learning <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  SQL <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Data Science <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing) <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic** <br><br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br>**Artificial intelligence  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Machine Learning <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  SQL <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Data Science <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing) <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic** <br><br>
 
 <!-- PRONOMES E FUN FACT -->
 <img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15">  **My Pronouns:** She/Her <br>
@@ -109,8 +109,6 @@ Currently I work as a Junior Machine Learning Engineer at Weni evaluating, monit
 <div align="center">
 
 </div>
-
-
 
 
 
