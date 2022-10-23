@@ -101,7 +101,8 @@ Currently I work as a Junior Machine Learning Engineer at Weni evaluating, monit
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- ROBOZINHO E PROFILE VIEWS -->
-<div align="center">
+
+   <div align="center"> 
 <img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
 <img src="https://komarev.com/ghpvc/?username=Mel-iza&color=86ccb6&style=for-the-badge" height="" width="">
 </div>
@@ -111,6 +112,7 @@ Currently I work as a Junior Machine Learning Engineer at Weni evaluating, monit
 </div>
 
 
+   
 
 <!-- -->
 <!--
