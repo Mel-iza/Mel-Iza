@@ -14,16 +14,16 @@
      <tr valign="middle">
        <td width="80%" height="auto" align="center"><img height="175cm" width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue"><img height="175cm" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
       </td>
-    </tr>
- </tbody>
+     </tr>
+  </tbody>
 </table>
 </div>
-<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-
+<div>
 <img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829098-406be351-7869-4be7-94fe-73f2ab76bf50.png" height="40px">   <br>
 I am a persevering and creative person open to new experiences, ideas, projects, who loves to think about problems, abstractions and hypotheses.
-Currently I work as a Junior Machine Learning Engineer at Weni evaluating, monitoring and integrating artificial intelligence models using NLP (Natural Language Processing) techniques to improve the communication of intelligent agents (Chatbots) within the product area. I am also a tutor for Data Science and Machine Learning projects at Tera, helping and structuring student service flows, as well as questions about course projects. I am a technology student in Systems Analysis and Development (FATEC) and a Bachelor of Philosophy (UFOP). 
+Currently I work as a Junior Machine Learning Engineer at Weni evaluating, monitoring and integrating artificial intelligence models using NLP (Natural Language Processing) techniques to improve the communication of intelligent agents (Chatbots) within the product area. I am also a tutor for Data Science and Machine Learning projects at Tera, helping and structuring student service flows, as well as questions about course projects. I am a technology student in Systems Analysis and Development (FATEC) and a Bachelor of Philosophy (UFOP). </div>
 <br>
+
 <!-- INTERESTED IN -->
 <img src="https://user-images.githubusercontent.com/72058182/185769297-6b002c62-8425-4a87-84ee-1a393a7f3b6a.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br>**Artificial intelligence  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Machine Learning <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  SQL <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Data Science <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing) <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic** <br><br>
 
