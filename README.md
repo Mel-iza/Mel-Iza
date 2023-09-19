@@ -1,5 +1,9 @@
 <img align="center" src= "https://user-images.githubusercontent.com/72058182/185760299-082c240f-0e4e-425e-922a-63aecbcd4825.jpg" width="1200px">
 
+<!--
+Fonte utilizada: Arial rounded
+Referências para ícones: https://icons8.com/icons, https://devicon.dev
+-->  
 <center>
 <center>
 
@@ -8,19 +12,40 @@
 ### <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="85%" height="auto"><img src="https://user-images.githubusercontent.com/72058182/197407343-4f71131d-9fb7-4de8-b8e0-b5de7f4b7f21.png" width="auto" height="60px">   <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
 <br>
 <!-- PRIMEIROS CARDS -->
-<div align="center">
-<table align="center" width="900px" style="border: 5px solid transparent;">
+<!--<div align="center">
+<table align="center" width="1200px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
-       <td class="table-cell" width="80%" align="center" style="background-color: transparent;">
+       <td class="table-cell" width="80%" align="justify" style="background-color: transparent;">
           <div class="image-container">
-          <img height="175cm" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue"><img height="175cm" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+          <img height="175cm" width="900px"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue"><img height="175cm" width="300px"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
           </div>   
       </td>
      </tr>
   </tbody>
 </table>
 </div>
+-->
+<table align="center" style="border-collapse: collapse; border-spacing: 0; border: none;">
+   <tbody>
+     <tr valign="middle" style="background-color: transparent;">
+       <td class="table-cell" style="padding: 0;">
+          <div class="image-container" style="display: inline-block; margin-right: 10px;">
+            <img height="200px" width="720px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
+          </div>
+       </td>
+       <td class="table-cell" style="padding: 0;">
+          <div class="image-container" style="display: inline-block;">
+            <img height="200px" width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+          </div>
+       </td>
+     </tr>
+  </tbody>
+</table>
+
+
+
+
 <div>
 <img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829098-406be351-7869-4be7-94fe-73f2ab76bf50.png" height="40px"><br>
 I am a persevering and creative person open to new experiences, ideas, projects, who loves to think about problems, abstractions and hypotheses.
@@ -43,7 +68,7 @@ My work primarily involves Python programming in the field of machine learning a
 
 <!-- ANOTHER STATS -->          
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-   <table align="center" width="900px" style="border: 5px solid transparent;">
+   <table align="center" width="1200px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
        <td class="table-cell" width="80%" height="auto" align="center" style="background-color: transparent;">
@@ -134,7 +159,7 @@ My work primarily involves Python programming in the field of machine learning a
 <br><br><br><br><br>
 <div>
    
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0" height="35px"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning <br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0" height="33px"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning <br>
 </div>
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
@@ -169,7 +194,7 @@ My work primarily involves Python programming in the field of machine learning a
 </table> 
 <br><br><br><br><br>
 
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="36.5px"><br>I have had experience in non-work contexts, enjoy practicing, <br>or find it to be a very enjoyable activity<br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br>
 </div> 
 
 <div style="display: flex;">
