@@ -9,7 +9,7 @@
 <br>
 <!-- PRIMEIROS CARDS -->
 <div align="center">
-<table align="center" width="1200px" style="border: 5px solid transparent;">
+<table align="center" width="1000px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
        <td class="table-cell" width="80%" height="auto" align="center" style="background-color: transparent;">
@@ -43,7 +43,7 @@ My work primarily involves Python programming in the field of machine learning a
 
 <!-- ANOTHER STATS -->          
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-   <table align="center" width="1200px" style="border: 5px solid transparent;">
+   <table align="center" width="1000px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
        <td class="table-cell" width="80%" height="auto" align="center" style="background-color: transparent;">
@@ -63,7 +63,7 @@ My work primarily involves Python programming in the field of machine learning a
 
 <!-- I'M LEARNING-->          
 
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2125a4ee-16a8-4279-9e7a-13f5869a7fc3" height="35px"><br>Technologies I have had contact with or have closer contact with in my daily work and am learning today are:<br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2125a4ee-16a8-4279-9e7a-13f5869a7fc3" height="35px"><br>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies: <br>
 
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
@@ -112,60 +112,85 @@ My work primarily involves Python programming in the field of machine learning a
     </tr>
      <tr> 
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Python<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+        Grafana<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
       </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Numpy<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+      </td> 
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        VSCode<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      </td> 
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Anaconda<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+      </td>    
      </tr>
   </tbody>
 </table>
 </div> 
-
-
 <br><br><br><br><br>
 <div>
    
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0" height="35px"><br>The main technologies I intend to develop, enhance, or study in the future. <br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0" height="35px"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning <br>
 </div>
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
   <tbody> 
-    <tr> 
-    <td width="80px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        <strong>SQL</strong><br>
+    <tr>
+    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        <strong>Django</strong><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+      </td>  
+   <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Flask<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"> 
+      </td>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Tensorflow<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
+     </td>
+    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        SQL<br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       </td>
-  <td width="80px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        <strong>Canva</strong><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-      </td>
-      <td width="80px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        <strong>Photoshop</strong><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
-     </td>
+     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Google Cloud<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
+     </td> 
+     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Kubernetes<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
+     </td>   
     </tr>
   </tbody>
 </table> 
-<br><br><br><br>
+<br><br><br><br><br>
 
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="36.5px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="36.5px"><br>I have had experience in non-work contexts, enjoy practicing, <br>or find it to be a very enjoyable activity<br>
 </div> 
 
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
   <tbody> 
     <tr> 
-       <td>
-        <strong>Canva</strong><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-      </td>
-      <td width="80px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        <strong>Photoshop</strong><br>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Photoshop<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
      </td>
-    </tr>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Canva<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+      </td>
+     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Markdown<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"> 
+     </td>  
+    </tr> 
   </tbody>
-</table>     
-
+</table>
    
 </body>
 </div>
@@ -179,7 +204,10 @@ My work primarily involves Python programming in the field of machine learning a
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- CARDS DE CONTATO -->
-<div align="left">
+<div align="center">
+<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/27633edf-e1fb-4069-9c69-87f3058b9388" height="35px">
+<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d" height="40px"><br><br>
+
 <a href="https://www.linkedin.com/in/mel-5664a1bb/">
 <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto" ><a href="@Mel-Iza"> <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%"> <br> <a href="mailto:meliza.caug@gmail.com"> <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto" > <a href="https://medium.com/@meliza-caug"><img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">  <br> <a href="mailto:mel.augusto@fatec.sp.gov.br"><img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto" > <a href="mailto:mel.augusto@weni.ai"><img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto" > 
 </div>
