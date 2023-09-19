@@ -12,7 +12,7 @@
 <table align="center" width="900px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
-       <td class="table-cell" width="80%" height="auto" align="center" style="background-color: transparent;">
+       <td class="table-cell" width="80%" align="center" style="background-color: transparent;">
           <div class="image-container">
           <img height="175cm" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue"><img height="175cm" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
           </div>   
@@ -196,8 +196,6 @@ My work primarily involves Python programming in the field of machine learning a
 </html>
 
 
-
-
 <br>  
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
@@ -209,7 +207,7 @@ My work primarily involves Python programming in the field of machine learning a
 <a href="https://www.linkedin.com/in/mel-5664a1bb/">
 <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto" ><a href="@Mel-Iza"> <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%"> <br> <a href="mailto:meliza.caug@gmail.com"> <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto" > <a href="https://medium.com/@meliza-caug"><img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">  <br> <a href="mailto:mel.augusto@fatec.sp.gov.br"><img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto" > <a href="mailto:mel.augusto@weni.ai"><img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto" > 
 </div>
-
+<br>
 <!-- ROBOZINHO E PROFILE VIEWS -->
 
    <div align="center"> 
