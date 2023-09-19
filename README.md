@@ -9,7 +9,7 @@
 <br>
 <!-- PRIMEIROS CARDS -->
 <div align="center">
-<table align="center" width="1000px" style="border: 5px solid transparent;">
+<table align="center" width="900px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
        <td class="table-cell" width="80%" height="auto" align="center" style="background-color: transparent;">
@@ -43,7 +43,7 @@ My work primarily involves Python programming in the field of machine learning a
 
 <!-- ANOTHER STATS -->          
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-   <table align="center" width="1000px" style="border: 5px solid transparent;">
+   <table align="center" width="900px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
        <td class="table-cell" width="80%" height="auto" align="center" style="background-color: transparent;">
@@ -169,7 +169,7 @@ My work primarily involves Python programming in the field of machine learning a
 </table> 
 <br><br><br><br><br>
 
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="36.5px"><br>I have had experience in non-work contexts, enjoy practicing, <br>or find it to be a very enjoyable activity<br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="36.5px"><br>I have had experience in non-work contexts, enjoy practicing, <br>or find it to be a very enjoyable activity<br>
 </div> 
 
 <div style="display: flex;">
@@ -191,7 +191,6 @@ My work primarily involves Python programming in the field of machine learning a
     </tr> 
   </tbody>
 </table>
-   
 </body>
 </div>
 </html>
@@ -200,7 +199,6 @@ My work primarily involves Python programming in the field of machine learning a
 
 
 <br>  
-
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- CARDS DE CONTATO -->
