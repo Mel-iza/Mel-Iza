@@ -81,6 +81,7 @@ My work primarily involves Python programming in the field of machine learning a
      </tr>
   </tbody>
 </table>
+<img height="200cm" width="168cm" style="max-width: 168px;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=pie&theme=vue&hide_title=true&hide=TSQL,Java,Dockerfile,Python"> 
 </div>-->
 
 
@@ -92,7 +93,6 @@ My work primarily involves Python programming in the field of machine learning a
         <div class="image-container">
           <img height="200cm" width="400cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
           <img height="200cm" width="300cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
-          <img height="200cm" width="168cm" style="max-width: 168px;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=pie&theme=vue&hide_title=true&hide=TSQL,Java,Dockerfile,Python"> 
         </div>
       </td>
     </tr>
