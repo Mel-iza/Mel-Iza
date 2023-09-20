@@ -67,27 +67,43 @@ My work primarily involves Python programming in the field of machine learning a
 <img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15"> Check my Github Status 👇
 
 <!-- ANOTHER STATS -->          
-<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+<!--<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
    <table align="center" width="1200px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
-       <td class="table-cell" width="80%" height="auto" align="center" style="background-color: transparent;">
+       <td class="table-cell" width="80%" height="175cm" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
           <div class="image-container">
-          <img height="175cm" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
-          <img height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
-          <img height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=pie&theme=vue&hide_title=true&hide=TSQL,Java">   
+          <img height="175cm" width="600" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
+          <img height="175cm" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
+          <img height="175cm" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=pie&theme=vue&hide_title=true&hide=TSQL,Java">   
           </div>   
       </td>
      </tr>
   </tbody>
 </table>
-</div>
+</div>-->
+
+
+<!-- ANOTHER STATS -->   
+<table align="left" width="1000px" style="border: 3px solid transparent;">
+  <tbody>
+    <tr valign="middle">
+      <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+        <div class="image-container">
+          <img height="200cm" width="400cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
+          <img height="200cm" width="300cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
+          <img height="200cm" width="168cm" style="max-width: 168px;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=pie&theme=vue&hide_title=true&hide=TSQL,Java,Dockerfile,Python"> 
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
    
 <br>
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- I'M LEARNING-->          
-
 <img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2125a4ee-16a8-4279-9e7a-13f5869a7fc3" height="35px"><br>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies: <br>
 
 <div style="display: flex;">
@@ -158,7 +174,8 @@ My work primarily involves Python programming in the field of machine learning a
 </div> 
 <br><br><br><br><br>
 <div>
-   
+
+<!-- I WISH TO LEARN-->    
 <img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0" height="33px"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning <br>
 </div>
 <div style="display: flex;">
@@ -194,9 +211,9 @@ My work primarily involves Python programming in the field of machine learning a
 </table> 
 <br><br><br><br><br>
 
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br>
+<!-- HOBBIES-->    
+<img  src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br>
 </div> 
-
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
   <tbody> 
