@@ -59,11 +59,15 @@ My work primarily involves Python programming in the field of machine learning a
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- INTERESTED IN -->
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br>**Artificial intelligence  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Machine Learning <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing)  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Data Science <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  MLOps <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic** <br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="18px" height="18px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br>**Artificial intelligence  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Machine Learning <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing)  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Data Science <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  MLOps <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic** <br>
 <!-- PRONOMES E FUN FACT -->
 <!-- PRONOMES-->
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/da7f62a7-18d2-42ab-bb39-a32e077cc1c1" height="35cm" width=""> She/Her <br><img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4cfe61ca-2c7d-4404-8ea9-367f4deff3ef" height="35cm" width=""> I'm a fan of horror films and books, as well as detective and investigative fictions. <br><img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/12f5f6e1-43c7-4cfe-9efb-b4140eb332b0" height="35cm" width=""><br>&ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/9f760ac0-7b1b-48a5-b3a5-98316f6b8eec" height="18cm" width="18"> <b>MIA</b> <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Mulheres em IA <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Learn more about the community [here](https://brasileiraspln.com) <br>
-&ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/9f760ac0-7b1b-48a5-b3a5-98316f6b8eec" height="18cm" width="18"> <b>BPLN</b>  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Brasileiras em PLN (Processamento de Linguagem Natural) <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Learn more about the community [here](https://www.instagram.com/mulheres.em.ia/).
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/1361c3b6-95e4-478e-b226-ebdc904687fe" height="11cm" width=""> She/Her <br>
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e8e0dc8-29e5-43f0-88b2-6db4d6ff3ab9" height="12cm" width=""> I'm a fan of horror films and books, as well as detective and investigative fictions. <br>
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e669c6ca-0eb2-4131-bc43-dbf832cc6f1d" height="12cm" width=""><br>
+   &ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/9f760ac0-7b1b-48a5-b3a5-98316f6b8eec" height="18cm" width="18"> <b>MIA</b> <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Mulheres em IA <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Learn more about the community [here](https://brasileiraspln.com) <br>
+   &ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/9f760ac0-7b1b-48a5-b3a5-98316f6b8eec" height="18cm" width="18"> <b>BPLN</b> <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Brasileiras em PLN (Processamento de Linguagem Natural) <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Learn more about the community [here](https://www.instagram.com/mulheres.em.ia/).
+
 
 
 
@@ -92,15 +96,23 @@ My work primarily involves Python programming in the field of machine learning a
   <tbody>
     <tr valign="middle">
       <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
-        <img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30cm" width="">
+        <img align="top" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30cm" width="">
         <div class="image-container">
           <img height="200cm" width="400cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
           <img height="200cm" width="300cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
         </div>
       </td>
-       <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
-         <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""> 
-         <img height="180cm" width="180cm" style="max-width: 200px;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
+    </tr>
+  </tbody>
+</table>
+
+
+<table align="justified" width="500px" style="border: 3px solid transparent;">
+  <tbody>
+    <tr valign="middle">
+     <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+         <img align="top" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""><br> 
+         <img height="150cm" width="150cm" style="max-width: 200px;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
       </td>
     </tr>
   </tbody>
