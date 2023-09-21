@@ -91,14 +91,15 @@ My work primarily involves Python programming in the field of machine learning a
 </div>-->
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
-<!-- ANOTHER STATS --> 
+<!-- ANOTHER STATS -->
+<!-- PROGILE STATS --> 
 <div>
 <center>
 <table align="center" width="1000px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
   <tbody>
     <tr valign="middle">
       <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
-        <img align="justify" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30cm" width="">
+        &ensp;&ensp;<img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30cm" width="">
         <div class="image-container">
           <img height="200cm" width="400cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
           <img height="200cm" width="300cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
@@ -108,19 +109,22 @@ My work primarily involves Python programming in the field of machine learning a
   </tbody>
 </table>
 </div>
+   <!-- CERTIFICATIONS --> 
 <div>
 <table align="center" width="250px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
   <tbody>
     <tr valign="middle">
      <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
-         <img align="justify" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""><br> 
-         <img height="150cm" width="150cm" style="max-width: 200px;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
+         &ensp;&ensp;&ensp;&ensp;<img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""> <br>Microsoft AI-900<br> 
+         <img height="135cm" width="125cm" style="max-width: 125cm"; src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
       </td>
     </tr>
   </tbody>
 </table>
 </center>
-</div>   
+</div>
+
+   
 <br>
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
@@ -184,7 +188,11 @@ My work primarily involves Python programming in the field of machine learning a
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Anaconda<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-      </td>    
+      </td>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Stack Overflow<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/de2f6c4c-eef0-4451-83c0-fe67ae8fab52">
+      </td>   
      </tr>
   </tbody>
 </table>
@@ -205,11 +213,11 @@ My work primarily involves Python programming in the field of machine learning a
      </td> 
        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Django<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
       </td>
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
            Flask<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"> 
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5f8e94e3-b073-4fe3-9822-d2b47e8e2590"> 
       </td>
     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Java<br>
@@ -230,32 +238,45 @@ My work primarily involves Python programming in the field of machine learning a
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Grafana<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-      </td>  
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        AWS<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
+      </td>   
     </tr>
   </tbody>
 </table>
 </div>
 <br><br><br><br><br>
 
+<div>
 <!-- HOBBIES-->    
-<img  src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br><br>
 </div> 
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
   <tbody> 
     <tr> 
        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Google Books<br>
+      <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3b80e1b6-2435-4efd-b27f-31ad5057387d"> 
+     </td>  
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Photoshop<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
      </td>
        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Canva<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/eac86cac-b570-4a25-83f0-2c63de6f3d8a">
       </td>
      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Markdown<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"> 
-     </td>  
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6aceccee-e3ef-41c3-a6a2-aabe00db5f6b"> 
+     </td>
+     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Openshot<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2b885cd-ea5c-40cb-85c8-bd23f424a33d"> 
+     </td>
     </tr> 
   </tbody>
 </table>
