@@ -59,15 +59,23 @@ My work primarily involves Python programming in the field of machine learning a
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- INTERESTED IN -->
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br>**Artificial intelligence  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Machine Learning <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing)  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Data Science <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  SQL <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic** <br><br>
+<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br>**Artificial intelligence  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Machine Learning <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing)  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Data Science <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  MLOps <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic** <br><br>
 
 <!-- PRONOMES E FUN FACT -->
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15">  **My Pronouns:** She/Her <br>
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15">  **Funfact:** I love games, horror and sci-fi movies and detective fiction books. <br>
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15"> Check my Github Status 👇
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15">  **My Pronouns**: She/Her <br>
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15">  **Funfact**: I'm a fan of horror films and books, as well as detective and investigative fictions<br>
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15">  **Communities I am a part of**: <br>
+&ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/9f760ac0-7b1b-48a5-b3a5-98316f6b8eec" height="18cm" width="18"> <b>MIA</b>  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Mulheres em IA <br>
+&ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/9f760ac0-7b1b-48a5-b3a5-98316f6b8eec" height="18cm" width="18"> <b>BPLN</b>  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> Brasileiras em PLN (Processamento ed Linguagem Natural)<br>
+
+
+
+
+
 
 <!-- ANOTHER STATS -->          
 <!--<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="15cm" width="15"> Check my Github Status 👇
    <table align="center" width="1200px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
@@ -90,10 +98,15 @@ My work primarily involves Python programming in the field of machine learning a
   <tbody>
     <tr valign="middle">
       <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+        <img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30cm" width="">
         <div class="image-container">
           <img height="200cm" width="400cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
           <img height="200cm" width="300cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
         </div>
+      </td>
+       <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+         <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""> 
+         <img height="180cm" width="180cm" style="max-width: 200px;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
       </td>
     </tr>
   </tbody>
@@ -153,10 +166,6 @@ My work primarily involves Python programming in the field of machine learning a
     </tr>
      <tr> 
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Grafana<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Numpy<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
       </td> 
@@ -183,17 +192,21 @@ My work primarily involves Python programming in the field of machine learning a
   <tbody> 
     <tr>
     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        <strong>Django</strong><br>
+        Tensorflow<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
+     </td> 
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Django<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-      </td>  
-   <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
            Flask<br>
            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"> 
       </td>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Tensorflow<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
-     </td>
+    <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Java<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      </td>   
     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         SQL<br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -205,12 +218,16 @@ My work primarily involves Python programming in the field of machine learning a
      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Kubernetes<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
-     </td>   
+     </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Grafana<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+      </td>  
     </tr>
   </tbody>
-</table> 
+</table>
+</div>
 <br><br><br><br><br>
-
 
 <!-- HOBBIES-->    
 <img  src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br>
