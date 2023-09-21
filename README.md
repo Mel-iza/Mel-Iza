@@ -91,12 +91,14 @@ My work primarily involves Python programming in the field of machine learning a
 </div>-->
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
-<!-- ANOTHER STATS -->   
-<table align="left" width="1000px" style="border: 3px solid transparent;">
+<!-- ANOTHER STATS --> 
+<div>
+<center>
+<table align="center" width="1000px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
   <tbody>
     <tr valign="middle">
       <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
-        <img align="top" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30cm" width="">
+        <img align="justify" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30cm" width="">
         <div class="image-container">
           <img height="200cm" width="400cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
           <img height="200cm" width="300cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
@@ -105,20 +107,20 @@ My work primarily involves Python programming in the field of machine learning a
     </tr>
   </tbody>
 </table>
-
-
-<table align="justified" width="500px" style="border: 3px solid transparent;">
+</div>
+<div>
+<table align="center" width="250px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
   <tbody>
     <tr valign="middle">
      <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
-         <img align="top" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""><br> 
+         <img align="justify" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""><br> 
          <img height="150cm" width="150cm" style="max-width: 200px;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
       </td>
     </tr>
   </tbody>
 </table>
-
-   
+</center>
+</div>   
 <br>
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
