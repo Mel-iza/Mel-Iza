@@ -211,6 +211,7 @@ My work primarily involves Python programming in the field of machine learning a
 </table> 
 <br><br><br><br><br>
 
+
 <!-- HOBBIES-->    
 <img  src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br>
 </div> 
