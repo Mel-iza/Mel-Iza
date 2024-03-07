@@ -49,7 +49,7 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
 <div>
 <img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829098-406be351-7869-4be7-94fe-73f2ab76bf50.png" height="40px"><br>
 I am a persevering and creative person open to new experiences, ideas, projects, who loves to think about problems, abstractions and hypotheses.
-I currently work as a Junior Machine Learning Engineer at Weni, where I evaluate, monitor, and integrate artificial intelligence models using Natural Language Processing (NLP) techniques to enhance communication for intelligent agents (Chatbots) within the product domain. 
+I currently work as a Junior Machine Learning Engineer at Weni, where I evaluate, monitor, and integrate artificial intelligence models using Natural Language Processing (NLP) techniques to enhance communication for intelligent agents (Chatbots) within the Technology and Innovation domain. 
    
 I also have experience as a tutor for Data Science and Machine Learning projects at Tera, where I assisted in structuring student support workflows and addressing course project-related inquiries. I also served as a learning facilitator for the classes. I am a technology student pursuing a degree in Analysis and Systems Development at FATEC and hold a Bachelor's degree in Philosophy from UFOP.
 
