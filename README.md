@@ -26,22 +26,25 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
 </table>
 </div>
 -->
-<table align="center" style="border-collapse: collapse; border-spacing: 0; border: none;">
-   <tbody>
-     <tr valign="middle" style="background-color: transparent;">
-       <td class="table-cell" style="padding: 0;">
-          <div class="image-container" style="display: inline-block; margin-right: 10px;">
-            <img height="200px" width="720px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
+<div style="width: 100%; overflow-x: auto;">
+  <table align="center" style="border-collapse: collapse; border-spacing: 0; border: none;">
+    <tbody>
+      <tr valign="middle" style="background-color: transparent;">
+        <td class="table-cell" style="padding: 0;">
+          <div class="image-container" style="display: inline-block; margin-right: 10px; overflow: hidden;">
+            <img height="200px" width="720px" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
           </div>
-       </td>
-       <td class="table-cell" style="padding: 0;">
-          <div class="image-container" style="display: inline-block;">
-            <img height="200px" width="350px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+        </td>
+        <td class="table-cell" style="padding: 0;">
+          <div class="image-container" style="display: inline-block; overflow: hidden;">
+            <img height="200px" width="350px" style="max-width: 350px; width: 350px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
           </div>
-       </td>
-     </tr>
-  </tbody>
-</table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 
 
@@ -92,29 +95,30 @@ My work primarily involves Python programming in the field of machine learning a
 
 <!-- ANOTHER STATS -->
 <!-- PROGILE STATS --> 
-<div>
-<center>
-<table align="center" width="1000px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
-  <tbody>
-    <tr valign="middle">
-      <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
-        &ensp;&ensp;<img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30cm" width="">
-        <div class="image-container">
-          <img height="200cm" width="400cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
-          <img height="200cm" width="300cm" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="width: 100%; overflow-x: auto;">
+  <table align="center" width="1000px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
+    <tbody>
+      <tr valign="middle">
+        <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+          &ensp;&ensp;<img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5" height="30" width="">
+          <div class="image-container" style="overflow: hidden;">
+            <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
+            <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
    <!-- CERTIFICATIONS --> 
 <div>
 <table align="center" width="250px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
   <tbody>
     <tr valign="middle">
      <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
-         &ensp;&ensp;&ensp;&ensp;<img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""> <br>Microsoft AI-900<br> 
+         &ensp;&ensp;&ensp;&ensp;<img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""> 
+        <br>Microsoft AI-900<br> 
          <img height="135cm" width="125cm" style="max-width: 125cm"; src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
       </td>
     </tr>
@@ -305,6 +309,7 @@ My work primarily involves Python programming in the field of machine learning a
 
 <div align="center">
 
+© 2024 
 </div>
 
 
