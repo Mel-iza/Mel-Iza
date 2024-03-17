@@ -27,7 +27,7 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
 </div>
 -->
 <div style="width: 100%; overflow-x: auto;">
-  <table align="center" style="border-collapse: collapse; border-spacing: 0; border: none;">
+  <table  align="center" style="border-collapse: collapse; border-spacing: 0; border: none;">
     <tbody>
       <tr valign="middle" style="background-color: transparent;">
         <td class="table-cell" style="padding: 0;">
@@ -44,7 +44,6 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
     </tbody>
   </table>
 </div>
-
 
 
 
@@ -94,9 +93,9 @@ My work primarily involves Python programming in the field of machine learning a
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- ANOTHER STATS -->
-<!-- PROGILE STATS --> 
+<!-- PROGILE STATS 
 <div style="width: 100%; overflow-x: auto;">
-  <table align="center" width="1000px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
+  <table align="center" width="1000px" style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
     <tbody>
       <tr valign="middle">
         <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
@@ -110,23 +109,73 @@ My work primarily involves Python programming in the field of machine learning a
     </tbody>
   </table>
 </div>
+--> 
+<!-- TO MEXENDO AQUIII --> 
+<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
+    <img height="39" width="" style="margin: auto; display: block;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a4a95240-88d4-4990-bc0b-c146ffef24c5">
+</div>
+<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
+   <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&theme=vue&rank_icon=github">
+   <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=vue">
+</div>
 
-   <!-- CERTIFICATIONS --> 
+
+
+
+
+<div align="center" style="width:100%; overflow-x: auto;">
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&row=2&no-frame=true&theme=flat&rank=-?"> <br>
+</div>
+
+<!--
+<div style="width: 100%; overflow-x: auto;">
+  <table align="center" width="1000px" style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0; border-color: transparent;">
+    <tbody>
+      <tr valign="middle">
+        <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none; padding: 0; border-color: transparent;">
+          <div class="image-container" style="overflow: hidden;">
+            <img height="200cm" width="300cm" style="max-width: 700px; width: 700px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&row=2&no-frame=true&theme=flat&rank=-?">   
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+-->
+<!--
+<div align="center" style="width:100%; overflow-x: auto;">
+   <img height="" width="" style="max-width: ; width: ; height: ;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mel-iza&theme=vue">
+   <img height="" width="" style="max-width: ; width:; height: ;" src="https://streak-stats.demolab.com?user=DenverCoder1&show_icons=true&theme=vue&row=2&no-frame=true">  
+</div>
+
+
+<img height="200cm" width="350cm" style="max-width: 350px; width: 180px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mel-iza&theme=vue">
+<img height="200cm" width="350cm" style="max-width: 350px; width: 180px; height: 200px;" src="https://streak-stats.demolab.com?user=DenverCoder1&show_icons=true&theme=vue&row=2&no-frame=true">  
+
+-->
+
+<!-- TEST HERE --> 
+
+
+   <!-- CERTIFICATIONS 
 <div>
 <table align="center" width="250px" style="border-collapse: collapse; padding: 8px; cellspacing: 0; cellpadding: 0; background-color: transparent;">
   <tbody>
     <tr valign="middle">
-     <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+        </td>
+        <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
+           <img height="200cm" width="300cm" style="max-width: 400px; width: 400px; height: 200px;" src="https://streak-stats.demolab.com?user=DenverCoder1&show_icons=true&theme=vue&row=2&no-frame=true">  
+       </td>
+       <td class="table-cell" width="80%" align="center" style="background-color: transparent; border-spacing: 0; border: none;">
          &ensp;&ensp;&ensp;&ensp;<img align="center" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""> 
         <br>Microsoft AI-900<br> 
-         <img height="135cm" width="125cm" style="max-width: 125cm"; src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
-      </td>
+         <img height="135cm" width="125cm" style="max-width: 300cm"; src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ecbc358e-f08d-4dd2-9a6b-ac52d838d0a9"> 
     </tr>
   </tbody>
 </table>
 </center>
 </div>
-
+--> 
    
 <br>
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
@@ -257,26 +306,26 @@ My work primarily involves Python programming in the field of machine learning a
 <img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br><br>
 </div> 
 <div style="display: flex;">
-<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
+<table valign="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
   <tbody> 
     <tr> 
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+       <td width="300px" valign="center" style="border: 1px solid transparent; padding: 8px;">
         Google Books<br>
       <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3b80e1b6-2435-4efd-b27f-31ad5057387d"> 
      </td>  
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+       <td width="100px" valign="center" style="border: 1px solid transparent; padding: 8px;">
         Photoshop<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
      </td>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+       <td width="100px" valign="center" style="border: 1px solid transparent; padding: 8px;">
         Canva<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/eac86cac-b570-4a25-83f0-2c63de6f3d8a">
       </td>
-     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+     <td width="100px" valign="center" style="border: 1px solid transparent; padding: 8px;">
         Markdown<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6aceccee-e3ef-41c3-a6a2-aabe00db5f6b"> 
      </td>
-     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+     <td width="100px" valign="center" style="border: 1px solid transparent; padding: 8px;">
         Openshot<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2b885cd-ea5c-40cb-85c8-bd23f424a33d"> 
      </td>
@@ -285,6 +334,7 @@ My work primarily involves Python programming in the field of machine learning a
 </table>
 </body>
 </div>
+
 </html>
 
 
@@ -301,8 +351,9 @@ My work primarily involves Python programming in the field of machine learning a
 </div>
 <br>
 <!-- ROBOZINHO E PROFILE VIEWS -->
+<img align="right" height="" width="" style="max-width:450px ; width:450px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
 
-   <div align="center"> 
+<div align="center"> 
 <img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
 <img src="https://komarev.com/ghpvc/?username=Mel-iza&color=86ccb6&style=for-the-badge" height="" width="">
 </div>
@@ -312,8 +363,73 @@ My work primarily involves Python programming in the field of machine learning a
 © 2024 
 </div>
 
+<!--
+  <table align="center"  style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
+  <tr>
+    <td style="vertical-align: top; width: 350px; style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
+      <br><br>
+      <a href="https://www.linkedin.com/in/mel-5664a1bb/">
+        <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto">
+      </a>
+      <a href="@Mel-Iza">
+        <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%">
+      </a>
+      <br>
+      <a href="mailto:meliza.caug@gmail.com">
+        <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto">
+      </a>
+      <a href="https://medium.com/@meliza-caug">
+        <img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">
+      </a>
+      <br>
+      <a href="mailto:mel.augusto@fatec.sp.gov.br">
+        <img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto">
+      </a>
+      <a href="mailto:mel.augusto@weni.ai">
+        <img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto">
+      </a>
+        <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
+    </td>
+    <td style="vertical-align: top; width: 350px; style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
+    </td>
+  </tr>
+</table>
+-->
 
-   
+<div style="width: 100%; overflow-x: auto;">
+  <table align="center" width="1000px" style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
+    <tbody>
+      <tr valign="middle">
+        <td class="table-cell" width="0%" align="center" style="background-color: transparent; border-spacing: 0; border: none; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
+          <!-- &ensp;&ensp;&ensp;&ensp;<img align="left" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""> -->
+          <div class="image-container" style="overflow: hidden;"><br>
+             <a href="https://www.linkedin.com/in/mel-5664a1bb/">
+                 <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto">
+               </a>
+               <a href="@Mel-Iza">
+                 <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%">
+               </a>
+               <a href="mailto:meliza.caug@gmail.com">
+                 <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto">
+               </a>
+               <a href="https://medium.com/@meliza-caug">
+                 <img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">
+               </a>
+               <br>
+               <a href="mailto:mel.augusto@fatec.sp.gov.br">
+                 <img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto">
+               </a>
+               <a href="mailto:mel.augusto@weni.ai">
+                 <img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto">
+               </a>
+              <!--<img height="" width="" style="max-width:347px  ; width:347px ; height:135px ;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mel-iza&theme=vue">-->
+             <img height="" width="" style="max-width:450px ; width:450px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">  
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <!-- -->
 <!--
