@@ -363,40 +363,6 @@ My work primarily involves Python programming in the field of machine learning a
 </div>
 
 
-<table style="width: 700px;">
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/27633edf-e1fb-4069-9c69-87f3058b9388" height="35px">
-      <br>
-      <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d" height="40px">
-      <br><br>
-      <a href="https://www.linkedin.com/in/mel-5664a1bb/">
-        <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" style="width: 15%; height: auto;">
-      </a>
-      <a href="@Mel-Iza">
-        <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" style="width: 15%; height: auto;">
-      </a>
-      <br>
-      <a href="mailto:meliza.caug@gmail.com">
-        <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" style="width: 15%; height: auto;">
-      </a>
-      <a href="https://medium.com/@meliza-caug">
-        <img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" style="width: 15%; height: auto;">
-      </a>
-      <br>
-      <a href="mailto:mel.augusto@fatec.sp.gov.br">
-        <img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" style="width: 15%; height: auto;">
-      </a>
-      <a href="mailto:mel.augusto@weni.ai">
-        <img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" style="width: 15%; height: auto;">
-      </a>
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <img align="right" style="max-width: 700px; width: 100%; height: auto;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
-    </td>
-  </tr>
-</table>
-
 
 <!--
   <table align="center"  style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
