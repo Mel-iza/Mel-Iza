@@ -309,7 +309,7 @@ My work primarily involves Python programming in the field of machine learning a
 <table valign="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
   <tbody> 
     <tr> 
-       <td width="300px" valign="center" style="border: 1px solid transparent; padding: 8px;">
+       <td width="32px" valign="center" style="border: 1px solid transparent; padding: 8px;">
         Google Books<br>
       <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3b80e1b6-2435-4efd-b27f-31ad5057387d"> 
      </td>  
@@ -343,25 +343,60 @@ My work primarily involves Python programming in the field of machine learning a
 
 <!-- CARDS DE CONTATO -->
 <div align="center">
-<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/27633edf-e1fb-4069-9c69-87f3058b9388" height="35px">
-<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d" height="40px"><br><br>
-
-<a href="https://www.linkedin.com/in/mel-5664a1bb/">
+<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/27633edf-e1fb-4069-9c69-87f3058b9388" height="30px">
+<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d" height="40px"><br><br><a href="https://www.linkedin.com/in/mel-5664a1bb/">
 <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto" ><a href="@Mel-Iza"> <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%"> <br> <a href="mailto:meliza.caug@gmail.com"> <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto" > <a href="https://medium.com/@meliza-caug"><img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">  <br> <a href="mailto:mel.augusto@fatec.sp.gov.br"><img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto" > <a href="mailto:mel.augusto@weni.ai"><img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto" > 
+<br><img align="center" height="" width="" style="max-width:319px ; width:319px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
 </div>
 <br>
 <!-- ROBOZINHO E PROFILE VIEWS -->
-<img align="right" height="" width="" style="max-width:450px ; width:450px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
+
 
 <div align="center"> 
-<img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
+<br><img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
 <img src="https://komarev.com/ghpvc/?username=Mel-iza&color=86ccb6&style=for-the-badge" height="" width="">
 </div>
 
 <div align="center">
 
-© 2024 
+
 </div>
+
+
+<table style="width: 700px;">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/27633edf-e1fb-4069-9c69-87f3058b9388" height="35px">
+      <br>
+      <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d" height="40px">
+      <br><br>
+      <a href="https://www.linkedin.com/in/mel-5664a1bb/">
+        <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" style="width: 15%; height: auto;">
+      </a>
+      <a href="@Mel-Iza">
+        <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" style="width: 15%; height: auto;">
+      </a>
+      <br>
+      <a href="mailto:meliza.caug@gmail.com">
+        <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" style="width: 15%; height: auto;">
+      </a>
+      <a href="https://medium.com/@meliza-caug">
+        <img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" style="width: 15%; height: auto;">
+      </a>
+      <br>
+      <a href="mailto:mel.augusto@fatec.sp.gov.br">
+        <img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" style="width: 15%; height: auto;">
+      </a>
+      <a href="mailto:mel.augusto@weni.ai">
+        <img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" style="width: 15%; height: auto;">
+      </a>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <img align="right" style="max-width: 700px; width: 100%; height: auto;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
+    </td>
+  </tr>
+</table>
+
 
 <!--
   <table align="center"  style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
@@ -396,40 +431,7 @@ My work primarily involves Python programming in the field of machine learning a
 </table>
 -->
 
-<div style="width: 100%; overflow-x: auto;">
-  <table align="center" width="1000px" style="border-collapse: collapse; padding: 0; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
-    <tbody>
-      <tr valign="middle">
-        <td class="table-cell" width="0%" align="center" style="background-color: transparent; border-spacing: 0; border: none; cellspacing: 0; cellpadding: 0; background-color: transparent; margin: 0;">
-          <!-- &ensp;&ensp;&ensp;&ensp;<img align="left" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/cad62be4-1547-4986-ac0b-088e30b1aaf2" height="27cm" width=""> -->
-          <div class="image-container" style="overflow: hidden;"><br>
-             <a href="https://www.linkedin.com/in/mel-5664a1bb/">
-                 <img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto">
-               </a>
-               <a href="@Mel-Iza">
-                 <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%">
-               </a>
-               <a href="mailto:meliza.caug@gmail.com">
-                 <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto">
-               </a>
-               <a href="https://medium.com/@meliza-caug">
-                 <img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">
-               </a>
-               <br>
-               <a href="mailto:mel.augusto@fatec.sp.gov.br">
-                 <img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto">
-               </a>
-               <a href="mailto:mel.augusto@weni.ai">
-                 <img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto">
-               </a>
-              <!--<img height="" width="" style="max-width:347px  ; width:347px ; height:135px ;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mel-iza&theme=vue">-->
-             <img height="" width="" style="max-width:450px ; width:450px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">  
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+
 
 <!-- -->
 <!--
