@@ -343,23 +343,85 @@ My work primarily involves Python programming in the field of machine learning a
 
 <!-- CARDS DE CONTATO -->
 <div align="center">
-<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/27633edf-e1fb-4069-9c69-87f3058b9388" height="30px">
-<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d" height="40px"><br><br><a href="https://www.linkedin.com/in/mel-5664a1bb/">
-<img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto" ><a href="@Mel-Iza"> <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%"> <br> <a href="mailto:meliza.caug@gmail.com"> <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto" > <a href="https://medium.com/@meliza-caug"><img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">  <br> <a href="mailto:mel.augusto@fatec.sp.gov.br"><img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto" > <a href="mailto:mel.augusto@weni.ai"><img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto" > 
-<br><img align="center" height="" width="" style="max-width:319px ; width:319px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
+<!-- <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/27633edf-e1fb-4069-9c69-87f3058b9388" height="30px"> -->
+<!--<a href="https://www.linkedin.com/in/mel-5664a1bb/">
+<img src="https://user-images.githubusercontent.com/72058182/196839651-3ba16a98-856d-44c6-b8d4-9e44b0c3e5e3.png" width="15%" height="auto" ><a href="@Mel-Iza"> <img src="https://user-images.githubusercontent.com/72058182/197365677-9cf68660-52ba-4fa5-8e70-31e00a90c289.png" height="auto" width="15%"> <br> <a href="mailto:meliza.caug@gmail.com"> <img src="https://user-images.githubusercontent.com/72058182/196839861-bb413d6d-5870-42fa-a863-915e253c3f23.png" width="15%" height="auto" > <a href="https://medium.com/@meliza-caug"><img src="https://user-images.githubusercontent.com/72058182/196858399-906338f6-f506-4056-95dc-7671df3ca4dd.png" height="auto" width="15%">  <br> <a href="mailto:mel.augusto@fatec.sp.gov.br"><img src="https://user-images.githubusercontent.com/72058182/196839876-1b15a1d2-9a46-4e27-ad09-73f49c6cf458.png" width="15%" height="auto" > <a href="mailto:mel.augusto@weni.ai"><img src="https://user-images.githubusercontent.com/72058182/196840803-3e613295-905e-4f87-9034-7f7be0de07ed.png" width="15%" height="auto" > -->
+<!-- <br><img align="center" height="" width="" style="max-width:350px ; width:350px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560"> -->
+<!--
+<br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d" height="30px">
+<br><img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-GITHUB-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=@Mel-Iza">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-EMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Ameliza.caug%40gmail.com">
+<br>
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MEDIUM-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https://medium.com/@meliza-caug">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-HOTMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-SLACK-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
 </div>
 <br>
-<!-- ROBOZINHO E PROFILE VIEWS -->
+-->
 
+<!-- TESTANDO AQUIIIIIIIII -->
+<table align="center" style="width: 100%;">
+  <tr>
+    <td style="vertical-align: middle; text-align: center;">
+     <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br> -->
+       <div align="center">
+           🌼<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">🌼 <br>
+         <span style="display: block; text-align: center; font-size: 10px;">-----------------------------------</span>
+      </div>
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-GITHUB-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=@Mel-Iza">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-EMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Ameliza.caug%40gmail.com">
+    <br>
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MEDIUM-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https://medium.com/@meliza-caug">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-HOTMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-SLACK-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+    </td>
+    <td style="vertical-align: top;">
+      <img align="center" height="" width="" style="max-width:350px ; width:350px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
+    </td>
+  </tr>
+</table>
+
+<!--
+<div align="center" style="width: 100%;">
+  <div style="float: left; text-align: center;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">
+    <br><img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-GITHUB-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=@Mel-Iza">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-EMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Ameliza.caug%40gmail.com">
+    <br>
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MEDIUM-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https://medium.com/@meliza-caug">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-HOTMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-SLACK-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+  </div>
+  <div style="float: left; text-align: center;">
+    <img align="center" height="135px" width="350px" style="max-width:350px; height:135px;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
+  </div>
+</div>
+-->
+
+
+
+
+<!-- ROBOZINHO E PROFILE VIEWS 
+<img src="https://img.shields.io/badge/build--%238dd8c0?style=plastic&label=%F0%9F%8C%BC%20PROFILE%20VIEWS&labelColor=5fa790&color=%2371af9b&link=https://komarev.com/ghpvc/?username=Mel-iza" height="80px" width="">-->
 
 <div align="center"> 
-<br><img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
-<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=86ccb6&style=for-the-badge" height="" width="">
+<img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
+<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=flat&label=⭐+Profile+Views+_+" height="20%" width="20%">
 </div>
 
 <div align="center">
 
-
+<!--
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-GITHUB-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=@Mel-Iza">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-EMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Ameliza.caug%40gmail.com">
+<br>
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MEDIUM-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https://medium.com/@meliza-caug">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-HOTMAIL-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
+<img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-SLACK-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
 </div>
 
 
