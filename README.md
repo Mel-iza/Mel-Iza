@@ -306,26 +306,26 @@ My work primarily involves Python programming in the field of machine learning a
 <img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br><br>
 </div> 
 <div style="display: flex;">
-<table valign="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
+<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
   <tbody> 
     <tr> 
-       <td width="32px" valign="center" style="border: 1px solid transparent; padding: 8px;">
-        Google Books<br>
-      <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3b80e1b6-2435-4efd-b27f-31ad5057387d"> 
-     </td>  
-       <td width="100px" valign="center" style="border: 1px solid transparent; padding: 8px;">
-        Photoshop<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
-     </td>
-       <td width="100px" valign="center" style="border: 1px solid transparent; padding: 8px;">
-        Canva<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/eac86cac-b570-4a25-83f0-2c63de6f3d8a">
-      </td>
-     <td width="100px" valign="center" style="border: 1px solid transparent; padding: 8px;">
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Markdown<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6aceccee-e3ef-41c3-a6a2-aabe00db5f6b"> 
      </td>
-     <td width="100px" valign="center" style="border: 1px solid transparent; padding: 8px;">
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Photoshop<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
+     </td>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Canva<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/eac86cac-b570-4a25-83f0-2c63de6f3d8a">
+      </td>
+     <td width="100px align="center" style="border: 1px solid transparent; padding: 8px;">
+        Books<br>
+      <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3b80e1b6-2435-4efd-b27f-31ad5057387d"> 
+     </td>  
+     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Openshot<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2b885cd-ea5c-40cb-85c8-bd23f424a33d"> 
      </td>
@@ -366,8 +366,8 @@ My work primarily involves Python programming in the field of machine learning a
     <td style="vertical-align: middle; text-align: center;">
      <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br> -->
        <div align="center">
-           🌼<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">🌼 <br>
-         <span style="display: block; text-align: center; font-size: 10px;">-----------------------------------</span>
+           🌼<img height="30px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">🌼 <br>
+         <span style="display: block; text-align: center; font-size: 10px;">---------------------------------------</span>
       </div>
     <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
     <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-GITHUB-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=@Mel-Iza">
@@ -380,8 +380,13 @@ My work primarily involves Python programming in the field of machine learning a
     <td style="vertical-align: top;">
       <img align="center" height="" width="" style="max-width:350px ; width:350px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
     </td>
+     <td style="vertical-align: top;">
+    </td>
   </tr>
 </table>
+
+
+
 
 <!--
 <div align="center" style="width: 100%;">
