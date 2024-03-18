@@ -370,13 +370,10 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 <img align="center" height="" width="" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-SLACK-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=mailto%3Amel.augusto%40fatec.sp.gov.br">
 </div>
 <br>
+   <div align="center" style="width: 100%;">
+ </div> 
 -->
-<div align="center" style="width: 100%;">
-   
- </div>     
- <div align="center" style="width: 100%;">
-   <img align="center" height="" width="" style="display: block; margin-left: auto; margin-right: auto; max-width:400px; width:400px; height:;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D">
- </div>  
+ 
 <!-- TESTANDO AQUIIIIIIIII -->
 <!--<table align="center" style="width: 100%;"> style="display: block; margin-left: auto; margin-right: auto;
   <tr>
@@ -421,7 +418,9 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 </div>
 -->
 
-
+<div align="center" style="width: 100%;">
+   <img align="center" height="" width="" style="display: block; margin-left: auto; margin-right: auto; max-width:400px; width:400px; height:;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D">
+ </div>  
 
 
 <!-- ROBOZINHO E PROFILE VIEWS 
