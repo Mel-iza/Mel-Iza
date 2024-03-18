@@ -52,8 +52,8 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
 <!-- PRIMEIROS 2 CARDS-->   
 <div style="width: 100%; overflow-x: auto; text-align: center;">
   <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;">
-    <br><img height="200px" width="570px" style="max-width: 625px; width: 625px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
-  <img height="200px" width="230px" style="max-width: 300px; width: 300px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+    <br><img height="200px" width="570px" style="max-width: 570px; width: 570px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
+  <img height="200px" width="230px" style="max-width: 280px; width: 280px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
   </div>
 
 
@@ -65,13 +65,13 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
-Hello, I'm Mel <b>(She/Her)</b>. Welcome! Currently, I work as a <b>Machine Learning Engineer</b> in the Technology and Innovation domain at [Weni](https://weni.ai), where I integrate, train, evaluate, and monitor artificial intelligence models using Natural Language Processing (NLP) techniques in LLMs. <br>
+Hello, I'm Mel <b>(She/Her)</b>. Welcome! Currently, I work as a <b>Machine Learning Engineer</b> in the Technology and Innovation domain at [Weni](https://weni.ai), where I integrate, train, evaluate, and monitor artificial intelligence models using Natural Language Processing (NLP) techniques with a focus on LLMs. <br>
 <br>My work mainly involves Python programming applied in machine learning and deep learning, focusing on Natural Language Generation (NLG) and Natural Language Understanding (NLU). My experience includes enhancing the communication of intelligent agents (Chatbots). Tasks that are usually part of my routine include: creating experiments for models, searching and tuning hyperparameters for training, performance evaluation, verifying inference and latency in model responses, artifact manipulation, model quantization, and researching/reading articles to stay updated in the field. The skills I'm learning vary according to each model development phase: creating APIs, Docker image builds, code versioning and structuring, using machine learning frameworks like PyTorch, and documenting processes.
 
 I have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at [Tera](https://somostera.com). I assisted students in structuring workflows in classes and project creation, as well as providing support. I am a technology student, currently studying Systems Analysis and Development at FATEC, and a bachelor's degree holder in Philosophy from UFOP.
 
 <img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> 
-<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e8e0dc8-29e5-43f0-88b2-6db4d6ff3ab9" height="14cm" width=""> <i>I'm a fan of horror movies and books, as well as detective and investigative fiction. I love playing games, and one of my favorite genres is RPG. My all-time favorite games are Stardew Valley, Baldur's Gate, Animal Crossing, and Monster Hunter.</i> <br>
+<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e8e0dc8-29e5-43f0-88b2-6db4d6ff3ab9" height="13cm" width=""> <i>I'm a fan of horror movies and books, as well as detective and investigative fiction. I love playing games, and one of my favorite genres is RPG. My all-time favorite games are Stardew Valley, Baldur's Gate, Animal Crossing, and Monster Hunter.</i> <br>
             </span>
       </div>
 
@@ -91,10 +91,8 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
     <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LOGIC-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
 <br>
 <!-- PRONOMES E FUN FACT -->
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="14">  I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community (<b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b> and Brazilian Women in Text Processing (<b>[BPLN- Brasileiras em PLN](https://brasileiraspln.com)</b>). These are incredible communities that have many initiatives and contributions for women, whether beginners or not, in the field. Check them out for more information!
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="14">  I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community (<span style="color: #539782;"><b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b></span> and Brazilian Women in Text Processing (<span style="color: #539782;"><b>[BPLN- Brasileiras em PLN](https://brasileiraspln.com)</b></span>). These are incredible communities that have many initiatives and contributions for women, whether beginners or not. Check them out for more information!🌼 
 <br>
-
-
 
 <!-- ANOTHER STATS -->          
 <!--<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
@@ -421,16 +419,24 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 
 <!-- ROBOZINHO E PROFILE VIEWS 
 <img src="https://img.shields.io/badge/build--%238dd8c0?style=plastic&label=%F0%9F%8C%BC%20PROFILE%20VIEWS&labelColor=5fa790&color=%2371af9b&link=https://komarev.com/ghpvc/?username=Mel-iza" height="80px" width="">-->
-
-<div align="center"> 
-<img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
-<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=plastic&label=⭐+Profile+Views+_+" height="18%" width="18%">
-  <a href="https://www.linkedin.com/in/mel-5664a1bb/">
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2af2cb3-d2ae-4e8e-a755-405362cb3a21" height="24px" width="">
+<div align="center" style="width: 100%;">
+  <div style="float: left; text-align: center;">
+     <br><img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">
+<a href="https://www.linkedin.com/in/mel-5664a1bb/">
+    <br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5b2236e2-cf14-467d-bcb6-3c69d2c6911c" height="28px" width="">
 </a>
+<!-- EMAIL -->
 <a href="mailto:meliza.caug@gmail.com">
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/80488dfb-fcde-434a-9ccb-91e85c6f4d521" height="24px" width="">
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ade66fa4-225a-4124-baee-57a452cf62eb" height="28px" width="">
 </a>
+  </div>
+<div align="center"> 
+<!-- OUTRO -->
+<img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
+<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=plastic&label=⭐+Profile+Views+_+" height="20" width="">
+<!-- LINKEDIN -->  
+
+
 
 
 
