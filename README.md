@@ -52,8 +52,8 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
 <!-- PRIMEIROS 2 CARDS-->   
 <div style="width: 100%; overflow-x: auto; text-align: center;">
   <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;">
-    <br><img height="200px" width="670px" style="max-width: 670px; width: 670px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
-  <img height="200px" width="330px" style="max-width: 330px; width: 330px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+    <br><img height="200px" width="570px" style="max-width: 625px; width: 625px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
+  <img height="200px" width="230px" style="max-width: 300px; width: 300px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
   </div>
 
 
@@ -69,6 +69,9 @@ Hello, I'm Mel <b>(She/Her)</b>. Welcome! Currently, I work as a <b>Machine Lear
 <br>My work mainly involves Python programming applied in machine learning and deep learning, focusing on Natural Language Generation (NLG) and Natural Language Understanding (NLU). My experience includes enhancing the communication of intelligent agents (Chatbots). Tasks that are usually part of my routine include: creating experiments for models, searching and tuning hyperparameters for training, performance evaluation, verifying inference and latency in model responses, artifact manipulation, model quantization, and researching/reading articles for updates. The skills I'm learning vary according to each model development phase: creating APIs, Docker image builds, code versioning and structuring, using machine learning frameworks like PyTorch, and documenting processes.
 
 I have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at [Tera](https://somostera.com). I assisted students in structuring workflows in classes and project creation, as well as providing support. I am a technology student, currently studying Systems Analysis and Development at FATEC, and a bachelor's degree holder in Philosophy from UFOP.
+
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> 
+<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e8e0dc8-29e5-43f0-88b2-6db4d6ff3ab9" height="14cm" width=""> <i>I'm a fan of horror movies and books, as well as detective and investigative fiction. I love playing games, and one of my favorite genres is RPG. My all-time favorite games are Stardew Valley, Baldur's Gate, Animal Crossing, and Monster Hunter.</i> <br>
             </span>
       </div>
 
@@ -77,14 +80,19 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- INTERESTED IN -->
-<img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="39px"><br>**Artificial intelligence  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Machine Learning <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing)  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Data Science <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  MLOps <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic** <br>
+<img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="39px"><br>
+<img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ARTIFICIAL_INTELLIGENCE-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MACHINE_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-DEEP_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-STATISTICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LOGIC-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+<br>
 <!-- PRONOMES E FUN FACT -->
-<!-- PRONOMES-->
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/1361c3b6-95e4-478e-b226-ebdc904687fe" height="11cm" width=""> She/Her <br>
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e8e0dc8-29e5-43f0-88b2-6db4d6ff3ab9" height="12cm" width=""> I'm a fan of horror films and books, as well as detective and investigative fictions. <br>
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e669c6ca-0eb2-4131-bc43-dbf832cc6f1d" height="12cm" width=""><br>
-   &ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/bc03efb0-5cf6-43b5-add7-ad52845ad149" height="10cm" width="10"> <b>MIA</b> - Mulheres em IA <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/239889a0-f29d-4d12-8e2f-cff243ff18cb.png" height="12px"> [here](https://www.instagram.com/mulheres.em.ia/) <br>
-   &ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/bc03efb0-5cf6-43b5-add7-ad52845ad149" height="10cm" width="10"> <b>BPLN</b> - Brasileiras em PLN (Processamento de Linguagem Natural) <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/239889a0-f29d-4d12-8e2f-cff243ff18cb.png" height="12px"> [here](https://brasileiraspln.com).
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="14">  I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community (<b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b> and Brazilian Women in Text Processing (<b>[BPLN- Brasileiras em PLN](https://brasileiraspln.com)</b>). These are incredible communities that have many initiatives and contributions for women, whether beginners or not, in the field. Check them out for more information!
+<br>
 
 
 
