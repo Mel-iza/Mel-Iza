@@ -11,11 +11,15 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
    <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
          <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="96%" height="auto"> <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"><br>
+        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="94%" height="auto"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/0e3aa318-dcb5-4460-be28-02bd927fb12d" width="40px height="auto""><br>
   </div>
+
       
+
+
 <!-- PRIMEIROS CARDS -->
 <!--<div align="center">
+GIF DE ESTRELINHA<img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="96%" height="auto"> <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"><br>
 <table align="center" width="1200px" style="border: 5px solid transparent;">
    <tbody>
      <tr valign="middle">
@@ -280,7 +284,7 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 
 
 <!-- I WISH TO LEARN-->    
-<img height="35px" width="195" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning. <br>
+<img height="35px" width="195" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning: <br>
 </div>
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
@@ -334,7 +338,7 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 
 <div>
 <!-- HOBBIES-->    
-<img height="35px" width="180" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br><br>
+<img height="35px" width="180" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity:<br><br>
 </div> 
 <div style="display: flex;">
    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MARKDOWN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b"> 
@@ -368,10 +372,14 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 </div>
 <br>
 -->
- <img align="center" height="" width="" style="max-width:400px ; width:400px; height: ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D">
+<div align="center" style="width: 100%;">
    
+ </div>     
+ <div align="center" style="width: 100%;">
+   <img align="center" height="" width="" style="display: block; margin-left: auto; margin-right: auto; max-width:400px; width:400px; height:;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D">
+ </div>  
 <!-- TESTANDO AQUIIIIIIIII -->
-<!--<table align="center" style="width: 100%;">
+<!--<table align="center" style="width: 100%;"> style="display: block; margin-left: auto; margin-right: auto;
   <tr>
     <td style="vertical-align: middle; text-align: center;">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br>
@@ -435,22 +443,21 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
     <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3e569641-2221-450a-8147-c6b1f3169589" height="28px" width="">
 </a>
 <!-- SLACK -->
-<a href="#">   
+<a href="#" onclick="alert('Mel Iza'); return false;">   
     <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e97318d-1d27-4cdf-ad94-c4ac976a093b" height="28px" width="" onclick="alert('Mel Iza');">
 </a>
 <!-- DISCORD -->
-<a href="#">   
+<a href="#" onclick="alert('mel7514'); return false;">  
     <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2864db5-a3b2-41ed-b197-9c8765149b6b" height="28px" width="" onclick="alert('mel7514');">
 </a>
   </div>
 <div align="center"> 
-<!-- OUTRO -->
-<img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
-<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=plastic&label=⭐+Profile+Views+_+" height="20" width="">
+<!-- OUTRO <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/742134dc-aac0-41fc-a8ce-59e5fb3e37b9" height="105px" width="">-->
+
+<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=plastic&label=⭐+Profile+Views+_+" height="20" width="166">
 <!-- LINKEDIN -->  
-
-
-
+<br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/94bab1cf-9b3c-4fb1-aaed-162b9d5c0224" height="15px" width="";"> 
+<!-- <br><img style="display: block; margin-left: auto; margin-right: auto; " src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/742134dc-aac0-41fc-a8ce-59e5fb3e37b9" height="115px" width="">-->
 
 
 
