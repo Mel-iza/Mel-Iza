@@ -4,13 +4,16 @@
 Fonte utilizada: Arial rounded
 Referências para ícones: https://icons8.com/icons, https://devicon.dev
 -->  
-<center>
-<center>
 
-<img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+<!--### <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="85%" height="auto"><img src="https://user-images.githubusercontent.com/72058182/197407343-4f71131d-9fb7-4de8-b8e0-b5de7f4b7f21.png" width="auto" height="60px">   <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2> -->
 
-### <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="85%" height="auto"><img src="https://user-images.githubusercontent.com/72058182/197407343-4f71131d-9fb7-4de8-b8e0-b5de7f4b7f21.png" width="auto" height="60px">   <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"></h2></h2>
-<br>
+<!-- HELLO WELCOME TO MY GITHUB PROFILE-->
+   <div style="width: 100%; overflow-x: auto; text-align: center;">
+     <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
+         <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="96%" height="auto"> <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="30px"><br>
+  </div>
+      
 <!-- PRIMEIROS CARDS -->
 <!--<div align="center">
 <table align="center" width="1200px" style="border: 5px solid transparent;">
@@ -26,6 +29,7 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
 </table>
 </div>
 -->
+<!--
 <div style="width: 100%; overflow-x: auto;">
   <table  align="center" style="border-collapse: collapse; border-spacing: 0; border: none;">
     <tbody>
@@ -44,31 +48,51 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
     </tbody>
   </table>
 </div>
+-->
+<!-- PRIMEIROS 2 CARDS-->   
+<div style="width: 100%; overflow-x: auto; text-align: center;">
+  <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;">
+    <br><img height="200px" width="570px" style="max-width: 625px; width: 625px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
+  <img height="200px" width="230px" style="max-width: 300px; width: 300px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+  </div>
 
 
 
-
+<!-- ABOUT ME-->
 <div>
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://user-images.githubusercontent.com/72058182/196829098-406be351-7869-4be7-94fe-73f2ab76bf50.png" height="40px"><br>
-I am a persevering and creative person open to new experiences, ideas, projects, who loves to think about problems, abstractions and hypotheses.
-I currently work as a Junior Machine Learning Engineer at Weni, where I evaluate, monitor, and integrate artificial intelligence models using Natural Language Processing (NLP) techniques to enhance communication for intelligent agents (Chatbots) within the Technology and Innovation domain. 
-   
-I also have experience as a tutor for Data Science and Machine Learning projects at Tera, where I assisted in structuring student support workflows and addressing course project-related inquiries. I also served as a learning facilitator for the classes. I am a technology student pursuing a degree in Analysis and Systems Development at FATEC and hold a Bachelor's degree in Philosophy from UFOP.
+<!--<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px">-->
+<img src="https://user-images.githubusercontent.com/72058182/196829098-406be351-7869-4be7-94fe-73f2ab76bf50.png" height="39px"><br>
+<div align="justify">
+   <span style="display: block; text-align: center; font-size: 10px;" 
 
-My work primarily involves Python programming in the field of machine learning and deep learning, with a focus on Natural Language Generation (NLG) and Natural Language Understanding (NLU). I am currently learning about Fast API, Docker, code versioning with Git and Github, Machine Learning frameworks like Pytorch, and the use of classical NLP models and large language models (LLMs).
+Hello, I'm Mel <b>(She/Her)</b>. Welcome! Currently, I work as a <b>Machine Learning Engineer</b> in the Technology and Innovation domain at [Weni](https://weni.ai), where I integrate, train, evaluate, and monitor artificial intelligence models using Natural Language Processing (NLP) techniques in LLMs. <br>
+<br>My work mainly involves Python programming applied in machine learning and deep learning, focusing on Natural Language Generation (NLG) and Natural Language Understanding (NLU). My experience includes enhancing the communication of intelligent agents (Chatbots). Tasks that are usually part of my routine include: creating experiments for models, searching and tuning hyperparameters for training, performance evaluation, verifying inference and latency in model responses, artifact manipulation, model quantization, and researching/reading articles to stay updated in the field. The skills I'm learning vary according to each model development phase: creating APIs, Docker image builds, code versioning and structuring, using machine learning frameworks like PyTorch, and documenting processes.
+
+I have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at [Tera](https://somostera.com). I assisted students in structuring workflows in classes and project creation, as well as providing support. I am a technology student, currently studying Systems Analysis and Development at FATEC, and a bachelor's degree holder in Philosophy from UFOP.
+
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> 
+<img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e8e0dc8-29e5-43f0-88b2-6db4d6ff3ab9" height="14cm" width=""> <i>I'm a fan of horror movies and books, as well as detective and investigative fiction. I love playing games, and one of my favorite genres is RPG. My all-time favorite games are Stardew Valley, Baldur's Gate, Animal Crossing, and Monster Hunter.</i> <br>
+            </span>
+      </div>
+
    
 </div>
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- INTERESTED IN -->
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="18px" height="18px"><img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="40px"><br>**Artificial intelligence  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Ethics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Python <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Machine Learning <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  NLP (Natural Language Processing)  <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Data Science <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  MLOps <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Statistics <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px">  Logic** <br>
+<img src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="39px"><br>
+<img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ARTIFICIAL_INTELLIGENCE-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MACHINE_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-DEEP_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-STATISTICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LOGIC-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+<br>
 <!-- PRONOMES E FUN FACT -->
-<!-- PRONOMES-->
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/1361c3b6-95e4-478e-b226-ebdc904687fe" height="11cm" width=""> She/Her <br>
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e8e0dc8-29e5-43f0-88b2-6db4d6ff3ab9" height="12cm" width=""> I'm a fan of horror films and books, as well as detective and investigative fictions. <br>
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="13"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e669c6ca-0eb2-4131-bc43-dbf832cc6f1d" height="12cm" width=""><br>
-   &ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/bc03efb0-5cf6-43b5-add7-ad52845ad149" height="10cm" width="10"> <b>MIA</b> - Mulheres em IA <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/239889a0-f29d-4d12-8e2f-cff243ff18cb.png" height="12px"> [here](https://www.instagram.com/mulheres.em.ia/) <br>
-   &ensp; <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/bc03efb0-5cf6-43b5-add7-ad52845ad149" height="10cm" width="10"> <b>BPLN</b> - Brasileiras em PLN (Processamento de Linguagem Natural) <img src="https://user-images.githubusercontent.com/72058182/196828116-12780c92-26b2-45f0-86b3-9ed9e4e94e33.png" height="16px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/239889a0-f29d-4d12-8e2f-cff243ff18cb.png" height="12px"> [here](https://brasileiraspln.com).
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="14">  I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community (<b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b> and Brazilian Women in Text Processing (<b>[BPLN- Brasileiras em PLN](https://brasileiraspln.com)</b>). These are incredible communities that have many initiatives and contributions for women, whether beginners or not, in the field. Check them out for more information!
+<br>
 
 
 
@@ -181,7 +205,7 @@ My work primarily involves Python programming in the field of machine learning a
 <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
 
 <!-- I'M LEARNING-->          
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2125a4ee-16a8-4279-9e7a-13f5869a7fc3" height="35px"><br>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies: <br>
+<img height="35px" width="180" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2125a4ee-16a8-4279-9e7a-13f5869a7fc3"><br>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies: <br>
 
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
@@ -220,13 +244,13 @@ My work primarily involves Python programming in the field of machine learning a
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
       </td>
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Pandas<br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-      </td>  
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         HuggingFace<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/87b19ec4-45ef-42f9-a1a7-95318fb49e4b">
       </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        RunPod<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2d9e4114-0d6f-473c-b517-b7439f8a0590">
+      </td>   
     </tr>
      <tr> 
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -244,7 +268,11 @@ My work primarily involves Python programming in the field of machine learning a
        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         Stack Overflow<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/de2f6c4c-eef0-4451-83c0-fe67ae8fab52">
-      </td>   
+      </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Pandas<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+      </td> 
      </tr>
   </tbody>
 </table>
@@ -252,8 +280,9 @@ My work primarily involves Python programming in the field of machine learning a
 <br><br><br><br><br>
 <div>
 
+
 <!-- I WISH TO LEARN-->    
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0" height="33px"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning <br>
+<img height="35px" width="195" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning. <br>
 </div>
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
@@ -294,7 +323,11 @@ My work primarily involves Python programming in the field of machine learning a
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         AWS<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
-      </td>   
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Bash<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+      </td>  
     </tr>
   </tbody>
 </table>
@@ -303,35 +336,13 @@ My work primarily involves Python programming in the field of machine learning a
 
 <div>
 <!-- HOBBIES-->    
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br><br>
+<img height="35px" width="180" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br><br>
 </div> 
 <div style="display: flex;">
-<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
-  <tbody> 
-    <tr> 
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Markdown<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6aceccee-e3ef-41c3-a6a2-aabe00db5f6b"> 
-     </td>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Photoshop<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
-     </td>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Canva<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/eac86cac-b570-4a25-83f0-2c63de6f3d8a">
-      </td>
-     <td width="100px align="center" style="border: 1px solid transparent; padding: 8px;">
-        Books<br>
-      <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3b80e1b6-2435-4efd-b27f-31ad5057387d"> 
-     </td>  
-     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Openshot<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2b885cd-ea5c-40cb-85c8-bd23f424a33d"> 
-     </td>
-    </tr> 
-  </tbody>
-</table>
+   <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MARKDOWN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b"> 
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-PHOTOSHOP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-CANVA-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-OPENSHOT-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
 </body>
 </div>
 
@@ -359,14 +370,15 @@ My work primarily involves Python programming in the field of machine learning a
 </div>
 <br>
 -->
-
+ <img align="center" height="" width="" style="max-width:400px ; width:400px; height: ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D">
+   
 <!-- TESTANDO AQUIIIIIIIII -->
-<table align="center" style="width: 100%;">
+<!--<table align="center" style="width: 100%;">
   <tr>
     <td style="vertical-align: middle; text-align: center;">
-     <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br> -->
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br>
        <div align="center">
-           🌼<img height="30px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">🌼 <br>
+           <img height="39px" width="" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br>
          <span style="display: block; text-align: center; font-size: 10px;">---------------------------------------</span>
       </div>
     <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LINKEDIN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmel-5664a1bb%2F"> 
@@ -380,11 +392,9 @@ My work primarily involves Python programming in the field of machine learning a
     <td style="vertical-align: top;">
       <img align="center" height="" width="" style="max-width:350px ; width:350px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
     </td>
-     <td style="vertical-align: top;">
-    </td>
   </tr>
 </table>
-
+ -->
 
 
 
@@ -414,7 +424,17 @@ My work primarily involves Python programming in the field of machine learning a
 
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
-<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=flat&label=⭐+Profile+Views+_+" height="20%" width="20%">
+<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=plastic&label=⭐+Profile+Views+_+" height="18%" width="18%">
+  <a href="https://www.linkedin.com/in/mel-5664a1bb/">
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2af2cb3-d2ae-4e8e-a755-405362cb3a21" height="24px" width="">
+</a>
+<a href="mailto:meliza.caug@gmail.com">
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/80488dfb-fcde-434a-9ccb-91e85c6f4d521" height="24px" width="">
+</a>
+
+
+
+
 </div>
 
 <div align="center">
