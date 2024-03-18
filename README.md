@@ -11,11 +11,10 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
    <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
          <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="94%" height="auto"> <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/0e3aa318-dcb5-4460-be28-02bd927fb12d" width="40px height="auto""><br>
+        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="94%" height="auto"> <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="40px height="auto""><br>
   </div>
 
       
-
 
 <!-- PRIMEIROS CARDS -->
 <!--<div align="center">
@@ -56,8 +55,8 @@ GIF DE ESTRELINHA<img  valign="center" src="https://user-images.githubuserconten
 <!-- PRIMEIROS 2 CARDS-->   
 <div style="width: 100%; overflow-x: auto; text-align: center;">
   <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;">
-    <br><img height="200px" width="570px" style="max-width: 570px; width: 570px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
-  <img height="200px" width="230px" style="max-width: 280px; width: 280px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+    <br><img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
+  <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
   </div>
 
 
