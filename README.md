@@ -66,7 +66,7 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
    <span style="display: block; text-align: center; font-size: 10px;" 
 
 Hello, I'm Mel <b>(She/Her)</b>. Welcome! Currently, I work as a <b>Machine Learning Engineer</b> in the Technology and Innovation domain at [Weni](https://weni.ai), where I integrate, train, evaluate, and monitor artificial intelligence models using Natural Language Processing (NLP) techniques in LLMs. <br>
-<br>My work mainly involves Python programming applied in machine learning and deep learning, focusing on Natural Language Generation (NLG) and Natural Language Understanding (NLU). My experience includes enhancing the communication of intelligent agents (Chatbots). Tasks that are usually part of my routine include: creating experiments for models, searching and tuning hyperparameters for training, performance evaluation, verifying inference and latency in model responses, artifact manipulation, model quantization, and researching/reading articles for updates. The skills I'm learning vary according to each model development phase: creating APIs, Docker image builds, code versioning and structuring, using machine learning frameworks like PyTorch, and documenting processes.
+<br>My work mainly involves Python programming applied in machine learning and deep learning, focusing on Natural Language Generation (NLG) and Natural Language Understanding (NLU). My experience includes enhancing the communication of intelligent agents (Chatbots). Tasks that are usually part of my routine include: creating experiments for models, searching and tuning hyperparameters for training, performance evaluation, verifying inference and latency in model responses, artifact manipulation, model quantization, and researching/reading articles to stay updated in the field. The skills I'm learning vary according to each model development phase: creating APIs, Docker image builds, code versioning and structuring, using machine learning frameworks like PyTorch, and documenting processes.
 
 I have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at [Tera](https://somostera.com). I assisted students in structuring workflows in classes and project creation, as well as providing support. I am a technology student, currently studying Systems Analysis and Development at FATEC, and a bachelor's degree holder in Philosophy from UFOP.
 
@@ -244,13 +244,13 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
       </td>
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Pandas<br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-      </td>  
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
         HuggingFace<br>
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/87b19ec4-45ef-42f9-a1a7-95318fb49e4b">
       </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        RunPod<br>
+        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2d9e4114-0d6f-473c-b517-b7439f8a0590">
+      </td>   
     </tr>
      <tr> 
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -270,9 +270,9 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
         <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/de2f6c4c-eef0-4451-83c0-fe67ae8fab52">
       </td>
         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        RunPod<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2d9e4114-0d6f-473c-b517-b7439f8a0590">
-      </td>  
+        Pandas<br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+      </td> 
      </tr>
   </tbody>
 </table>
@@ -282,7 +282,7 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 
 
 <!-- I WISH TO LEARN-->    
-<img height="35px" width="180" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning. <br>
+<img height="35px" width="195" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/35299d03-2f68-445f-9068-8cddd3a9b5d0"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning. <br>
 </div>
 <div style="display: flex;">
 <table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
@@ -336,35 +336,13 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 
 <div>
 <!-- HOBBIES-->    
-<img src="https://user-images.githubusercontent.com/72058182/197408065-0fb810be-db7e-495b-8489-dbba57747cac.png" width="20px" height="20px"><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br><br>
+<img height="35px" width="180" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e3371fe7-ea55-46c6-aa5e-26b8ba7a5aab" height="33px"><br>I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity<br><br>
 </div> 
 <div style="display: flex;">
-<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
-  <tbody> 
-    <tr> 
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Markdown<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6aceccee-e3ef-41c3-a6a2-aabe00db5f6b"> 
-     </td>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Photoshop<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
-     </td>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Canva<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/eac86cac-b570-4a25-83f0-2c63de6f3d8a">
-      </td>
-     <td width="100px align="center" style="border: 1px solid transparent; padding: 8px;">
-        Books<br>
-      <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3b80e1b6-2435-4efd-b27f-31ad5057387d"> 
-     </td>  
-     <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Openshot<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2b885cd-ea5c-40cb-85c8-bd23f424a33d"> 
-     </td>
-    </tr> 
-  </tbody>
-</table>
+   <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MARKDOWN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b"> 
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-PHOTOSHOP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-CANVA-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
+    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-OPENSHOT-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
 </body>
 </div>
 
@@ -412,17 +390,6 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
     </td>
     <td style="vertical-align: top;">
       <img align="center" height="" width="" style="max-width:350px ; width:350px; height:135 ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=560">
-    </td>
-     <td align="center" style="vertical-align: top;">
-       <img align="center" src="https://user-images.githubusercontent.com/72058182/196829316-2f079508-b212-40ea-a239-9174fb05d08d.png" height="39px"> <br>
-         <span style="display: block; text-align: center; font-size: 10px;">-------------------------------------</span>
-      </div>
-    <br><img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ARTIFICIAL_INTELLIGENCE-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b"><br> 
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MACHINE_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b"><br>
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-STATISTICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
     </td>
   </tr>
 </table>
