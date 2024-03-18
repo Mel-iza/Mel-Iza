@@ -370,12 +370,13 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 </div>
 <br>
 -->
-
+ <img align="center" height="" width="" style="max-width:400px ; width:400px; height: ;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=vue&border_radius=10&date_format=j%20M%5B%20Y%5D">
+   
 <!-- TESTANDO AQUIIIIIIIII -->
-<table align="center" style="width: 100%;">
+<!--<table align="center" style="width: 100%;">
   <tr>
     <td style="vertical-align: middle; text-align: center;">
-     <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br> -->
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br>
        <div align="center">
            <img height="39px" width="" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d"> <br>
          <span style="display: block; text-align: center; font-size: 10px;">---------------------------------------</span>
@@ -393,7 +394,7 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
     </td>
   </tr>
 </table>
-
+ -->
 
 
 
@@ -423,7 +424,17 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/72058182/196859541-f07af2f4-474f-4c59-a7e5-5451b92b2372.gif" height="80px" width="">
-<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=flat&label=⭐+Profile+Views+_+" height="20%" width="20%">
+<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=plastic&label=⭐+Profile+Views+_+" height="18%" width="18%">
+  <a href="https://www.linkedin.com/in/mel-5664a1bb/">
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2af2cb3-d2ae-4e8e-a755-405362cb3a21" height="24px" width="">
+</a>
+<a href="mailto:meliza.caug@gmail.com">
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/80488dfb-fcde-434a-9ccb-91e85c6f4d521" height="24px" width="">
+</a>
+
+
+
+
 </div>
 
 <div align="center">
