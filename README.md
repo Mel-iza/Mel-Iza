@@ -11,10 +11,10 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
    <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
          <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
-        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="94%" height="auto"> <img src="https://i.gifer.com/origin/e3/e3625ebc70ccaed5f2414dc14b3c1d3b_w200.webp" width="40px height="auto""><br>
+        <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
+        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="92%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
   </div>
 
-      
 
 <!-- PRIMEIROS CARDS -->
 <!--<div align="center">
@@ -68,7 +68,7 @@ GIF DE ESTRELINHA<img  valign="center" src="https://user-images.githubuserconten
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
-Hello, I'm Mel <b>(She/Her)</b>. Welcome! Currently, I work as a <b>Machine Learning Engineer</b> in the Technology and Innovation domain at [Weni](https://weni.ai), where I integrate, train, evaluate, and monitor artificial intelligence models using Natural Language Processing (NLP) techniques with a focus on LLMs. <br>
+Hello, I'm Mel <b><span style="color: #539782;">(She/Her)</span></b>. Welcome! Currently, I work as a <b>Machine Learning Engineer</b> in the Technology and Innovation domain at [Weni](https://weni.ai), where I integrate, train, evaluate, and monitor artificial intelligence models using Natural Language Processing (NLP) techniques with a focus on LLMs. <br>
 <br>My work mainly involves Python programming applied in machine learning and deep learning, focusing on Natural Language Generation (NLG) and Natural Language Understanding (NLU). My experience includes enhancing the communication of intelligent agents (Chatbots). Tasks that are usually part of my routine include: creating experiments for models, searching and tuning hyperparameters for training, performance evaluation, verifying inference and latency in model responses, artifact manipulation, model quantization, and researching/reading articles to stay updated in the field. The skills I'm learning vary according to each model development phase: creating APIs, Docker image builds, code versioning and structuring, using machine learning frameworks like PyTorch, and documenting processes.
 
 I have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at [Tera](https://somostera.com). I assisted students in structuring workflows in classes and project creation, as well as providing support. I am a technology student, currently studying Systems Analysis and Development at FATEC, and a bachelor's degree holder in Philosophy from UFOP.
@@ -94,7 +94,7 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
     <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LOGIC-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=5fa790&color=%2371af9b">
 <br>
 <!-- PRONOMES E FUN FACT -->
-<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="14">  I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community (<span style="color: #539782;"><b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b></span> and Brazilian Women in Text Processing (<span style="color: #539782;"><b>[BPLN- Brasileiras em PLN](https://brasileiraspln.com)</b></span>). These are incredible communities that have many initiatives and contributions for women, whether beginners or not. Check them out for more information!🌼 
+<img src="https://user-images.githubusercontent.com/72058182/197366102-5b129990-bd07-4e16-945b-879c71c69a7e.png" height="13cm" width="14">  I support and encourage <b>women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community (<span style="color: #539782;"><b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b>)</span> and Brazilian Women in Text Processing (<span style="color: #539782;"><b>[BPLN- Brasileiras em PLN](https://brasileiraspln.com)</b></span>). These are incredible communities that have many initiatives and contributions for women, whether beginners or not. Check them out for more information and to learn about their work!🌼 
 <br>
 
 <!-- ANOTHER STATS -->          
@@ -440,13 +440,13 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 <a href="mailto:mel.augusto@fatec.sp.gov.br">
     <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3e569641-2221-450a-8147-c6b1f3169589" height="28px" width="">
 </a>
-<!-- SLACK -->
-<a href="#" onclick="alert('Mel Iza'); return false;">   
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4e97318d-1d27-4cdf-ad94-c4ac976a093b" height="28px" width="" onclick="alert('Mel Iza');">
-</a>
 <!-- DISCORD -->
 <a href="#" onclick="alert('mel7514'); return false;">  
     <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2864db5-a3b2-41ed-b197-9c8765149b6b" height="28px" width="" onclick="alert('mel7514');">
+</a>
+<!-- HUGGINGFACE -->
+<a href="https://huggingface.co/Mel-Iza0"> 
+    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3d754583-1dfb-497b-b52e-96ca7a6314d1" height="28px" width="">
 </a>
   </div>
 <div align="center"> 
@@ -456,6 +456,8 @@ I have experience as a project tutor and learning facilitator in the Data Scienc
 <!-- LINKEDIN -->  
 <br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/94bab1cf-9b3c-4fb1-aaed-162b9d5c0224" height="15px" width="";"> 
 <!-- <br><img style="display: block; margin-left: auto; margin-right: auto; " src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/742134dc-aac0-41fc-a8ce-59e5fb3e37b9" height="115px" width="">-->
+
+
 
 
 
