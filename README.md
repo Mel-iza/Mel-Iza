@@ -57,8 +57,8 @@ GIF DE ESTRELINHA<img  valign="center" src="https://user-images.githubuserconten
 <!-- PRIMEIROS 2 CARDS-->   
 <div style="width: 100%; overflow-x: auto; text-align: center;">
   <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;">
-    <br><img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=ambient_gradient">
-  <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=ambient_gradient&utcOffset=8">
+    <br><img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&bg_color=78,e96443,933724text_color=933724">
+  <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&bg_color=50,e96443,933724&text_color=933724&utcOffset=8">
   </div>
 
 
