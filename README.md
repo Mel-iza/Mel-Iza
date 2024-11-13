@@ -1,4 +1,5 @@
-<img align="center" src= "https://user-images.githubusercontent.com/72058182/185760299-082c240f-0e4e-425e-922a-63aecbcd4825.jpg" width="1200px">
+<img align="center" src= "https://github.com/user-attachments/assets/9cf8a602-5a5e-4c66-a941-4307ce478922" width="1200px">
+
 
 <!--
 Fonte utilizada: Arial rounded
@@ -10,10 +11,11 @@ Referências para ícones: https://icons8.com/icons, https://devicon.dev
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
    <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
-         <img src="https://user-images.githubusercontent.com/72058182/196842843-a6d40fb0-6c4f-4a9d-90f4-373f6c877a2f.png">
+         <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
         <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
-        <img  valign="center" src="https://user-images.githubusercontent.com/72058182/196829939-db203b0e-3eab-4351-a864-8105c455573a.png" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
+        <img  valign="center" src="https://github.com/user-attachments/assets/94442e55-0e4a-43d5-a22b-045abd6b359e" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
   </div>
+
 
 
 <!-- PRIMEIROS CARDS -->
@@ -55,8 +57,8 @@ GIF DE ESTRELINHA<img  valign="center" src="https://user-images.githubuserconten
 <!-- PRIMEIROS 2 CARDS-->   
 <div style="width: 100%; overflow-x: auto; text-align: center;">
   <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;">
-    <br><img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=vue">
-  <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=vue&utcOffset=8">
+    <br><img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=ambient_gradient">
+  <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=ambient_gradient&utcOffset=8">
   </div>
 
 
