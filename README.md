@@ -19,120 +19,30 @@
 </div>
 
 
-
-<div>
+<div align="justify">
 <img src="https://github.com/user-attachments/assets/be7b0d84-a580-46c5-ad7c-f5ca15206eec" height="19px"><br>
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
-   Hello, I’m Mel (She/Her). I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. My role involves integrating, training, and evaluating AI models using NLP techniques, focusing on LLMs. I primarily use Python for machine learning and deep learning, specializing in NLG and NLU.       My tasks include creating model experiments, tuning hyperparameters, evaluating performance, checking inference and latency, manipulating artifacts, quantizing models, and staying updated through research.
-   
-   I also have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at Tera, where I helped students with workflows and projects. I recently graduated in Systems Analysis and Development from FATEC and hold a bachelor’s degree in Philosophy from UFOP.
-   
-   <img src="https://github.com/user-attachments/assets/9fef25c5-1862-4766-b7e6-e619f258fbd9" height="15cm" width="15"> 
-   <img src="https://github.com/user-attachments/assets/e30810b3-ad80-416b-90ab-235004082b19" height="13cm" width=""> <i>In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk, which is even featured in my profile          picture. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim..</i> <br>
+   Hello, I’m Mel! <b>(She/Her)</b>. I work as a Machine Learning Engineer in the Technology and Innovation department at [Weni by VTEX](https://weni.ai). My role involves integrating, training, and evaluating AI models using NLP techniques, focusing on LLMs. I primarily use Python for machine learning and deep learning, working with in Natural Language Generation (NGL) and Natural Language Understanding (NLU). My tasks include creating model experiments, tuning hyperparameters, evaluating performance, checking inference and latency, manipulating artifacts, quantizing models, and staying updated through research.
+   I also have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at [Tera](https://somostera.com/), where I helped students with projects. I recently graduated in Systems Analysis and Development and hold a bachelor’s degree in Philosophy from [UFOP](https://ufop.br).
+   </span>
+</div>
+⭐
+   <span style="display: block; text-align: center; font-size: 10px;" 
+
+I support and encourage women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community <b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b> and Brazilian Women in Text Processing <b>[BPLN Brasileiras em PLN](https://brasileiraspln.com)</b>. These are incredible communities that have many initiatives and contributions for women. Check them out for more information and to learn about their work! 
    </span>
 </div>
 </div>
-<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093"> <!-- SEPARADOR -->
 
-<!-- INTERESTED IN -->
-<img src="https://github.com/user-attachments/assets/de6ded9d-f357-4866-954a-3555f82406f4" height="19px"><br>
-<img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ARTIFICIAL_INTELLIGENCE-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MACHINE_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-DEEP_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-STATISTICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LOGIC-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-<br>
+<!-- SEPARADOR -->
+<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093"> 
 
-<!-- PRONOMES E FUN FACT -->
-<img src="https://github.com/user-attachments/assets/9fef25c5-1862-4766-b7e6-e619f258fbd9" height="15cm" width="15">  I support and encourage <b>women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community (<span style="color: #539782;"><b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b>)</span> and Brazilian Women in Text Processing (<span style="color: #539782;"><b>[BPLN- Brasileiras em PLN](https://brasileiraspln.com)</b></span>). These are incredible communities that have many initiatives and contributions for women. Check them out for more information and to learn about their work!🌼 
-<br>
-
-
-<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
-
- 
-<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
-    <img height="19" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
-</div>
-<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
-   <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=moltack">
-   <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack">
-</div>
-
-
-
-
-
-<div align="center" style="width:100%; overflow-x: auto;">
-   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&row=2&no-frame=true&theme=juicyfresh&rank=-?&column=6&row=1"> <br>
-</div>
-
-
-   
-<br>
-<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
-
-<!-- I'M LEARNING-->
+<!-- PROJECTS, STUDIES AND GOAL -->
 <div align="center"><img height="25px" src="https://github.com/user-attachments/assets/88f2690e-d584-4307-a298-87d730e791c1"><br></div>
 
-
-<div style="display: block;">
-<img align="left" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I WISH TO LEARN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br><details><summary>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning</summary>
-
-<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent; border-spacing: 0;">
-  <tbody> 
-    <tr>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Tensorflow<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
-        </td> 
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Django<br>
-           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
-         </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              Flask<br>
-              <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5f8e94e3-b073-4fe3-9822-d2b47e8e2590"> 
-         </td>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Java<br>
-           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-         </td>   
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           SQL<br>
-           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-         </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Google Cloud<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
-        </td> 
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Kubernetes<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
-        </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Grafana<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-         </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           AWS<br>
-           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
-         </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Bash<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
-         </td>  
-    </tr>
-  </tbody>
-</table>
-</div>
-</details>
-
+<!-- I'M LEARNING AND HOBBIES -->
 <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I'M LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br><details><summary>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.</summary>
    <div style="display: block;">
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
@@ -204,7 +114,6 @@
   </tbody>
 </table>
 
-
 Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity
  <div style="display: block;">
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
@@ -228,8 +137,61 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
       </td> 
     </tr></tbody></table></div></details>
 
+<!-- WISH TO LEARN -->
+<div style="display: block;">
+<img align="left" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I WISH TO LEARN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br><details><summary>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning</summary>
+
+<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent; border-spacing: 0;">
+  <tbody> 
+    <tr>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Tensorflow<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
+        </td> 
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Django<br>
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              Flask<br>
+              <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5f8e94e3-b073-4fe3-9822-d2b47e8e2590"> 
+         </td>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Java<br>
+           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+         </td>   
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           SQL<br>
+           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+         </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Google Cloud<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
+        </td> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Kubernetes<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
+        </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Grafana<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           AWS<br>
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Bash<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+         </td>  
+    </tr>
+  </tbody>
+</table>
+</div>
+</details>
 
 
+<!-- PROJECTS -->
 <div style="display: block;">
 <img align="left" height="20px" style="max-width:px ; width:; height:20px;" src="https://img.shields.io/badge/build-PROJECTS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br><details><summary>My main projects are</summary>
 
@@ -247,6 +209,44 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 </table>
 </div>
 </details>
+
+<!-- INTERESTED IN -->
+<div align="center "style="display: block;">
+      <img src="https://github.com/user-attachments/assets/de6ded9d-f357-4866-954a-3555f82406f4" height="19px"><br>
+      <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ARTIFICIAL_INTELLIGENCE-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MACHINE_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-DEEP_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-STATISTICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LOGIC-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
+</div>
+<!-- SEPARADOR -->
+<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
+
+ 
+<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
+    <img height="19" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
+</div>
+<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
+   <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=moltack">
+   <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack">
+</div>
+
+
+
+<!-- TROFÉUS -->
+<div align="center" style="width:100%; overflow-x: auto;">
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&row=2&no-frame=true&theme=juicyfresh&rank=-?&column=8&row=1"> <br>
+</div>
+
+
+   
+<!-- SEPARADOR -->
+<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
+
+
 <!-- I WISH TO LEARN-->    
 
 <!-- HOBBIES-->    
@@ -266,6 +266,9 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
    <img align="center" height="" width="" style="display: block; margin-left: auto; margin-right: auto; max-width:400px; width:400px; height:;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=ocean-dark&background=F5E1C0&stroke=EB993E&sideNums=EB8337&dates=935E31&ring=BE4116&sideLabels=BE4116&fire=FF2708&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D">
  </div>  
 
+<!--FUN FACT-->
+<img src="https://github.com/user-attachments/assets/9fef25c5-1862-4766-b7e6-e619f258fbd9" height="15cm" width="15"> 
+   <img src="https://github.com/user-attachments/assets/e30810b3-ad80-416b-90ab-235004082b19" height="13cm" width=""> <i>In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk, which is even featured in my profile          picture. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim..</i> <br>
 
 <div align="center" style="width: 100%;">
   <div style="float: left; text-align: center;">
