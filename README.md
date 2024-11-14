@@ -1,4 +1,4 @@
-<img align="center" src= "https://github.com/user-attachments/assets/9cf8a602-5a5e-4c66-a941-4307ce478922" width="1200px">
+<img align="center" src= "https://github.com/user-attachments/assets/dfc044fb-bdcc-4420-97a5-de2948286a0f" width="1200px">
 
 
 <!--
@@ -159,7 +159,7 @@ I also have experience as a project tutor and learning facilitator in the Data S
 
 
 <div align="center" style="width:100%; overflow-x: auto;">
-   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&row=2&no-frame=true&theme=juicyfresh&rank=-?"> <br>
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&row=2&no-frame=true&theme=juicyfresh&rank=-?&column=6&row=1"> <br>
 </div>
 
 <!--
@@ -274,7 +274,7 @@ I also have experience as a project tutor and learning facilitator in the Data S
 
 <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I'M LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br><details><summary>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.</summary>
    <div style="display: block;">
-<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
   <tbody> 
     <tr> 
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -346,7 +346,7 @@ I also have experience as a project tutor and learning facilitator in the Data S
 
 Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity
  <div style="display: block;">
-<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent;">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
   <tbody> 
     <tr> 
       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
@@ -367,23 +367,94 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
       </td> 
     </tr></tbody></table></div></details>
 
-<!-- 
-<div style="display: flex;">
-   <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MARKDOWN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"> 
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-PHOTOSHOP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-CANVA-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-    <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-OPENSHOT-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-</body>
-</div> -->
 
 
+<div style="display: block;">
+<img align="left" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-PROJECTS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br><details><summary>My main projects are</summary>
 
-
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+  <tbody> 
+    <tr>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           testando aqui algo aleatório pra ver se cabe<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
+        </td> 
+       </tr>
+          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Django<br>
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              Flask<br>
+              <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5f8e94e3-b073-4fe3-9822-d2b47e8e2590"> 
+         </td>
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Java<br>
+           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+         </td>   
+       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           SQL<br>
+           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+         </td>
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Google Cloud<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
+        </td> 
+        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Kubernetes<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
+        </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Grafana<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           AWS<br>
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Bash<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+         </td>  
+      </tr>
+  </tbody>
+</table>
+</div>
+</details>
 
 <!-- I WISH TO LEARN-->    
 
 <!-- HOBBIES-->    
 
+
+<!--
+<div style="display: block; margin-top: 10px;">
+    <img align="center" height="20px" style="width: auto; height: 20px;" src="https://img.shields.io/badge/build-I'M LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br>
+    <details>
+        <summary>Technologies I have had contact with or have closer contact with in my daily work.</summary>
+        <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent;">
+            <tbody>
+                <tr>
+                    <td align="center" style="padding: 8px;">
+                        Python<br>
+                        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+                    </td>
+                    <td align="center" style="padding: 8px;">
+                        Git<br>
+                        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+                    </td>
+                    <td align="center" style="padding: 8px;">
+                        GitHub<br>
+                        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a5372fb0-95bc-4f35-9e44-58aaebb3c179">
+                    </td>
+                    <!-- Continue para os outros itens -->
+                </tr>
+            </tbody>
+        </table>
+    </details> -->
+</div>
+
+---------------------------
 
 </html>
 
