@@ -40,79 +40,86 @@ I support and encourage women in technology</b> organizations and I have the hon
 <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093"> 
 
 <!-- PROJECTS, STUDIES AND GOAL -->
-<div align="center"><img height="25px" src="https://github.com/user-attachments/assets/88f2690e-d584-4307-a298-87d730e791c1"><br></div>
+<div align="left"><img height="25px" src="https://github.com/user-attachments/assets/88f2690e-d584-4307-a298-87d730e791c1"><br>
+   <span>
+      My current career goal is to focus on my learning and solidifying the foundational knowledge required to work as a machine learning engineer specializing in NLP, primarily working with LLMs/LLMOps. I have mapped out these areas of knowledge that I intend to study further, and I aim to become a technical expert in the field.
+   </span>
+</div>
+<br>
 
 <!-- I'M LEARNING AND HOBBIES -->
-<img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I'M LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br><details><summary>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.</summary>
+<img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I'M LEARNING-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
+<details>
+   <summary>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.</summary>
    <div style="display: block;">
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
-  <tbody> 
-    <tr> 
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Python<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Git<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        GitHub<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a5372fb0-95bc-4f35-9e44-58aaebb3c179">
-      </td> 
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Jupyter<br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Docker<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-       Ubuntu<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Pytorch<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" >
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        FAST API<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        HuggingFace<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/87b19ec4-45ef-42f9-a1a7-95318fb49e4b">
-      </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        RunPod<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2d9e4114-0d6f-473c-b517-b7439f8a0590">
-      </td>   
-    </tr>
-     <tr> 
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Numpy<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-      </td> 
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        VSCode<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      </td> 
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Anaconda<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-      </td>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Stack Overflow<br>
-        <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/de2f6c4c-eef0-4451-83c0-fe67ae8fab52">
-      </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Pandas<br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-      </td> 
-     </tr>
-  </tbody>
-</table>
+   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
+     <tbody> 
+       <tr> 
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Python<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Git<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           GitHub<br>
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a5372fb0-95bc-4f35-9e44-58aaebb3c179">
+         </td> 
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Jupyter<br>
+           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Docker<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+          Ubuntu<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Pytorch<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" >
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           FAST API<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+         </td>
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           HuggingFace<br>
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/87b19ec4-45ef-42f9-a1a7-95318fb49e4b">
+         </td>
+           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           RunPod<br>
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2d9e4114-0d6f-473c-b517-b7439f8a0590">
+         </td>   
+       </tr>
+        <tr> 
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Numpy<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+         </td> 
+          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           VSCode<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+         </td> 
+         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Anaconda<br>
+           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+         </td>
+          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Stack Overflow<br>
+           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/de2f6c4c-eef0-4451-83c0-fe67ae8fab52">
+         </td>
+           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+           Pandas<br>
+           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+         </td> 
+        </tr>
+     </tbody>
+   </table>
 
 Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity
  <div style="display: block;">
@@ -139,88 +146,92 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 
 <!-- WISH TO LEARN -->
 <div style="display: block;">
-<img align="left" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I WISH TO LEARN-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br><details><summary>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning</summary>
-
-<table align="left" width="320px" cellspacing="0" cellpadding="0" style="border-collapse: collapse;  background-color: transparent; border-spacing: 0;">
-  <tbody> 
-    <tr>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Tensorflow<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
-        </td> 
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Django<br>
-           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
-         </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              Flask<br>
-              <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5f8e94e3-b073-4fe3-9822-d2b47e8e2590"> 
-         </td>
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Java<br>
-           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-         </td>   
-       <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           SQL<br>
-           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-         </td>
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Google Cloud<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
-        </td> 
-        <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Kubernetes<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
-        </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Grafana<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-         </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           AWS<br>
-           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
-         </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Bash<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
-         </td>  
-    </tr>
-  </tbody>
-</table>
-</div>
-</details>
-
+<img align="left" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I WISH TO LEARN-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
+   <details>
+      <summary>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.</summary>
+   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
+     <tbody> 
+       <tr>
+          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              Tensorflow<br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
+           </td> 
+            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              Django<br>
+              <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
+            </td>
+            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+                 Flask<br>
+                 <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5f8e94e3-b073-4fe3-9822-d2b47e8e2590"> 
+            </td>
+          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              Java<br>
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>   
+          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              SQL<br>
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </td>
+           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              Google Cloud<br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
+           </td> 
+           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              Kubernetes<br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
+           </td>
+            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              Grafana<br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+            </td>
+            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              AWS<br>
+              <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
+            </td>
+            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              Bash<br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+            </td>  
+       </tr>
+     </tbody>
+   </table>
+   </div>
+   </details>
 
 <!-- PROJECTS -->
 <div style="display: block;">
-<img align="left" height="20px" style="max-width:px ; width:; height:20px;" src="https://img.shields.io/badge/build-PROJECTS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44"><br><details><summary>My main projects are</summary>
+<img align="left" height="20px" style="max-width:px ; width:; height:20px;" src="https://img.shields.io/badge/build-PROJECTS-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
+   <details>
+      <summary>Here are some projects I have completed - whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even slightly larger projects</summary>
+   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
+     <tbody> 
+       <tr>
+         <td width="100px" align="center" style="padding: 8px;border: none;"><img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> </td>
+         <td width="" align="center" style="padding:;border: none;">testando aqui algo aleatório pra ver se cabe</td>
+      </tr>
+      <tr>  
+         <td width="100px" align="center" style="padding: 8px;border: none;"><img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> </td>
+         <td width="" align="center" style="padding:;border: none;">testando aqui algo aleatório pra ver se cabe</td>
+      </tr>
+     </tbody>
+   </table>
+   </div>
+   </details>
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
-  <tbody> 
-    <tr>
-      <td width="100px" align="center" style="padding: 8px;border: none;"><img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> </td>
-      <td width="" align="center" style="padding:;border: none;">testando aqui algo aleatório pra ver se cabe</td>
-   </tr>
-   <tr>  
-      <td width="100px" align="center" style="padding: 8px;border: none;"><img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> </td>
-      <td width="" align="center" style="padding:;border: none;">testando aqui algo aleatório pra ver se cabe</td>
-   </tr>
-  </tbody>
-</table>
-</div>
-</details>
-
+<br>
 <!-- INTERESTED IN -->
-<div align="center "style="display: block;">
-      <img src="https://github.com/user-attachments/assets/de6ded9d-f357-4866-954a-3555f82406f4" height="19px"><br>
-      <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ARTIFICIAL_INTELLIGENCE-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MACHINE_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-DEEP_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-STATISTICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LOGIC-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=ffa341&color=f09d44">
+<div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/9a36aabc-53c3-45d8-be65-20f2782ee137" height="20px"></div>
+<div align="justify "style="display: block;">Key Areas I am highly interested in and wish to explore further within the fields of artificial intelligence and data science include: development operations around large language models (LLMs), model quantization techniques, inference optimization for large models, pipeline orchestration involving model processes, LLM explainability, structuring security processes in training and evaluation pipelines, ethics, epistemology, statistical validation of model experiments, statistics and statistical inference, among others.<br>
+</div><br>
+
+<div align="justify "style="display: block;">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LLMOps-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MACHINE_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-DEEP_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
+       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
+       
 </div>
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
