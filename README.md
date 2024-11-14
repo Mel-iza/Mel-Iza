@@ -109,10 +109,6 @@ I support and encourage women in technology</b> organizations and I have the hon
            Anaconda<br>
            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
          </td>
-          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Stack Overflow<br>
-           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/de2f6c4c-eef0-4451-83c0-fe67ae8fab52">
-         </td>
            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
            Pandas<br>
            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
@@ -158,11 +154,11 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
            </td> 
             <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
               Django<br>
-              <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/4f983f9a-8525-4adf-a138-f23efaf4a1a9">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">         
             </td>
             <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
                  Flask<br>
-                 <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5f8e94e3-b073-4fe3-9822-d2b47e8e2590"> 
+                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"> 
             </td>
           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
               Java<br>
@@ -202,21 +198,34 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 <div style="display: block;">
 <img align="left" height="20px" style="max-width:px ; width:; height:20px;" src="https://img.shields.io/badge/build-PROJECTS-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
    <details>
-      <summary>Here are some projects I have completed - whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even slightly larger projects</summary>
+      <summary>Here are some projects I have completed - whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even slightly larger projects.</summary>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
-     <tbody> 
-       <tr>
-         <td width="100px" align="center" style="padding: 8px;border: none;"><img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> </td>
-         <td width="" align="center" style="padding:;border: none;">testando aqui algo aleatório pra ver se cabe</td>
-      </tr>
+        <tbody> 
+         <tr>
+          <td width="100px" align="center" style="padding: 8px; border: none;">
+              <img height="32px" src="https://github.com/user-attachments/assets/fc014620-8a30-4d71-bc5b-5da4099f16f3">
+          </td>
+          <td align="center" style="padding:; border: none;">
+              <span><a href="https://github.com/Mel-iza/vaccine_fake_news">Vaccine Fake News</a></span>
+          </td>
+          <td align="center" style="padding:; border: none;">
+              <span>[Work in Progress]: part of my final course work. I worked with some classification models to identify fake news about vaccination in Brazil with data from the interval between the pandemic and the date close to the period I was working on.</span>
+    </td>
+</tr>
       <tr>  
-         <td width="100px" align="center" style="padding: 8px;border: none;"><img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> </td>
-         <td width="" align="center" style="padding:;border: none;">testando aqui algo aleatório pra ver se cabe</td>
+         <td width="100px" align="center" style="padding: 8px;border: none;"><img height="32px" src="https://github.com/user-attachments/assets/fc014620-8a30-4d71-bc5b-5da4099f16f3"> </td>
+         <td width="" align="center" style="padding:;border: none;">
+            <span> <a href="https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop">The Natural Language Processing Workshop</a></span>
+         </td>
+         <td width="" align="center" style="padding:;border: none;">
+            <span>This is a project that I started, and I want to continue, which is to study and review the content on natural language processing. The information in the book is very complete about the area.</span>
+         </td>
       </tr>
      </tbody>
    </table>
    </div>
-   </details>
+  
+
 
 <br>
 <!-- INTERESTED IN -->
@@ -233,10 +242,12 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
        <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
        
 </div>
+
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
 
- 
+
+ <!-- CARDS -->
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
     <img height="19" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
 </div>
@@ -245,41 +256,32 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
    <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack">
 </div>
 
-
-
 <!-- TROFÉUS -->
 <div align="center" style="width:100%; overflow-x: auto;">
-   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&row=2&no-frame=true&theme=juicyfresh&rank=-?&column=8&row=1"> <br>
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=juicyfresh&rank=-?&column=6&row=1&rank=-?"> <br>
 </div>
-
-
    
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
 
 
-<!-- I WISH TO LEARN-->    
-
-<!-- HOBBIES-->    
-
-
-
-
-<br>  
-<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
-
-<!-- CARDS DE CONTATO -->
-<div align="center">
+<!--FUN FACT-->
+<div align="justify "style="display: block;">
+      <img src="https://github.com/user-attachments/assets/9fef25c5-1862-4766-b7e6-e619f258fbd9" height="15cm" width="15"> 
+      <img src="https://github.com/user-attachments/assets/e30810b3-ad80-416b-90ab-235004082b19" height="13cm" width=""> <i>In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk, which is even featured in my profile          picture. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim..</i> <br>
 </div>
 
+
+<!-- SEPARADOR -->
+<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
+
+
+<!-- CARDS DE CONTATO -->
 
 <div align="center" style="width: 100%;">
    <img align="center" height="" width="" style="display: block; margin-left: auto; margin-right: auto; max-width:400px; width:400px; height:;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=ocean-dark&background=F5E1C0&stroke=EB993E&sideNums=EB8337&dates=935E31&ring=BE4116&sideLabels=BE4116&fire=FF2708&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D">
  </div>  
 
-<!--FUN FACT-->
-<img src="https://github.com/user-attachments/assets/9fef25c5-1862-4766-b7e6-e619f258fbd9" height="15cm" width="15"> 
-   <img src="https://github.com/user-attachments/assets/e30810b3-ad80-416b-90ab-235004082b19" height="13cm" width=""> <i>In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk, which is even featured in my profile          picture. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim..</i> <br>
 
 <div align="center" style="width: 100%;">
   <div style="float: left; text-align: center;">
