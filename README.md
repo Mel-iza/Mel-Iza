@@ -24,8 +24,8 @@
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
-   Hello, I’m Mel! <b>(She/Her)</b>. I work as a Machine Learning Engineer in the Technology and Innovation department at [Weni by VTEX](https://weni.ai). My role involves integrating, training, and evaluating AI models using NLP techniques, focusing on LLMs. I primarily use Python for machine learning and deep learning, working with in Natural Language Generation (NGL) and Natural Language Understanding (NLU). My tasks include creating model experiments, tuning hyperparameters, evaluating performance, checking inference and latency, manipulating artifacts, quantizing models, and staying updated through research.
-   I also have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at [Tera](https://somostera.com/), where I helped students with projects. I recently graduated in Systems Analysis and Development and hold a bachelor’s degree in Philosophy from [UFOP](https://ufop.br).
+   Hello, I’m Mel! <b>(She/Her)</b>. I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. My role involves integrating, training, and evaluating AI models using NLP techniques, focusing on LLMs. I primarily use Python for machine learning and deep learning, working with in Natural Language Generation (NGL) and Natural Language Understanding (NLU). My tasks include creating model experiments, tuning hyperparameters, evaluating performance, checking inference and latency, manipulating artifacts, quantizing models, and staying updated through research.
+   I also have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at Tera, where I helped students with projects. I recently graduated in Systems Analysis and Development and hold a bachelor’s degree in Philosophy from UFOP.
    </span>
 </div>
 ⭐
@@ -50,7 +50,7 @@ I support and encourage women in technology</b> organizations and I have the hon
 <!-- I'M LEARNING AND HOBBIES -->
 <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I'M LEARNING-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
 <details>
-   <summary>Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.</summary>
+   <summary>👇🏻 Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.</summary>
    <div style="display: block;">
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
      <tbody> 
@@ -117,7 +117,7 @@ I support and encourage women in technology</b> organizations and I have the hon
      </tbody>
    </table>
 
-Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity
+Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity.
  <div style="display: block;">
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
   <tbody> 
@@ -144,7 +144,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 <div style="display: block;">
 <img align="left" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I WISH TO LEARN-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
    <details>
-      <summary>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.</summary>
+      <summary>👇🏻 The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.</summary>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
      <tbody> 
        <tr>
@@ -198,7 +198,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 <div style="display: block;">
 <img align="left" height="20px" style="max-width:px ; width:; height:20px;" src="https://img.shields.io/badge/build-PROJECTS-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
    <details>
-      <summary>Here are some projects I have completed - whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even slightly larger projects.</summary>
+      <summary>👇🏻 Here are some projects I have completed - whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even slightly larger projects.</summary>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
         <tbody> 
          <tr>
@@ -218,7 +218,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
             <span> <a href="https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop">The Natural Language Processing Workshop</a></span>
          </td>
          <td width="" align="center" style="padding:;border: none;">
-            <span>This is a project that I started, and I want to continue, which is to study and review the content on natural language processing. The information in the book is very complete about the area.</span>
+            <span>[Work in Progress]: This is a project that I started, and I want to continue, which is to study and review the content on natural language processing. The information in the book is very complete about the area.</span>
          </td>
       </tr>
      </tbody>
@@ -257,71 +257,70 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 </div>
 
 <!-- TROFÉUS -->
-<div align="center" style="width:100%; overflow-x: auto;">
-   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=juicyfresh&rank=-?&column=6&row=1&rank=-?"> <br>
+<div align="center" display="block" style="width:100%; overflow-x: auto;">
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Commit,PR&column=6&row=1&margin-w=6"> <br>
 </div>
-   
+
+
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
 
 
 <!--FUN FACT-->
 <div align="justify "style="display: block;">
-      <img src="https://github.com/user-attachments/assets/9fef25c5-1862-4766-b7e6-e619f258fbd9" height="15cm" width="15"> 
-      <img src="https://github.com/user-attachments/assets/e30810b3-ad80-416b-90ab-235004082b19" height="13cm" width=""> <i>In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk, which is even featured in my profile          picture. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim..</i> <br>
+      <img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> 
+      <img src="https://github.com/user-attachments/assets/b5ae8861-f395-4e27-9115-5a81ad38fde2" height="17cm"> 
+      In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk, which is even featured in my profile picture. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim.<br>
 </div>
 
+
+<!-- CARDS DE CONTATO -->
+<div align="left" style="width: 100%;"><br>
+  <div style="float: left; text-align: center;">
+      <!-- YOU CAN CONTACT ME ON -->
+     <img src="https://github.com/user-attachments/assets/78fd2abd-23d6-41fd-b196-e3384797e7fc" height="19cm"> 
+     <img height="19px" src="https://github.com/user-attachments/assets/7192e676-77ee-4527-9918-fb6a8a7fb8d8">
+         <!-- LINKEDIN -->
+         <a href="https://www.linkedin.com/in/mel-5664a1bb/">
+            <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5b2236e2-cf14-467d-bcb6-3c69d2c6911c" height="28px" width="">
+         </a>
+         <!-- EMAIL -->
+         <a href="mailto:meliza.caug@gmail.com">
+             <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ade66fa4-225a-4124-baee-57a452cf62eb" height="28px" width="">
+         </a>
+         <!-- HOTMAIL -->
+         <a href="mailto:mel.augusto@fatec.sp.gov.br">
+             <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3e569641-2221-450a-8147-c6b1f3169589" height="28px" width="">
+         </a>
+         <!-- DISCORD -->
+         <a href="#" onclick="alert('mel7514'); return false;">  
+             <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2864db5-a3b2-41ed-b197-9c8765149b6b" height="28px" width="" onclick="alert('mel7514');">
+         </a>
+         <!-- HUGGINGFACE -->
+         <a href="https://huggingface.co/Mel-Iza0"> 
+             <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3d754583-1dfb-497b-b52e-96ca7a6314d1" height="28px" width="">
+         </a>
+  </div>
 
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
 
 
-<!-- CARDS DE CONTATO -->
 
-<div align="center" style="width: 100%;">
-   <img align="center" height="" width="" style="display: block; margin-left: auto; margin-right: auto; max-width:400px; width:400px; height:;" src="https://streak-stats.demolab.com?user=Mel-iza&theme=ocean-dark&background=F5E1C0&stroke=EB993E&sideNums=EB8337&dates=935E31&ring=BE4116&sideLabels=BE4116&fire=FF2708&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D">
- </div>  
-
-
-<div align="center" style="width: 100%;">
-  <div style="float: left; text-align: center;">
-     <br><img height="28px" width="176" style="vertical-align: middle;" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/6408f022-c6cf-4822-8892-f685139b7b2d">
-<!-- LINKEDIN -->
-<a href="https://www.linkedin.com/in/mel-5664a1bb/">
-   <br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5b2236e2-cf14-467d-bcb6-3c69d2c6911c" height="28px" width="">
-</a>
-<!-- EMAIL -->
-<a href="mailto:meliza.caug@gmail.com">
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ade66fa4-225a-4124-baee-57a452cf62eb" height="28px" width="">
-</a>
-<!-- HOTMAIL -->
-<a href="mailto:mel.augusto@fatec.sp.gov.br">
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3e569641-2221-450a-8147-c6b1f3169589" height="28px" width="">
-</a>
-<!-- DISCORD -->
-<a href="#" onclick="alert('mel7514'); return false;">  
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2864db5-a3b2-41ed-b197-9c8765149b6b" height="28px" width="" onclick="alert('mel7514');">
-</a>
-<!-- HUGGINGFACE -->
-<a href="https://huggingface.co/Mel-Iza0"> 
-    <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3d754583-1dfb-497b-b52e-96ca7a6314d1" height="28px" width="">
-</a>
-  </div>
-<div align="center"> 
-<!-- OUTRO <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/742134dc-aac0-41fc-a8ce-59e5fb3e37b9" height="105px" width="">-->
-
-<img src="https://komarev.com/ghpvc/?username=Mel-iza&color=8dd8c0&style=plastic&label=⭐+Profile+Views+_+" height="20" width="166">
-<!-- LINKEDIN -->  
-<br><img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/94bab1cf-9b3c-4fb1-aaed-162b9d5c0224" height="15px" width="";"> 
-<!-- <br><img style="display: block; margin-left: auto; margin-right: auto; " src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/742134dc-aac0-41fc-a8ce-59e5fb3e37b9" height="115px" width="">-->
-
-
-
+<div align="center" display="block" style="width: 100%;">
+   <!-- STREAKS -->
+   <img align="center" style="display: block; margin-left: auto; margin-right: auto; max-width: 400px; width: 400px;" 
+        src="https://streak-stats.demolab.com?user=Mel-iza&theme=ocean-dark&background=F5E1C0&stroke=EB993E&sideNums=EB8337&dates=935E31&ring=BE4116&sideLabels=BE4116&fire=FF2708&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D"><br><br>
+   
+   <!-- PROFILE VIEWS -->  
+   <img src="https://komarev.com/ghpvc/?username=Mel-iza&color=F46436&style=plastic&label=⭐+Profile+Views+_+" height="20" width="166"><br>
+   
+   <!-- YEAR -->  
+   <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/94bab1cf-9b3c-4fb1-aaed-162b9d5c0224" height="19">
+</div>
 
 
 </div>
-
-<div align="center">
 </html>
 
 
