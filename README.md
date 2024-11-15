@@ -208,18 +208,19 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
               <img height="20px" src="https://github.com/user-attachments/assets/bc5f4a6c-0ff7-4665-82b1-36ff484ba3cf"> <!-- DESCRIPTION -->
       </tr>
       <tr>
-          <td width="100px" align="center" style="padding: 8px; border: none;">
-              <img height="" src="https://github.com/user-attachments/assets/dffda022-1971-46f4-8e2d-924852e2b60b">
+          <td width="100px" align="center" style="padding: 5px; border: none;">
+              <img height="" src="https://github.com/user-attachments/assets/c185cc5f-0e97-4444-aa62-1967ad04060c">
           </td>
-          <td align="center" style="padding:; border: none;">
+          <td align="center" style="padding:5px; border: none;">
               <span><a href="https://github.com/Mel-iza/vaccine_fake_news">Vaccine Fake News</a></span>
           </td>
-          <td align="center" style="padding:; border: none;">
+          <td align="center" style="padding:5px; border: none;">
               <span>Part of my final course work. I worked with some classification models to identify fake news about vaccination in Brazil with data from the interval between the pandemic and the date close to the period I was working on.</span>
     </td>
 </tr>
       <tr>  
-         <td width="100px" align="center" style="padding: 8px;border: none;"><img height="" src="https://github.com/user-attachments/assets/dffda022-1971-46f4-8e2d-924852e2b60b"> </td>
+         <td width="100px" align="center" style="padding: 8px;border: none;">
+            <img height="" src="https://github.com/user-attachments/assets/c42086c2-5cce-4b85-9a1a-a4bc638df7bc"> </td>
          <td width="" align="center" style="padding:;border: none;">
             <span> <a href="https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop">The Natural Language Processing Workshop</a></span>
          </td>
