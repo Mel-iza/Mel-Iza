@@ -252,7 +252,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
     <img height="19" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
 </div>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
-   <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=default&theme=moltack&ring_color=EB5454&icon_color=D84315">
+   <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=moltack&ring_color=EB5454&icon_color=D84315">
    <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack">
 </div>
 
@@ -307,7 +307,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 
 <div align="center" display="block" style="width: 100%;">
    <!-- STREAKS -->
-   <img align="center" style="display: block; margin-left: auto; margin-right: auto; max-width: 500px; width: 500px;  height:200px; max-height:200px" 
+   <img align="center" style="display: block; margin-left: auto; margin-right: auto; max-width: 500px; width: 500px;  height:180px; max-height:180px" 
         src="https://streak-stats.demolab.com?user=Mel-iza&theme=ocean-dark&background=F5E1C0&stroke=EB993E&sideNums=EB8337&dates=935E31&ring=BE4116&sideLabels=BE4116&fire=FF2708&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D"><br><br>
    
    
