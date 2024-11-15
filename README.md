@@ -24,8 +24,8 @@
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
-   Hello, I’m Mel! <b>(She/Her)</b>. I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. My role involves integrating, training, and evaluating AI models using NLP techniques, focusing on LLMs. I primarily use Python for machine learning and deep learning, working with in Natural Language Generation (NGL) and Natural Language Understanding (NLU). My tasks include creating model experiments, tuning hyperparameters, evaluating performance, checking inference and latency, manipulating artifacts, quantizing models, and staying updated through research.
-   I also have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at Tera, where I helped students with projects. I recently graduated in Systems Analysis and Development and hold a bachelor’s degree in Philosophy from UFOP.
+   Hello, I’m Mel! <b>(She/Her)</b>. I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. My role involves integrating, training, and evaluating AI models using NLP techniques, focusing on LLMs. I use Python as my primary language to work on tasks related to natural language generation (NGL) and understanding (NLU). My tasks include creating model experiments, tuning hyperparameters, evaluating performance, manipulating artifacts, quantizing models, assist in designing and building workflows for model training and evaluation, and staying updated through research.
+   I also have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at Tera, where I helped students with projects. I recently graduated in Systems Analysis and Development and hold a bachelor’s degree in Philosophy.
    </span>
 </div>
 ⭐
@@ -247,12 +247,12 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
 
 
- <!-- CARDS -->
+ <!-- CARDS PROFILE STATUS -->
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
     <img height="19" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
 </div>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
-   <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=moltack">
+   <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=default&theme=moltack&ring_color=EB5454&icon_color=D84315">
    <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack">
 </div>
 
@@ -281,25 +281,20 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
      <img src="https://github.com/user-attachments/assets/78fd2abd-23d6-41fd-b196-e3384797e7fc" height="19cm"> 
      <img height="19px" src="https://github.com/user-attachments/assets/7192e676-77ee-4527-9918-fb6a8a7fb8d8">
          <!-- LINKEDIN -->
-         <a href="https://www.linkedin.com/in/mel-5664a1bb/" style="text-decoration: none;">
-            <img src="https://github.com/user-attachments/assets/1a879bcc-b585-4735-8d72-6e85f8f90f2f" height="28px" width="">
-         </a>
+           <a href="https://www.linkedin.com/in/mel-5664a1bb/" style="text-decoration: none;">
+               <img src="https://github.com/user-attachments/assets/1a879bcc-b585-4735-8d72-6e85f8f90f2f" height="28px" alt="Linkedin"></a>  
          <!-- EMAIL -->
-         <a href="mailto:meliza.caug@gmail.com" style="text-decoration: none;">
-             <img src="https://github.com/user-attachments/assets/7ced8333-1dea-49b7-88c8-55a9cd5c8217" height="28px" width="">
-         </a>
+            <a href="mailto:meliza.caug@gmail.com" style="text-decoration: none;">
+                <img src="https://github.com/user-attachments/assets/7ced8333-1dea-49b7-88c8-55a9cd5c8217" height="28px" width=""></a>
          <!-- HOTMAIL -->
          <a href="mailto:mel.augusto@fatec.sp.gov.br" style="text-decoration: none;">
-             <img src="https://github.com/user-attachments/assets/ed2ac015-4239-4d58-b086-9ded0bb9d87d9" height="28px" width="">
-         </a>
+             <img src="https://github.com/user-attachments/assets/ed2ac015-4239-4d58-b086-9ded0bb9d87d9" height="28px" width=""></a>
          <!-- DISCORD -->
          <a href="#" onclick="alert('mel7514'); return false;" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/9b4d2147-b039-4ad1-b161-778bb581cb21" height="28px" width="">
-         </a>
+             <img src="https://github.com/user-attachments/assets/9b4d2147-b039-4ad1-b161-778bb581cb21" height="28px" width=""></a>
          <!-- HUGGINGFACE -->
          <a href="https://huggingface.co/Mel-Iza0" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/a2c6df2f-487e-4250-9c37-f021e9389cab" height="28px" width="">
-         </a>
+             <img src="https://github.com/user-attachments/assets/a2c6df2f-487e-4250-9c37-f021e9389cab" height="28px" width=""></a>
   </div>
 </div>
 
@@ -312,7 +307,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 
 <div align="center" display="block" style="width: 100%;">
    <!-- STREAKS -->
-   <img align="center" style="display: block; margin-left: auto; margin-right: auto; max-width: 400px; width: 400px;" 
+   <img align="center" style="display: block; margin-left: auto; margin-right: auto; max-width: 500px; width: 500px;  height:200px; max-height:200px" 
         src="https://streak-stats.demolab.com?user=Mel-iza&theme=ocean-dark&background=F5E1C0&stroke=EB993E&sideNums=EB8337&dates=935E31&ring=BE4116&sideLabels=BE4116&fire=FF2708&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D"><br><br>
    
    
