@@ -28,9 +28,9 @@
    I also have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at Tera, where I helped students with projects. I recently graduated in Systems Analysis and Development and hold a bachelor’s degree in Philosophy.
    </span>
 </div>
-⭐
+:zap:
    <span style="display: block; text-align: center; font-size: 10px;" 
-
+      
 I support and encourage women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community <b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b> and Brazilian Women in Text Processing <b>[BPLN Brasileiras em PLN](https://brasileiraspln.com)</b>. These are incredible communities that have many initiatives and contributions for women. Check them out for more information and to learn about their work! 
    </span>
 </div>
@@ -117,7 +117,7 @@ I support and encourage women in technology</b> organizations and I have the hon
      </tbody>
    </table>
 
-Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity.
+Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity.<br>
  <div style="display: block;">
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
   <tbody> 
@@ -134,17 +134,13 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
         Canva<br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
       </td> 
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        OpenShot<br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-      </td> 
     </tr></tbody></table></div></details>
 
 <!-- WISH TO LEARN -->
 <div style="display: block;">
 <img align="left" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I WISH TO LEARN-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
    <details>
-      <summary>👇🏻 The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.</summary>
+      <summary>👇🏻 The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br></summary>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
      <tbody> 
        <tr>
@@ -198,27 +194,37 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 <div style="display: block;">
 <img align="left" height="20px" style="max-width:px ; width:; height:20px;" src="https://img.shields.io/badge/build-PROJECTS-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
    <details>
-      <summary>👇🏻 Here are some projects I have completed - whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even slightly larger projects.</summary>
+      <summary>👇🏻 Here are some projects I've been working on, whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even the ones I started recently.<br></summary>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
         <tbody> 
-         <tr>
+      <tr>
+      <td align="center" style="padding: 5px; border: none;">
+              <img height="16px" src="https://github.com/user-attachments/assets/0920c3e2-766c-4f90-9353-7d3cde228c24"> <!-- STATUS --> 
+          </td>
+          <td align="center" style="padding:5px; border: none;">
+              <img height="16px" src="https://github.com/user-attachments/assets/e6fe77fd-8534-4f4e-8758-12c382aad349"> <!-- PROJECT NAME --> 
+          </td>
+          <td align="center" style="padding:5px; border: none;"> 
+              <img height="20px" src="https://github.com/user-attachments/assets/bc5f4a6c-0ff7-4665-82b1-36ff484ba3cf"> <!-- DESCRIPTION -->
+      </tr>
+      <tr>
           <td width="100px" align="center" style="padding: 8px; border: none;">
-              <img height="32px" src="https://github.com/user-attachments/assets/fc014620-8a30-4d71-bc5b-5da4099f16f3">
+              <img height="" src="https://github.com/user-attachments/assets/dffda022-1971-46f4-8e2d-924852e2b60b">
           </td>
           <td align="center" style="padding:; border: none;">
               <span><a href="https://github.com/Mel-iza/vaccine_fake_news">Vaccine Fake News</a></span>
           </td>
           <td align="center" style="padding:; border: none;">
-              <span>[Work in Progress]: part of my final course work. I worked with some classification models to identify fake news about vaccination in Brazil with data from the interval between the pandemic and the date close to the period I was working on.</span>
+              <span>Part of my final course work. I worked with some classification models to identify fake news about vaccination in Brazil with data from the interval between the pandemic and the date close to the period I was working on.</span>
     </td>
 </tr>
       <tr>  
-         <td width="100px" align="center" style="padding: 8px;border: none;"><img height="32px" src="https://github.com/user-attachments/assets/fc014620-8a30-4d71-bc5b-5da4099f16f3"> </td>
+         <td width="100px" align="center" style="padding: 8px;border: none;"><img height="" src="https://github.com/user-attachments/assets/dffda022-1971-46f4-8e2d-924852e2b60b"> </td>
          <td width="" align="center" style="padding:;border: none;">
             <span> <a href="https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop">The Natural Language Processing Workshop</a></span>
          </td>
          <td width="" align="center" style="padding:;border: none;">
-            <span>[Work in Progress]: This is a project that I started, and I want to continue, which is to study and review the content on natural language processing. The information in the book is very complete about the area.</span>
+            <span>This is a project that I started, and I want to continue, which is to study and review the content on natural language processing. The information in the book is very complete about the area.</span>
          </td>
       </tr>
      </tbody>
