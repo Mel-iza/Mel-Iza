@@ -276,31 +276,34 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 
 <!-- CARDS DE CONTATO -->
 <div align="left" style="width: 100%;"><br>
-  <div style="float: left; text-align: center;">
+  <div style="float: left; text-align: center;text-decoration: none;">
       <!-- YOU CAN CONTACT ME ON -->
      <img src="https://github.com/user-attachments/assets/78fd2abd-23d6-41fd-b196-e3384797e7fc" height="19cm"> 
      <img height="19px" src="https://github.com/user-attachments/assets/7192e676-77ee-4527-9918-fb6a8a7fb8d8">
          <!-- LINKEDIN -->
-         <a href="https://www.linkedin.com/in/mel-5664a1bb/">
-            <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/5b2236e2-cf14-467d-bcb6-3c69d2c6911c" height="28px" width="">
+         <a href="https://www.linkedin.com/in/mel-5664a1bb/" style="text-decoration: none;">
+            <img src="https://github.com/user-attachments/assets/1a879bcc-b585-4735-8d72-6e85f8f90f2f" height="28px" width="">
          </a>
          <!-- EMAIL -->
-         <a href="mailto:meliza.caug@gmail.com">
-             <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/ade66fa4-225a-4124-baee-57a452cf62eb" height="28px" width="">
+         <a href="mailto:meliza.caug@gmail.com" style="text-decoration: none;">
+             <img src="https://github.com/user-attachments/assets/7ced8333-1dea-49b7-88c8-55a9cd5c8217" height="28px" width="">
          </a>
          <!-- HOTMAIL -->
-         <a href="mailto:mel.augusto@fatec.sp.gov.br">
-             <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3e569641-2221-450a-8147-c6b1f3169589" height="28px" width="">
+         <a href="mailto:mel.augusto@fatec.sp.gov.br" style="text-decoration: none;">
+             <img src="https://github.com/user-attachments/assets/ed2ac015-4239-4d58-b086-9ded0bb9d87d9" height="28px" width="">
          </a>
          <!-- DISCORD -->
-         <a href="#" onclick="alert('mel7514'); return false;">  
-             <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/e2864db5-a3b2-41ed-b197-9c8765149b6b" height="28px" width="" onclick="alert('mel7514');">
+         <a href="#" onclick="alert('mel7514'); return false;" style="text-decoration: none;"> 
+             <img src="https://github.com/user-attachments/assets/9b4d2147-b039-4ad1-b161-778bb581cb21" height="28px" width="">
          </a>
          <!-- HUGGINGFACE -->
-         <a href="https://huggingface.co/Mel-Iza0"> 
-             <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/3d754583-1dfb-497b-b52e-96ca7a6314d1" height="28px" width="">
+         <a href="https://huggingface.co/Mel-Iza0" style="text-decoration: none;"> 
+             <img src="https://github.com/user-attachments/assets/a2c6df2f-487e-4250-9c37-f021e9389cab" height="28px" width="">
          </a>
   </div>
+</div>
+
+
 
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
@@ -312,11 +315,9 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
    <img align="center" style="display: block; margin-left: auto; margin-right: auto; max-width: 400px; width: 400px;" 
         src="https://streak-stats.demolab.com?user=Mel-iza&theme=ocean-dark&background=F5E1C0&stroke=EB993E&sideNums=EB8337&dates=935E31&ring=BE4116&sideLabels=BE4116&fire=FF2708&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D"><br><br>
    
-   <!-- PROFILE VIEWS -->  
-   <img src="https://komarev.com/ghpvc/?username=Mel-iza&color=F46436&style=plastic&label=⭐+Profile+Views+_+" height="20" width="166"><br>
    
    <!-- YEAR -->  
-   <img src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/94bab1cf-9b3c-4fb1-aaed-162b9d5c0224" height="19">
+   <img src="https://github.com/user-attachments/assets/fdfe59f0-7b11-4f22-a937-96ba3a5c974c" height="19">
 </div>
 
 
