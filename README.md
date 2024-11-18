@@ -7,16 +7,16 @@
          <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
         <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
         <img  valign="center" src="https://github.com/user-attachments/assets/94442e55-0e4a-43d5-a22b-045abd6b359e" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
-  </div>
-
+  </div><br>
 
 
 <!-- PRIMEIROS 2 CARDS-->   
-<div style="width: 100%; overflow-x: auto; text-align: center;">
-  <div align="center" style="display: inline-block; margin-right: 10px; overflow: hidden;"><br>
-    <img height="200px" width="570px" style="max-width: 550px; width: 550px; height: 200px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=moltack">
-  <img height="200px" width="230px" style="max-width: 265px; width: 265px; height: 200px;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=moltack&utcOffset=8">
-</div>
+<div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
+  <div style="display: inline-flex; gap: 10px; align-items: center;">
+    <img style="width: 550px; height: auto;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=moltack" alt="Profile Details">
+    <img style="width: 265px; height: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=moltack&utcOffset=8" alt="Productive Time">
+  </div>
+</div><br>
 
 
 <div align="justify">
@@ -280,12 +280,13 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 
  <!-- CARDS PROFILE STATUS -->
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
-    <img height="19" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
-</div>
+    <img height="20" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
+</div><br>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
-   <img height="200cm" width="400cm" style="max-width: 400px; width: 400px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=moltack&ring_color=EB5454&icon_color=D84315">
-   <img height="200cm" width="300cm" style="max-width: 400px; width: 300px; height: 200px; margin: 0; padding: 0; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack">
+   <img style="width: 408px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=moltack&ring_color=EB5454&icon_color=D84315" alt="GitHub Stats">
+   <img style="width: 366px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack" alt="Top Languages">
 </div>
+
 
 <!-- TROFÉUS -->
 <div align="center" display="block" style="width:100%; overflow-x: auto;">
