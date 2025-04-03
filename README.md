@@ -24,8 +24,11 @@
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
-   Hello, I’m Mel! <b>(She/Her)</b>. I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. My role involves integrating, training, and evaluating AI models using NLP techniques, focusing on LLMs. I use Python as my primary language to work on tasks related to natural language generation (NGL) and understanding (NLU). My tasks include creating model experiments, tuning hyperparameters, evaluating performance, manipulating artifacts, quantizing models, assist in designing and building workflows for model training and evaluation, and staying updated through research.
-   I also have experience as a project tutor and learning facilitator in the Data Science and Machine Learning course at Tera, where I helped students with projects. I recently graduated in Systems Analysis and Development and hold a bachelor’s degree in Philosophy.
+Hello, I’m Mel! (She/Her).I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. I primarily work with deep learning applied to NLP, focusing on large language models (LLMs) and AI Agents. As a Machine Learning Engineer, I engage in various tasks, such as developing and optimizing models, fine-tuning hyperparameters, and designing workflows for training, evaluation, and monitoring AI models.
+
+I’ve been discovering my true passion in Responsible AI & LLM Security. I’ve been deepening my knowledge in evaluating model performance with an emphasis on security, developing security metrics, and collecting feedback to improve guardrails and safety policies. I actively work on developing processes to assess and enhance model guardrails, designing safety mechanisms, and ensuring responsible AI deployment.
+
+I recently graduated in Systems Development and hold a bachelor’s degree in Philosophy. I completed the Data Science & Machine Learning course at Tera, where I later worked as a project tutor and learning facilitator.
    </span>
 </div>
 :zap:
@@ -302,7 +305,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 <div align="justify "style="display: block;">
       <img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> 
       <img src="https://github.com/user-attachments/assets/b5ae8861-f395-4e27-9115-5a81ad38fde2" height="17cm"> 
-      In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk, which is even featured in my profile picture. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim.<br>
+      I'm a naturally curious person, always eager to learn, collaborate with other teams and colleagues, and improve my skills. In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk, which is even featured in my profile picture. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim.<br>
 </div>
 
 
