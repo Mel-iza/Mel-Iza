@@ -316,7 +316,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
      <img src="https://github.com/user-attachments/assets/78fd2abd-23d6-41fd-b196-e3384797e7fc" height="19cm"> 
      <img height="19px" src="https://github.com/user-attachments/assets/7192e676-77ee-4527-9918-fb6a8a7fb8d8">
          <!-- LINKEDIN -->
-           <a href="https://www.linkedin.com/in/mel-5664a1bb/" style="text-decoration: none;">
+           <a href="https://www.linkedin.com/in/mel-augusto/" style="text-decoration: none;">
                <img src="https://github.com/user-attachments/assets/1a879bcc-b585-4735-8d72-6e85f8f90f2f" height="28px" alt="Linkedin"></a>  
          <!-- EMAIL -->
             <a href="mailto:meliza.caug@gmail.com" style="text-decoration: none;">
