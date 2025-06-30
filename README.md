@@ -52,8 +52,7 @@ I support and encourage women in technology</b> organizations and I have the hon
 
 <!-- I'M LEARNING AND HOBBIES -->
 <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I'M LEARNING-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
-<details>
-   <summary>👇🏻 Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.</summary>
+   Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.
    <div style="display: block;">
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
      <tbody> 
@@ -142,8 +141,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 <!-- WISH TO LEARN -->
 <div style="display: block;">
 <img align="left" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I WISH TO LEARN-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
-   <details>
-      <summary>👇🏻 The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br></summary>
+       The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
      <tbody> 
        <tr>
@@ -191,13 +189,12 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
      </tbody>
    </table>
    </div>
-   </details>
+
 
 <!-- PROJECTS -->
 <div style="display: block;">
 <img align="left" height="20px" style="max-width:px ; width:; height:20px;" src="https://img.shields.io/badge/build-PROJECTS-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
-   <details>
-      <summary>👇🏻 Here are some projects I've been working on, whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even the ones I started recently. Get to know some of them:<br></summary>
+Here are some projects I've been working on, whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even the ones I started recently. Get to know some of them:<br>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
         <tbody> 
       <tr>
@@ -287,7 +284,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 </div><br>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
    <img style="width: 408px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=moltack&ring_color=EB5454&icon_color=D84315" alt="GitHub Stats">
-   <img style="width: 366px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack" alt="Top Languages">
+   <img style="width: 366px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack&langs_count=4" alt="Top Languages">
 </div>
 
 
