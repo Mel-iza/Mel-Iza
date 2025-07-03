@@ -302,7 +302,7 @@ Here are some projects I've been working on, whether they are projects I might h
 <div align="justify "style="display: block;">
       <img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> 
       <img src="https://github.com/user-attachments/assets/b5ae8861-f395-4e27-9115-5a81ad38fde2" height="17cm"> 
-      I'm a naturally curious person, always eager to learn, collaborate with other teams and colleagues, and improve my skills. In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk, which is even featured in my profile picture. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim.<br>
+      I'm a naturally curious person, always eager to learn, collaborate with other teams and colleagues, and improve my skills. In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim.<br>
 </div>
 
 
