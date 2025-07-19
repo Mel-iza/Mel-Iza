@@ -1,20 +1,23 @@
-<img align="center" src= "https://github.com/user-attachments/assets/dfc044fb-bdcc-4420-97a5-de2948286a0f" width="1200px">
+<img align="center" src= "https://github.com/user-attachments/assets/a598d44c-adee-4269-91fd-6e587ff38851" width="1200px">
+
 
 
 <!-- HELLO WELCOME TO MY GITHUB PROFILE-->
    <div style="width: 100%; overflow-x: auto; text-align: center;">
      <div align="center" style="display: inline-block; margin-right: 1px; overflow: hidden;">
-         <img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
+         <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613">
         <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64">
-        <img  valign="center" src="https://github.com/user-attachments/assets/94442e55-0e4a-43d5-a22b-045abd6b359e" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
+        <img  valign="center" src="https://github.com/user-attachments/assets/fad1cf78-844b-4596-8104-2fee23fe4397" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
   </div><br>
+
+
 
 
 <!-- PRIMEIROS 2 CARDS-->   
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
   <div style="display: inline-flex; gap: 10px; align-items: center;">
-    <img style="width: 550px; height: auto;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=moltack" alt="Profile Details">
-    <img style="width: 265px; height: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=moltack&utcOffset=8" alt="Productive Time">
+    <img style="width: 550px; height: auto;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=buefy" alt="Profile Details">
+    <img style="width: 265px; height: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=buefy&utcOffset=8" alt="Productive Time">
   </div>
 </div><br>
 
@@ -283,8 +286,8 @@ Here are some projects I've been working on, whether they are projects I might h
     <img height="20" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
 </div><br>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
-   <img style="width: 408px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=moltack&ring_color=EB5454&icon_color=D84315" alt="GitHub Stats">
-   <img style="width: 366px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=moltack&langs_count=4" alt="Top Languages">
+   <img style="width: 408px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=buefy&ring_color=EB5454&icon_color=D84315" alt="GitHub Stats">
+   <img style="width: 366px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=buefy&langs_count=4" alt="Top Languages">
 </div>
 
 
@@ -340,7 +343,7 @@ Here are some projects I've been working on, whether they are projects I might h
 <div align="center" display="block" style="width: 100%;">
    <!-- STREAKS -->
    <img align="center" style="display: block; margin-left: auto; margin-right: auto; max-width: 500px; width: 500px;  height:180px; max-height:180px" 
-        src="https://streak-stats.demolab.com?user=Mel-iza&theme=ocean-dark&background=F5E1C0&stroke=EB993E&sideNums=EB8337&dates=935E31&ring=BE4116&sideLabels=BE4116&fire=FF2708&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D"><br><br>
+        src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=FF2708&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D"><br><br>
    
    
    <!-- YEAR -->  
