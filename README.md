@@ -51,9 +51,8 @@ I support and encourage women in technology</b> organizations and I have the hon
 </div>
 <br>
 
-
 <!-- I'M LEARNING AND HOBBIES -->
-<img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I'M LEARNING-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
+<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/23b00577-3326-4e5c-9a9a-1d04d98a254d"><br>
    Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.
    <div style="display: block;">
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
@@ -142,8 +141,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 
 <!-- WISH TO LEARN -->
 <div style="display: block;">
-<img align="left" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I WISH TO LEARN-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
-       The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br>
+<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/cc1056a7-728a-4143-9869-dd04ad15f6db"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
      <tbody> 
        <tr>
@@ -195,7 +193,7 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 
 <!-- PROJECTS -->
 <div style="display: block;">
-<img align="left" height="20px" style="max-width:px ; width:; height:20px;" src="https://img.shields.io/badge/build-PROJECTS-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
+<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/56dd0df4-0a3d-4403-b06d-02bc7dac1567"><br>
 Here are some projects I've been working on, whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even the ones I started recently. Get to know some of them:<br>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
         <tbody> 
@@ -258,11 +256,9 @@ Here are some projects I've been working on, whether they are projects I might h
    </table>
    </div>
   
-
-
 <br>
 <!-- INTERESTED IN -->
-<div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/9a36aabc-53c3-45d8-be65-20f2782ee137" height="20px"></div>
+<div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/ab80b4b1-188c-40c7-a781-81801670fcab" height="33px"></div>
 <div align="justify "style="display: block;">Key Areas I am highly interested in and wish to explore further within the fields of artificial intelligence and data science include: development operations around large language models (LLMs), model quantization techniques, inference optimization for large models, pipeline orchestration involving model processes, LLM explainability, structuring security processes in training and evaluation pipelines, ethics, epistemology, statistical validation of model experiments, statistics and statistical inference, among others.<br>
 </div><br>
 
@@ -294,7 +290,7 @@ Here are some projects I've been working on, whether they are projects I might h
 
 <!-- TROFÉUS -->
 <div align="center" display="block" style="width:100%; overflow-x: auto;">
-   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=4"> <br>
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=8"> <br>
 
 <!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> -->
 </div>
