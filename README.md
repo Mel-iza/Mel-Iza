@@ -10,19 +10,17 @@
         <img  valign="center" src="https://github.com/user-attachments/assets/fad1cf78-844b-4596-8104-2fee23fe4397" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
   </div><br>
 
-
-
-
 <!-- PRIMEIROS 2 CARDS-->   
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
   <div style="display: inline-flex; gap: 10px; align-items: center;">
-    <img style="width: 550px; height: auto;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mel-iza&theme=buefy" alt="Profile Details">
-    <img style="width: 265px; height: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=buefy&utcOffset=8" alt="Productive Time">
+    <img style="width: 550px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/profile-details?username=Mel-iza&theme=florescent_dahlia" alt="Profile Details">
+    <img style="width: 265px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" alt="Productive Time">
   </div>
 </div><br>
 
+<!-- ABOUT ME -->   
 <div align="justify">
-<img src="https://github.com/user-attachments/assets/be7b0d84-a580-46c5-ad7c-f5ca15206eec" height="19px"><br>
+<img src="https://github.com/user-attachments/assets/17a89a74-d15e-4703-9f0d-061e7fe91ea4" height="33px"><br>
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
@@ -42,15 +40,17 @@ I support and encourage women in technology</b> organizations and I have the hon
 </div>
 
 <!-- SEPARADOR -->
-<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093"> 
+<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
+
 
 <!-- PROJECTS, STUDIES AND GOAL -->
-<div align="left"><img height="25px" src="https://github.com/user-attachments/assets/88f2690e-d584-4307-a298-87d730e791c1"><br>
+<div align="left"><img height="33px" src="https://github.com/user-attachments/assets/9d079824-a056-4d44-a39c-af1ea6a44b94"><br>
    <span>
       My current career goal is to focus on my learning and solidifying the foundational knowledge required to work as a machine learning engineer specializing in NLP, primarily working with LLMs/LLMOps. I have mapped out these areas of knowledge that I intend to study further, and I aim to become a technical expert in the field.
    </span>
 </div>
 <br>
+
 
 <!-- I'M LEARNING AND HOBBIES -->
 <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-I'M LEARNING-%238dd8c0?style=plastic&label=%F0%9F%93%84&labelColor=%23984f03&color=f09d44"><br>
@@ -277,7 +277,7 @@ Here are some projects I've been working on, whether they are projects I might h
 </div>
 
 <!-- SEPARADOR -->
-<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
+<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
 
  <!-- CARDS PROFILE STATUS -->
@@ -285,8 +285,9 @@ Here are some projects I've been working on, whether they are projects I might h
     <img height="20" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
 </div><br>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
-   <img style="width: 408px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&theme=buefy&ring_color=EB5454&icon_color=D84315" alt="GitHub Stats">
-   <img style="width: 366px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&theme=buefy&langs_count=4" alt="Top Languages">
+   <img style="width: 408px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5" alt="GitHub Stats">
+   
+   <img style="width: 366px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&langs_count=4" alt="Top Languages">
 </div>
 
 
@@ -297,7 +298,7 @@ Here are some projects I've been working on, whether they are projects I might h
 
 
 <!-- SEPARADOR -->
-<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
+<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
 
 <!--FUN FACT-->
@@ -335,7 +336,7 @@ Here are some projects I've been working on, whether they are projects I might h
 
 
 <!-- SEPARADOR -->
-<img src="https://github.com/user-attachments/assets/f1107fdd-782b-46b2-98fc-c0bffaee6093">
+<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
 
 
