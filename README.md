@@ -51,8 +51,9 @@ I support and encourage women in technology</b> organizations and I have the hon
 </div>
 <br>
 
+
 <!-- I'M LEARNING AND HOBBIES -->
-<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/23b00577-3326-4e5c-9a9a-1d04d98a254d"><br>
+<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/caf8a498-423e-4a31-8bd6-08aa2415714c"><br>
    Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.
    <div style="display: block;">
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
@@ -139,9 +140,10 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
       </td> 
     </tr></tbody></table></div></details>
 
+
 <!-- WISH TO LEARN -->
 <div style="display: block;">
-<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/cc1056a7-728a-4143-9869-dd04ad15f6db"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br>
+<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/86c907b1-725c-4b3c-80c3-3636acc10f6c"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
      <tbody> 
        <tr>
@@ -190,10 +192,9 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
    </table>
    </div>
 
-
 <!-- PROJECTS -->
 <div style="display: block;">
-<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/56dd0df4-0a3d-4403-b06d-02bc7dac1567"><br>
+<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/942a72c6-1720-48de-83e9-f4acc0c780cd"><br>
 Here are some projects I've been working on, whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even the ones I started recently. Get to know some of them:<br>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
         <tbody> 
@@ -263,6 +264,7 @@ Here are some projects I've been working on, whether they are projects I might h
 </div><br>
 
 <div align="justify "style="display: block;">
+       <img align="center" height="20px" style="max-width:px ; width:; height: ;" src="https://github.com/user-attachments/assets/b4d4926a-c8ba-4e60-9a6e-9d4ec8b78637">
        <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
        <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
        <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LLMOps-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
@@ -275,11 +277,10 @@ Here are some projects I've been working on, whether they are projects I might h
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
-
  <!-- CARDS PROFILE STATUS -->
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
-    <img height="20" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
-</div><br>
+    <img height="35" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/24f9da00-470b-410e-a097-0eddcabc60bf">
+</div>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
    <img style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
    <img style="width: 290px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
@@ -290,7 +291,7 @@ Here are some projects I've been working on, whether they are projects I might h
 
 <!-- TROFÉUS -->
 <div align="center" display="block" style="width:100%; overflow-x: auto;">
-   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=8"> <br>
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
 
 <!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> -->
 </div>
