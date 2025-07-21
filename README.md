@@ -285,9 +285,10 @@ Here are some projects I've been working on, whether they are projects I might h
     <img height="20" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/8db3a63f-d609-44bc-a71d-e1887b91bac1">
 </div><br>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
-   <img style="width: 408px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5" alt="GitHub Stats">
-   
-   <img style="width: 366px; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-iza&layout=compact&show_icons=true&langs_count=4" alt="Top Languages">
+   <img style="width: 400px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
+   <img style="width: 290px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
+ 
+  
 </div>
 
 
