@@ -1,4 +1,4 @@
-<img align="center" src= "https://github.com/user-attachments/assets/a598d44c-adee-4269-91fd-6e587ff38851" width="1200px">
+<img align="center" src= "https://github.com/user-attachments/assets/e7664201-b692-4a78-819c-90ae6dcaa16a" width="1200px">
 
 
 
@@ -20,7 +20,6 @@
     <img style="width: 265px; height: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mel-iza&theme=buefy&utcOffset=8" alt="Productive Time">
   </div>
 </div><br>
-
 
 <div align="justify">
 <img src="https://github.com/user-attachments/assets/be7b0d84-a580-46c5-ad7c-f5ca15206eec" height="19px"><br>
