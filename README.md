@@ -117,28 +117,13 @@ I support and encourage women in technology</b> organizations and I have the hon
            Pandas<br>
            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
          </td> 
+          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+              SQL<br>
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </td>   
         </tr>
      </tbody>
    </table>
-
-Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity.<br>
- <div style="display: block;">
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
-  <tbody> 
-    <tr> 
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Markdown<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Photoshop<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
-      </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Canva<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-      </td> 
-    </tr></tbody></table></div></details>
 
 
 <!-- WISH TO LEARN -->
@@ -163,10 +148,6 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
               Java<br>
               <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>   
-          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              SQL<br>
-              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-            </td>
            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
               Google Cloud<br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
@@ -190,7 +171,28 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
        </tr>
      </tbody>
    </table>
-   </div>
+   </div>   
+
+Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity.<br>
+ <div style="display: block;">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
+  <tbody> 
+    <tr> 
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Markdown<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Photoshop<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
+      </td>
+      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
+        Canva<br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+      </td> 
+    </tr></tbody></table></div></details>
+
+
 
 <!-- PROJECTS -->
 <div style="display: block;">
@@ -263,17 +265,21 @@ Here are some projects I've been working on, whether they are projects I might h
 <div align="justify "style="display: block;">Key Areas I am highly interested in and wish to explore further within the fields of artificial intelligence and data science include: development operations around large language models (LLMs), model quantization techniques, inference optimization for large models, pipeline orchestration involving model processes, LLM explainability, structuring security processes in training and evaluation pipelines, ethics, epistemology, statistical validation of model experiments, statistics and statistical inference, among others.<br>
 </div><br>
 
-<div align="justify "style="display: block;">
-       <img align="center" height="20px" style="max-width:px ; width:; height: ;" src="https://github.com/user-attachments/assets/b4d4926a-c8ba-4e60-9a6e-9d4ec8b78637">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-NLP-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MLOPS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-LLMOps-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-MACHINE_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-DEEP_LEARNING-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
-       <img align="center" height="20px" style="max-width:px ; width:; height:20px ;" src="https://img.shields.io/badge/build-ETHICS-%238dd8c0?style=plastic&label=%F0%9F%8C%BC&labelColor=%23984f03&color=f09d44">
+
+<div align="center "style="display: block;">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/b6994d6a-6344-42fd-81ac-af2c108feb37" alt="Data Science">
+       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/5aaeb37d-c4b0-4dc5-a78f-a8b468199174" alt="Machine Learning">
+       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/ae0e317b-3dbc-48da-8275-351927f826b4" alt="Deep Learning">
+       <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/d815c322-6f60-4d7e-aec7-05423a09353a" alt="NLP">
+       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/8bcf4290-cfda-457f-9d92-523c1a3660e1" alt="Ethics">
+       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/ec042be8-16db-4856-9feb-c043b2b85e57" alt="Responsible AI">
+       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/ae96a2f4-6988-458e-aaf1-f0fb867465a8" alt="AI Explainability">
+       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/3c0249a4-b827-4ac4-9d9f-a80c16f1c35f" alt="Epistemology">
+       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/4cd52aca-3beb-4833-b6d7-095eddb0a192" alt="Philosophy">
        
 </div>
 
+<br>
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
