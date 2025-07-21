@@ -46,7 +46,7 @@ I support and encourage women in technology</b> organizations and I have the hon
 <!-- PROJECTS, STUDIES AND GOAL -->
 <div align="left"><img height="33px" src="https://github.com/user-attachments/assets/9d079824-a056-4d44-a39c-af1ea6a44b94"><br>
    <span>
-      My current career goal is to focus on my learning and solidifying the foundational knowledge required to work as a machine learning engineer specializing in NLP, primarily working with LLMs/LLMOps. I have mapped out these areas of knowledge that I intend to study further, and I aim to become a technical expert in the field.
+      My current career goal is to focus on my learning and solidifying the foundational knowledge required to work as a data scientist, specializing in NLP. I have mapped out these areas of knowledge that I intend to study further, and I aim to become a technical expert in the field.
    </span>
 </div>
 <br>
@@ -294,7 +294,9 @@ Here are some projects I've been working on, whether they are projects I might h
 
 <!-- TROFÉUS -->
 <div align="center" display="block" style="width:100%; overflow-x: auto;">
-   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 200px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Commit,PR&column=6&row=1&margin-w=6"> <br>
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=4"> <br>
+
+<!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> -->
 </div>
 
 
