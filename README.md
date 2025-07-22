@@ -24,7 +24,7 @@
 <div align="justify">
    <span style="display: block; text-align: center; font-size: 10px;" 
 
-Hello, I’m Mel! (She/Her).I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. I primarily work with deep learning applied to NLP, focusing on large language models (LLMs) and AI Agents. As a Machine Learning Engineer, I engage in various tasks, such as developing and optimizing models, fine-tuning hyperparameters, and designing workflows for training, evaluation, and monitoring AI models.
+Hello, I’m Mel! (She/Her). I work as a Machine Learning Engineer in the Technology and Innovation department at Weni by VTEX. I primarily work with deep learning applied to NLP, focusing on large language models (LLMs) and AI Agents. As a Machine Learning Engineer, I engage in various tasks, such as developing and optimizing models, fine-tuning hyperparameters, and designing workflows for training, evaluation, and monitoring AI models.
 
 I’ve been discovering my true passion in Responsible AI & LLM Security. I’ve been deepening my knowledge in evaluating model performance with an emphasis on security, developing security metrics, and collecting feedback to improve guardrails and safety policies. I actively work on developing processes to assess and enhance model guardrails, designing safety mechanisms, and ensuring responsible AI deployment.
 
@@ -301,10 +301,32 @@ Here are some projects I've been working on, whether they are projects I might h
        <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/4cd52aca-3beb-4833-b6d7-095eddb0a192" alt="Philosophy">
        <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/e0381a97-70f5-42bf-af18-fd9d36480edf" alt="LLMs">
        <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/75fff8df-bb69-452a-a20f-5165e6f1321f" alt="LLMs">
+       </div>
        
-       
+<br>
+
+<!-- SEPARADOR &nbsp&nbsp -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/09c82474-9912-44f1-9979-03963a28bb5b" 
+       width="950" 
+       style="height: auto; display: inline-block;">
 </div>
 <br>
+
+<div>
+  <!-- MY STUDY SPACE -->
+   <div align="right" width="48%" style="display: inline-block;">
+    <img align="right" style="display: block; margin-left: auto; margin-right: auto; max-width: 500px; width: 500px;  height:180px; max-height:180px"  src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D">
+  </div>     
+   <img src="https://github.com/user-attachments/assets/25f9cdc7-e46a-4c21-a7e2-8a36bd1af104" height="33px"/>
+        <p align="justify">This is the study space I've built and continue to develop over time. Here you'll find repositories documenting my learning roadmaps and study plans, current focus areas and ongoing projects and future project ideas and experiments.<br></p>
+   <img src="https://github.com/user-attachments/assets/016163fd-a00e-48cb-98fe-5e944d34a8e0" height="33px"/>
+  <!-- Limpar floats -->
+  <div style="clear: both;"></div>
+</div>
+
+
+ <!-- SEPARATOR --> <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
 <!--FUN FACT-->
 <div align="justify "style="display: block;">
@@ -314,7 +336,8 @@ Here are some projects I've been working on, whether they are projects I might h
       <span style="display: block; text-align: center; font-size: 10px;" 
          
    I support and encourage women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community <b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b> and Brazilian Women in Text Processing <b>[BPLN Brasileiras em PLN](https://brasileiraspln.com)</b>. These are incredible communities that have many initiatives and contributions for women. Check them out for more information and to learn about their work! 
-      </span><br>
+      </span>
+      <br><br>
       I'm a naturally curious person, always eager to learn, collaborate with other teams and colleagues, and improve my skills. In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim.<br>
 </div>
 
@@ -347,14 +370,7 @@ Here are some projects I've been working on, whether they are projects I might h
 
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
-
-
-
-<div align="center" display="block" style="width: 100%;">
-   <!-- STREAKS -->
-   <img align="center" style="display: block; margin-left: auto; margin-right: auto; max-width: 500px; width: 500px;  height:180px; max-height:180px" 
-        src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D"><br><br>
-   
+  
    
    <!-- YEAR -->  
    <img src="https://github.com/user-attachments/assets/fdfe59f0-7b11-4f22-a937-96ba3a5c974c" height="19">
