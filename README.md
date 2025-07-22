@@ -131,7 +131,79 @@ I recently graduated in Systems Development and hold a bachelor’s degree in Ph
      </tbody>
    </table>
 
+---------------------------------------------------------------
 
+<div style="background-color: #ffb69d; border-radius: 15px; padding: 10px; display: inline-block; width: 100%;">
+  <!-- Primeira Linha -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      Python<br>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      Git<br>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      GitHub<br>
+      <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a5372fb0-95bc-4f35-9e44-58aaebb3c179">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      Jupyter<br>
+      <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      Docker<br>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      Ubuntu<br>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      Pytorch<br>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      FAST API<br>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      HuggingFace<br>
+      <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/87b19ec4-45ef-42f9-a1a7-95318fb49e4b">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      RunPod<br>
+      <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2d9e4114-0d6f-473c-b517-b7439f8a0590">
+    </div>
+  </div>
+
+  <!-- Segunda Linha -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      Numpy<br>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      VSCode<br>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      Anaconda<br>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      Pandas<br>
+      <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+    </div>
+    <div style="width: 100px; background: white; border-radius: 10px; padding: 8px; text-align: center;">
+      SQL<br>
+      <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    </div>
+  </div>
+</div>
+
+-----------------------------------------------------------------
 <!-- WISH TO LEARN -->
 <div style="display: block;">
 <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/86c907b1-725c-4b3c-80c3-3636acc10f6c"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br>
