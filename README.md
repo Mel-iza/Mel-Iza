@@ -10,28 +10,23 @@
         <img  valign="center" src="https://github.com/user-attachments/assets/fad1cf78-844b-4596-8104-2fee23fe4397" width="89%" height="auto"> <img width="30px" height="40px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/d50a3d9a-9aa0-4cbc-b1f4-0ea0b47eee64"><br>
   </div><br>
 
-<!-- PRIMEIROS 2 CARDS-->   
+<!-- PRIMEIROS 2 CARDS-->  
+<!--
 <div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
   <div style="display: inline-flex; gap: 10px; align-items: center;">
     <img style="width: 550px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/profile-details?username=Mel-iza&theme=florescent_dahlia" alt="Profile Details">
     <img style="width: 265px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" alt="Productive Time">
   </div>
-</div><br>
+</div>--> 
 
-<div align="center" style="width: 100%; min-width: 830px; margin: 0 auto;">
-  <div style="display: inline-block; white-space: nowrap;">
-    <!-- Card Maior (550px) -->
-    <div style="display: inline-block; width: 550px; margin-right: 10px; vertical-align: top;">
-      <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/profile-details?username=Mel-iza&theme=florescent_dahlia" 
-           style="width: 100%; height: auto;" alt="Profile Details">
-    </div>
-    <!-- Card Menor (265px) -->
-    <div style="display: inline-block; width: 265px; vertical-align: top;">
-      <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" 
-           style="width: 100%; height: auto;" alt="Productive Time">
-    </div>
+<div align="center" style="width: 830px; margin: 0 auto;">
+  <div style="font-size: 0;"> <!-- Remove espaços entre elementos inline -->
+    <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/profile-details?username=Mel-iza&theme=florescent_dahlia" 
+         style="width: 550px; display: inline-block; vertical-align: top;" alt="Profile Details">
+    <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" 
+         style="width: 265px; display: inline-block; vertical-align: top; margin-left: 10px;" alt="Productive Time">
   </div>
-</div>
+</div><br>
 
 <!-- ABOUT ME -->   
 <div align="justify">
