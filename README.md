@@ -40,8 +40,29 @@ I’ve been discovering my true passion in Responsible AI & LLM Security. I’ve
 
 I recently graduated in Systems Development and hold a bachelor’s degree in Philosophy. I completed the Data Science & Machine Learning course at Tera, where I later worked as a project tutor and learning facilitator.
    </span>
+   <div align="justify "style="display: block;">
+      <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
+      &nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/7a527061-de6b-44aa-9054-288e662de3d7" height="33px"> <br>
+     <!-- PASSIONATE ABOUT -->
+   <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
+      &nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/da5f5dff-088b-4d58-8ebc-c3f752dd861a" height="18px" style="vertical-align: middle; margin-right: 5px;">
+  <span>
+    AI/NLP with social impact  
+  </span>  <br>
+      <!-- ALWAYS LEARNING -->
+     <div style="text-align: center; font-size: 10px; margin: 10px 0 ; padding-left: 20px;">
+      &nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/ae926104-62df-4063-a5e8-17ea549194dc" height="18px" style="vertical-align: middle; margin-right: 5px;">
+  <span>
+    through collaboration with teams and colleagues, constantly improving my technical abilities.
+  </span>  <br>
+        <!-- THRIVE IN -->
+      <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
+      &nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/cb46a099-0a05-4f00-bd54-c8e980650770" height="15px" style="vertical-align: middle; margin-right: 5px;">
+  <span>
+    collaborative environments where knowledge sharing and teamwork are valued. I do my best work when surrounded by people who are passionate about helping each other grow.
+  </span>  <br>
 </div>
-
+</div>
 </div>
 </div>
 
@@ -179,7 +200,7 @@ I recently graduated in Systems Development and hold a bachelor’s degree in Ph
    </table>
    </div>   
 
-Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917-a9e1-4725-b17b-c7d3938d06fc" height="33px"> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity.<br>
+Also <b>hobbies</b> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity.<br>
  <div style="display: block;">
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
   <tbody> 
@@ -197,7 +218,6 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
       </td> 
     </tr></tbody></table></div></details>
-
 
 
 <!-- PROJECTS -->
@@ -304,10 +324,10 @@ Here are some projects I've been working on, whether they are projects I might h
   <!-- MY STUDY SPACE -->
    <div align="right" width="48%" style="display: inline-block;">
     <img align="right" style="display: block; margin-left: auto; margin-right: auto; max-width: 500px; width: 500px;  height:180px; max-height:180px"  src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D">
-  </div>     
-   <img src="https://github.com/user-attachments/assets/25f9cdc7-e46a-4c21-a7e2-8a36bd1af104" height="33px"/>
-        <p align="justify">This is the study space I've built and continue to develop over time. Here you'll find repositories documenting my learning roadmaps and study plans, current focus areas and ongoing projects and future project ideas and experiments.<br></p>
-   <img src="https://github.com/user-attachments/assets/016163fd-a00e-48cb-98fe-5e944d34a8e0" height="33px"/>
+  </div>  
+      <img src="https://github.com/user-attachments/assets/25f9cdc7-e46a-4c21-a7e2-8a36bd1af104" height="33px"/>
+        <p align="justify">This is the study space I've built and continue to develop over time. Here you'll find repositories documenting my learning roadmaps and study plans, current focus areas and ongoing projects and future project ideas and experiments.</p>
+   <img src="https://github.com/user-attachments/assets/7eb913c2-17d3-4c04-a5c0-d40a8323285c" height="40px"/>
   <!-- Limpar floats -->
   <div style="clear: both;"></div>
 </div>
@@ -315,18 +335,30 @@ Here are some projects I've been working on, whether they are projects I might h
 
  <!-- SEPARATOR --> <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
-<!--FUN FACT-->
-
+<!--A FEW THINGS THAT DEFINE ME-->
 <div align="justify "style="display: block;">
       <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
-      <img src="https://github.com/user-attachments/assets/7a527061-de6b-44aa-9054-288e662de3d7" height="33px"> <br>
-      :zap:
-      <span style="display: block; text-align: center; font-size: 10px;" 
-         
-   I support and encourage women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community <b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b> and Brazilian Women in Text Processing <b>[BPLN Brasileiras em PLN](https://brasileiraspln.com)</b>. These are incredible communities that have many initiatives and contributions for women. Check them out for more information and to learn about their work! 
-      </span>
-      <br><br>
-      I'm a naturally curious person, always eager to learn, collaborate with other teams and colleagues, and improve my skills. In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim.<br>
+      <img src="https://github.com/user-attachments/assets/8deb1302-6d7d-427d-8773-83aee38e75cc" height="33px"> <br>
+      <!-- FIRM BELIEVER IN -->
+         <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/76b5b3a2-3a6e-410a-b59e-488d35310d3e" height="18px" style="vertical-align: middle; margin-right: 5px;">
+  <span>
+    Supporting and encouraging women in technology. <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspI have the honor of participating in two amazing communities in the field - check their work.<br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🩷 <a href="https://www.instagram.com/mulheres.em.ia/" style="font-weight: bold;">MIA - Mulheres em IA</a> <br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🩷 <a href="https://brasileiraspln.com" style="font-weight: bold;">BPLN - Brasileiras em PLN</a>. 
+  </span>
+     <br><br>
+       <!-- FUN FACTS -->
+     <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
+      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
+  <span><br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🎮 <b>RPG enthusiast</b>: My favorite D&D class is monk <br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🎲 <b>Gaming lover</b>: Stardew Valley, Monster Hunter and Skyrim fan<br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🎥 <b>Horror genre addic</b>: Both in books and movies<br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🧠 <b>Naturally curious</b>: Forever exploring new knowledge areas<br>
+  </span>
+    
+</div>
 </div>
 
 
