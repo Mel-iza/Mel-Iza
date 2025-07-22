@@ -203,66 +203,43 @@ Also <img height="15px" src="https://github.com/user-attachments/assets/8319c917
 <!-- PROJECTS -->
 <div style="display: block;">
 <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/942a72c6-1720-48de-83e9-f4acc0c780cd"><br>
-Here are some projects I've been working on, whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even the ones I started recently. Get to know some of them:<br>
+Here are some projects I've been working on, whether they are projects I might have done early in my learning, after gaining a bit more knowledge, or even the ones I started recently. Get to know some of them:<br><br>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
-        <tbody> 
-      <tr>
-      <td align="center" style="padding: 5px; border: none;">
-              <img height="16px" src="https://github.com/user-attachments/assets/0920c3e2-766c-4f90-9353-7d3cde228c24"> <!-- STATUS --> 
-          </td>
-          <td align="center" style="padding:5px; border: none;">
-              <img height="16px" src="https://github.com/user-attachments/assets/e6fe77fd-8534-4f4e-8758-12c382aad349"> <!-- PROJECT NAME --> 
-          </td>
-          <td align="center" style="padding:5px; border: none;"> 
-              <img height="20px" src="https://github.com/user-attachments/assets/bc5f4a6c-0ff7-4665-82b1-36ff484ba3cf"> <!-- DESCRIPTION -->
-      </tr>
-      <tr>
-          <td width="100px" align="center" style="padding: 5px; border: none;">
-              <img height="" src="https://github.com/user-attachments/assets/c185cc5f-0e97-4444-aa62-1967ad04060c">
-          </td>
-          <td align="center" style="padding:5px; border: none;">
-              <span><a href="https://github.com/Mel-iza/vaccine_fake_news">Vaccine Fake News</a></span>
-          </td>
-          <td align="center" style="padding:5px; border: none;">
-            <span>Part of my <a href="https://ric.cps.sp.gov.br/bitstream/123456789/15180/1/tecnologiaemanaliseedesenvolvimentodesistemas_2023_1%20mel%20iza%20costa%20augusto_%20classificação%20de%20fake%20news%20a%20partir%20de%20dados%20textuais%20com%20machine%20learning.pdf">final course work</a>. I worked with some classification models to identify fake news about vaccination in Brazil with data from the interval between the pandemic and the date close to the period I was working on.</span>
-          </td>
-   <tr>
-          <td width="100px" align="center" style="padding: 5px; border: none;">
-              <img height="" src="https://github.com/user-attachments/assets/c185cc5f-0e97-4444-aa62-1967ad04060c">
-          </td>
-          <td align="center" style="padding:5px; border: none;">
-              <span><a href="https://github.com/Mel-iza/Fast_API/tree/main">A FAST API basic implementation</a></span>
-          </td>
-          <td align="center" style="padding:5px; border: none;">
-            <span>This was a quick project that aimed to test the basic implementation of the Fast API with a json input and return one of the classesThe API receives a json file as input. It will process the file into a dictionary and return one of the dictionary values..</span>
-          </td>
-      </tr>   
-      </tr>
-      <tr>  
-         <td width="100px" align="center" style="padding: 8px;border: none;">
-            <img height="" src="https://github.com/user-attachments/assets/c42086c2-5cce-4b85-9a1a-a4bc638df7bc"> </td>
-         <td width="" align="center" style="padding:;border: none;">
-            <span> <a href="https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop">The Natural Language Processing Workshop</a></span>
-         </td>
-         <td width="" align="center" style="padding:;border: none;">
-            <span>This is a project that I started, and I want to continue, which is to study and review the content on natural language processing. The information in the book is very complete about the area.</span>
-         </td>
-      </tr>
-       </tr>   
-      </tr>
-      <tr>  
-         <td width="100px" align="center" style="padding: 8px;border: none;">
-            <img height="" src="https://github.com/user-attachments/assets/c185cc5f-0e97-4444-aa62-1967ad04060c"> </td>
-         <td width="" align="center" style="padding:;border: none;">
-            <span> <a href="https://github.com/Mel-iza/Weni_XP_IA">Hands-on sobre Inteligência Artificial do Weni XP</a></span>
-         </td>
-         <td width="" align="center" style="padding:;border: none;">
-            <span>
-               This project was a hands-on project that I presented during the <a href="https://doity.com.br/weni-xp#schedule" >Weni XP event </a> in 2023. The objective was to provide a basic introduction to the area and show the operating flow of training a basic model - in this case, the chosen one was the classification model.</span>
-         </td>
-      </tr>
-     </tbody>
-   </table>
+  <tbody>
+    <tr>
+      <td align="center" style="padding:5px; border: none;">
+        <span><a href="https://github.com/Mel-iza/vaccine_fake_news">Vaccine Fake News</a></span>
+      </td>
+      <td align="center" style="padding:5px; border: none;">
+        <span>Part of my <a href="https://ric.cps.sp.gov.br/bitstream/123456789/15180/1/tecnologiaemanaliseedesenvolvimentodesistemas_2023_1%20mel%20iza%20costa%20augusto_%20classificação%20de%20fake%20news%20a%20partir%20de%20dados%20textuais%20com%20machine%20learning.pdf">final course work</a>. I worked with some classification models to identify fake news about vaccination in Brazil with data from the interval between the pandemic and the date close to the period I was working on.</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:5px; border: none;">
+        <span><a href="https://github.com/Mel-iza/Fast_API/tree/main">A FAST API basic implementation</a></span>
+      </td>
+      <td align="center" style="padding:5px; border: none;">
+        <span>This was a quick project that aimed to test the basic implementation of the Fast API with a json input and return one of the classesThe API receives a json file as input. It will process the file into a dictionary and return one of the dictionary values..</span>
+      </td>
+    </tr>
+    <tr>  
+      <td align="center" style="padding:8px; border: none;">
+        <span><a href="https://github.com/Mel-iza/The-Natural-Language-Processing-Workshop">The Natural Language Processing Workshop</a></span>
+      </td>
+      <td align="center" style="padding:8px; border: none;">
+        <span>This is a project that I started, and I want to continue, which is to study and review the content on natural language processing. The information in the book is very complete about the area.</span>
+      </td>
+    </tr>
+    <tr>  
+      <td align="center" style="padding:8px; border: none;">
+        <span><a href="https://github.com/Mel-iza/Weni_XP_IA">Hands-on sobre Inteligência Artificial do Weni XP</a></span>
+      </td>
+      <td align="center" style="padding:8px; border: none;">
+        <span>This project was a hands-on project that I presented during the <a href="https://doity.com.br/weni-xp#schedule">Weni XP event</a> in 2023. The objective was to provide a basic introduction to the area and show the operating flow of training a basic model - in this case, the chosen one was the classification model.</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
    </div>
   
 
@@ -339,9 +316,10 @@ Here are some projects I've been working on, whether they are projects I might h
  <!-- SEPARATOR --> <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
 <!--FUN FACT-->
+
 <div align="justify "style="display: block;">
-      <img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> 
-      <img src="https://github.com/user-attachments/assets/b5ae8861-f395-4e27-9115-5a81ad38fde2" height="17cm"> <br>
+      <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
+      <img src="https://github.com/user-attachments/assets/7a527061-de6b-44aa-9054-288e662de3d7" height="33px"> <br>
       :zap:
       <span style="display: block; text-align: center; font-size: 10px;" 
          
