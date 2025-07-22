@@ -18,6 +18,21 @@
   </div>
 </div><br>
 
+<div align="center" style="width: 100%; min-width: 830px; margin: 0 auto;">
+  <div style="display: inline-block; white-space: nowrap;">
+    <!-- Card Maior (550px) -->
+    <div style="display: inline-block; width: 550px; margin-right: 10px; vertical-align: top;">
+      <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/profile-details?username=Mel-iza&theme=florescent_dahlia" 
+           style="width: 100%; height: auto;" alt="Profile Details">
+    </div>
+    <!-- Card Menor (265px) -->
+    <div style="display: inline-block; width: 265px; vertical-align: top;">
+      <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" 
+           style="width: 100%; height: auto;" alt="Productive Time">
+    </div>
+  </div>
+</div>
+
 <!-- ABOUT ME -->   
 <div align="justify">
 <img src="https://github.com/user-attachments/assets/17a89a74-d15e-4703-9f0d-061e7fe91ea4" height="33px"><br>
