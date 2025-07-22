@@ -31,11 +31,7 @@ I’ve been discovering my true passion in Responsible AI & LLM Security. I’ve
 I recently graduated in Systems Development and hold a bachelor’s degree in Philosophy. I completed the Data Science & Machine Learning course at Tera, where I later worked as a project tutor and learning facilitator.
    </span>
 </div>
-:zap:
-   <span style="display: block; text-align: center; font-size: 10px;" 
-      
-I support and encourage women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community <b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b> and Brazilian Women in Text Processing <b>[BPLN Brasileiras em PLN](https://brasileiraspln.com)</b>. These are incredible communities that have many initiatives and contributions for women. Check them out for more information and to learn about their work! 
-   </span>
+
 </div>
 </div>
 
@@ -259,27 +255,7 @@ Here are some projects I've been working on, whether they are projects I might h
    </table>
    </div>
   
-<br>
-<!-- INTERESTED IN -->
-<div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/ab80b4b1-188c-40c7-a781-81801670fcab" height="33px"></div>
-<div align="justify "style="display: block;">Key Areas I am highly interested in and wish to explore further within the fields of artificial intelligence and data science include: development operations around large language models (LLMs), model quantization techniques, inference optimization for large models, pipeline orchestration involving model processes, LLM explainability, structuring security processes in training and evaluation pipelines, ethics, epistemology, statistical validation of model experiments, statistics and statistical inference, among others.<br>
-</div><br>
 
-
-<div align="center "style="display: block;">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/b6994d6a-6344-42fd-81ac-af2c108feb37" alt="Data Science">
-       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/5aaeb37d-c4b0-4dc5-a78f-a8b468199174" alt="Machine Learning">
-       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/ae0e317b-3dbc-48da-8275-351927f826b4" alt="Deep Learning">
-       <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/d815c322-6f60-4d7e-aec7-05423a09353a" alt="NLP">
-       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/8bcf4290-cfda-457f-9d92-523c1a3660e1" alt="Ethics">
-       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/ec042be8-16db-4856-9feb-c043b2b85e57" alt="Responsible AI">
-       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/ae96a2f4-6988-458e-aaf1-f0fb867465a8" alt="AI Explainability">
-       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/3c0249a4-b827-4ac4-9d9f-a80c16f1c35f" alt="Epistemology">
-       <img align="center" height="30px" style="max-width:px ; width:; height:30px ;" src="https://github.com/user-attachments/assets/4cd52aca-3beb-4833-b6d7-095eddb0a192" alt="Philosophy">
-       
-</div>
-
-<br>
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
@@ -306,11 +282,39 @@ Here are some projects I've been working on, whether they are projects I might h
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
+<!-- INTERESTED IN -->
+<div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/ab80b4b1-188c-40c7-a781-81801670fcab" height="33px"></div>
+<div align="justify "style="display: block;">Key Areas I am highly interested in and wish to explore further within the fields of artificial intelligence and data science include: development operations around large language models (LLMs), model quantization techniques, inference optimization for large models, pipeline orchestration involving model processes, LLM explainability, structuring security processes in training and evaluation pipelines, ethics, epistemology, statistical validation of model experiments, statistics and statistical inference, among others.<br>
+</div><br>
+
+
+<div align="justify "style="display: block;">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/b6994d6a-6344-42fd-81ac-af2c108feb37" alt="Data Science">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/5aaeb37d-c4b0-4dc5-a78f-a8b468199174" alt="Machine Learning">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/ae0e317b-3dbc-48da-8275-351927f826b4" alt="Deep Learning">
+       <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/d815c322-6f60-4d7e-aec7-05423a09353a" alt="NLP">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/8bcf4290-cfda-457f-9d92-523c1a3660e1" alt="Ethics">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/a5d27216-89a3-4e71-8e1e-5fcf33a05bec" alt="Statistic">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/ec042be8-16db-4856-9feb-c043b2b85e57" alt="Responsible AI">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/ae96a2f4-6988-458e-aaf1-f0fb867465a8" alt="AI Explainability">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/3c0249a4-b827-4ac4-9d9f-a80c16f1c35f" alt="Epistemology">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/4cd52aca-3beb-4833-b6d7-095eddb0a192" alt="Philosophy">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/e0381a97-70f5-42bf-af18-fd9d36480edf" alt="LLMs">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/75fff8df-bb69-452a-a20f-5165e6f1321f" alt="LLMs">
+       
+       
+</div>
+<br>
 
 <!--FUN FACT-->
 <div align="justify "style="display: block;">
       <img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> 
-      <img src="https://github.com/user-attachments/assets/b5ae8861-f395-4e27-9115-5a81ad38fde2" height="17cm"> 
+      <img src="https://github.com/user-attachments/assets/b5ae8861-f395-4e27-9115-5a81ad38fde2" height="17cm"> <br>
+      :zap:
+      <span style="display: block; text-align: center; font-size: 10px;" 
+         
+   I support and encourage women in technology</b> organizations and I have the honor of participating in two amazing communities of women in the field: women in artificial intelligence community <b>[MIA - Mulheres em IA](https://www.instagram.com/mulheres.em.ia/)</b> and Brazilian Women in Text Processing <b>[BPLN Brasileiras em PLN](https://brasileiraspln.com)</b>. These are incredible communities that have many initiatives and contributions for women. Check them out for more information and to learn about their work! 
+      </span><br>
       I'm a naturally curious person, always eager to learn, collaborate with other teams and colleagues, and improve my skills. In my free time, I enjoy consuming books and movies, especially in the horror genre. I also love playing video games, mainly RPGs — my favorite D&D class is monk. Some of my all-time favorite games include Stardew Valley, Monster Hunter, and Skyrim.<br>
 </div>
 
