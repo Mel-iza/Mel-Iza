@@ -335,39 +335,121 @@ Here are some projects I've been working on, whether they are projects I might h
 
  <!-- SEPARATOR --> <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
-<!--A FEW THINGS THAT DEFINE ME-->
-<div align="justify "style="display: block;">
+<!--BEYOND WORK-->
+<div align="left "style="display: block;">
       <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
       <img src="https://github.com/user-attachments/assets/8deb1302-6d7d-427d-8773-83aee38e75cc" height="33px"> <br>
       <!-- FIRM BELIEVER IN -->
          <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/76b5b3a2-3a6e-410a-b59e-488d35310d3e" height="18px" style="vertical-align: middle; margin-right: 5px;">
+  <img src="https://github.com/user-attachments/assets/76b5b3a2-3a6e-410a-b59e-488d35310d3e" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
-    Supporting and encouraging women in technology. <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspI have the honor of participating in two amazing communities in the field - check their work.<br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🩷 <a href="https://www.instagram.com/mulheres.em.ia/" style="font-weight: bold;">MIA - Mulheres em IA</a> <br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🩷 <a href="https://brasileiraspln.com" style="font-weight: bold;">BPLN - Brasileiras em PLN</a>. 
-  </span>
-     <br><br>
+  Supporting and encouraging women in technology. <br>I have the honor of participating in two amazing communities in the field.<br>Check their work for incredible initiatives supporting women in tech!<br>
+  <div style="margin-left: 20px;">
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
+    <b>MIA - Mulheres em IA</b>: <a href="https://www.instagram.com/mulheres.em.ia/">@mulheres.em.ia</a><br>
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
+    <b>BPLN - Brasileiras em PLN</b>: <a href="https://brasileiraspln.com">brasileiraspln.com</a>
+  </div>
+    
+</span>
+     <br>
        <!-- FUN FACTS -->
-     <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
-      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
+     <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px; margin-left: 20px;">
+      <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span><br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🎮 <b>RPG enthusiast</b>: My favorite D&D class is monk <br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🎲 <b>Gaming lover</b>: Stardew Valley, Monster Hunter and Skyrim fan<br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🎥 <b>Horror genre addic</b>: Both in books and movies<br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🧠 <b>Naturally curious</b>: Forever exploring new knowledge areas<br>
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> RPG enthusiast</b>: My favorite D&D class is monk <br>
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Gaming lover</b>: Stardew Valley, Monster Hunter and Skyrim fan<br>
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Horror genre addic</b>: Both in books and movies<br>
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Naturally curious</b>: Forever exploring new knowledge areas<br>
   </span>
     
+
 </div>
 </div>
 
+--------
 
-<!-- CARDS DE CONTATO -->
-<div align="left" style="width: 100%;"><br>
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
+  <!-- Logo/Título -->
+  <img src="https://github.com/user-attachments/assets/8deb1302-6d7d-427d-8773-83aee38e75cc" height="33px" style="margin-bottom: 15px;">
+  
+  <!-- Seção Communities -->
+  <div style="max-width: 600px; text-align: center; margin-bottom: 20px;">
+    <div style="display: inline-block; text-align: left;">
+      <img src="https://github.com/user-attachments/assets/76b5b3a2-3a6e-410a-b59e-488d35310d3e" height="18px" style="vertical-align: middle; margin-right: 5px;">
+      <span style="font-size: 10px;">
+        Supporting and encouraging women in technology. I have the honor of participating in two amazing communities in the field.<br>Check their work for incredible initiatives supporting women in tech!
+      </span>
+      <div style="margin-top: 10px; text-align: left;">
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
+          <span style="font-size: 10px;">
+            <b>MIA - Mulheres em IA</b>: <a href="https://www.instagram.com/mulheres.em.ia/">@mulheres.em.ia</a>
+          </span>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
+          <span style="font-size: 10px;">
+            <b>BPLN - Brasileiras em PLN</b>: <a href="https://brasileiraspln.com">brasileiraspln.com</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Seção Fun Facts -->
+  <div style="max-width: 600px; text-align: center;">
+    <div style="display: inline-block; text-align: left;">
+      <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
+      <span style="font-size: 10px;"><br></span>
+      <div style="margin-top: 10px;">
+        <!-- Itens Fun Facts -->
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
+          <span style="font-size: 10px;">
+            <b>RPG enthusiast</b>: My favorite D&D class is monk
+          </span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
+          <span style="font-size: 10px;">
+            <b>Gaming lover</b>: Stardew Valley, Monster Hunter and Skyrim fan
+          </span>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
+          <span style="font-size: 10px;">
+            <b>Horror genre addict</b>: Both in books and movies
+          </span>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
+          <span style="font-size: 10px;">
+            <b>Naturally curious</b>: Forever exploring new knowledge areas
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+--------
+
+<!-- SEPARADOR -->
+<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
+
+
+<!-- LETS CONNECT -->
+
+<img align=center height="33px" src="https://github.com/user-attachments/assets/b755a694-44be-4faa-a430-6d86b4f5d6d0">
+<br>Feel free to contact me for collaborations on AI/NLP projects, discussions about women in tech initiatives, sharing game recommendations (RPGs preferred!) and opportunities in the area!<br>
+
+  <!-- CARDS DE CONTATO -->
+<div align="left" style="width: 100%;">
   <div style="float: left; text-align: center;text-decoration: none;">
       <!-- YOU CAN CONTACT ME ON -->
-     <img src="https://github.com/user-attachments/assets/78fd2abd-23d6-41fd-b196-e3384797e7fc" height="19cm"> 
-     <img height="19px" src="https://github.com/user-attachments/assets/7192e676-77ee-4527-9918-fb6a8a7fb8d8">
+   &nbsp&nbsp&nbsp&nbsp<img height="26px" src="https://github.com/user-attachments/assets/d4755088-8c7e-4982-91c4-3ef03d51ba78" />
+    <!-- <img src="https://github.com/user-attachments/assets/78fd2abd-23d6-41fd-b196-e3384797e7fc" height="19cm">  -->
          <!-- LINKEDIN -->
            <a href="https://www.linkedin.com/in/mel-augusto/" style="text-decoration: none;">
                <img src="https://github.com/user-attachments/assets/1a879bcc-b585-4735-8d72-6e85f8f90f2f" height="28px" alt="Linkedin"></a>  
@@ -385,17 +467,10 @@ Here are some projects I've been working on, whether they are projects I might h
              <img src="https://github.com/user-attachments/assets/a2c6df2f-487e-4250-9c37-f021e9389cab" height="28px" width=""></a>
   </div>
 </div>
-
-
-
-<!-- SEPARADOR -->
-<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
-  
-   
+   <br>
    <!-- YEAR -->  
-   <img src="https://github.com/user-attachments/assets/fdfe59f0-7b11-4f22-a937-96ba3a5c974c" height="19">
+   <img src="https://github.com/user-attachments/assets/64b9201a-f378-4fe9-a66e-990909807ed1" height="19">
 </div>
-
 
 </div>
 </html>
