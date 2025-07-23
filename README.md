@@ -345,9 +345,9 @@ Here are some projects I've been working on, whether they are projects I might h
   <span>
   Supporting and encouraging women in technology. <br>I have the honor of participating in two amazing communities in the field.<br>Check their work for incredible initiatives supporting women in tech!<br>
   <div style="margin-left: 20px;">
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
+    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
     <b>MIA - Mulheres em IA</b>: <a href="https://www.instagram.com/mulheres.em.ia/">@mulheres.em.ia</a><br>
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
+    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
     <b>BPLN - Brasileiras em PLN</b>: <a href="https://brasileiraspln.com">brasileiraspln.com</a>
   </div>
     
@@ -357,83 +357,14 @@ Here are some projects I've been working on, whether they are projects I might h
      <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px; margin-left: 20px;">
       <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span><br>
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> RPG enthusiast</b>: My favorite D&D class is monk <br>
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Gaming lover</b>: Stardew Valley, Monster Hunter and Skyrim fan<br>
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Horror genre addic</b>: Both in books and movies<br>
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Naturally curious</b>: Forever exploring new knowledge areas<br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> RPG enthusiast</b>: My favorite D&D class is monk <br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Gaming lover</b>: Stardew Valley, Monster Hunter and Skyrim fan<br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Horror genre addic</b>: Both in books and movies<br>
+    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Naturally curious</b>: Forever exploring new knowledge areas<br>
   </span>
-    
-
 </div>
 </div>
 
---------
-
-<div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
-  <!-- Logo/Título -->
-  <img src="https://github.com/user-attachments/assets/8deb1302-6d7d-427d-8773-83aee38e75cc" height="33px" style="margin-bottom: 15px;">
-  
-  <!-- Seção Communities -->
-  <div style="max-width: 600px; text-align: center; margin-bottom: 20px;">
-    <div style="display: inline-block; text-align: left;">
-      <img src="https://github.com/user-attachments/assets/76b5b3a2-3a6e-410a-b59e-488d35310d3e" height="18px" style="vertical-align: middle; margin-right: 5px;">
-      <span style="font-size: 10px;">
-        Supporting and encouraging women in technology. I have the honor of participating in two amazing communities in the field.<br>Check their work for incredible initiatives supporting women in tech!
-      </span>
-      <div style="margin-top: 10px; text-align: left;">
-        <div style="display: flex; align-items: center; margin-bottom: 5px;">
-          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
-          <span style="font-size: 10px;">
-            <b>MIA - Mulheres em IA</b>: <a href="https://www.instagram.com/mulheres.em.ia/">@mulheres.em.ia</a>
-          </span>
-        </div>
-        <div style="display: flex; align-items: center;">
-          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
-          <span style="font-size: 10px;">
-            <b>BPLN - Brasileiras em PLN</b>: <a href="https://brasileiraspln.com">brasileiraspln.com</a>
-          </span>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Seção Fun Facts -->
-  <div style="max-width: 600px; text-align: center;">
-    <div style="display: inline-block; text-align: left;">
-      <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
-      <span style="font-size: 10px;"><br></span>
-      <div style="margin-top: 10px;">
-        <!-- Itens Fun Facts -->
-        <div style="display: flex; align-items: center; margin-bottom: 5px;">
-          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
-          <span style="font-size: 10px;">
-            <b>RPG enthusiast</b>: My favorite D&D class is monk
-          </span>
-        </div>
-        <div style="display: flex; align-items: center; margin-bottom: 5px;">
-          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
-          <span style="font-size: 10px;">
-            <b>Gaming lover</b>: Stardew Valley, Monster Hunter and Skyrim fan
-          </span>
-        </div>
-        <div style="display: flex; align-items: center; margin-bottom: 5px;">
-          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
-          <span style="font-size: 10px;">
-            <b>Horror genre addict</b>: Both in books and movies
-          </span>
-        </div>
-        <div style="display: flex; align-items: center;">
-          <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" style="margin-right: 8px;"/>
-          <span style="font-size: 10px;">
-            <b>Naturally curious</b>: Forever exploring new knowledge areas
-          </span>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
---------
 
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
@@ -448,7 +379,7 @@ Here are some projects I've been working on, whether they are projects I might h
 <div align="left" style="width: 100%;">
   <div style="float: left; text-align: center;text-decoration: none;">
       <!-- YOU CAN CONTACT ME ON -->
-   &nbsp&nbsp&nbsp&nbsp<img height="26px" src="https://github.com/user-attachments/assets/d4755088-8c7e-4982-91c4-3ef03d51ba78" />
+   &nbsp&nbsp&nbsp&nbsp<br><img height="26px" src="https://github.com/user-attachments/assets/d4755088-8c7e-4982-91c4-3ef03d51ba78" /><br>
     <!-- <img src="https://github.com/user-attachments/assets/78fd2abd-23d6-41fd-b196-e3384797e7fc" height="19cm">  -->
          <!-- LINKEDIN -->
            <a href="https://www.linkedin.com/in/mel-augusto/" style="text-decoration: none;">
@@ -469,7 +400,7 @@ Here are some projects I've been working on, whether they are projects I might h
 </div>
    <br>
    <!-- YEAR -->  
-   <img src="https://github.com/user-attachments/assets/64b9201a-f378-4fe9-a66e-990909807ed1" height="19">
+   <img align=center src="https://github.com/user-attachments/assets/64b9201a-f378-4fe9-a66e-990909807ed1" height="25">
 </div>
 
 </div>
