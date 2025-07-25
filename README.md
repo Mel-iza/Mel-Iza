@@ -45,22 +45,22 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
    </span>
    <div align="justify "style="display: block;">
       <!--<img src="https://github.com/user-attachments/assets/6d8c27d0-4b7d-4194-a6ba-e24de3120628" height="19cm"> -->
-      &nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/7a527061-de6b-44aa-9054-288e662de3d7" height="33px"> <br>
+      <img src="https://github.com/user-attachments/assets/7a527061-de6b-44aa-9054-288e662de3d7" height="33px"> <br>
      <!-- PASSIONATE ABOUT -->
    <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
-      &nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/da5f5dff-088b-4d58-8ebc-c3f752dd861a" height="18px" style="vertical-align: middle; margin-right: 5px;">
+      <img src="https://github.com/user-attachments/assets/da5f5dff-088b-4d58-8ebc-c3f752dd861a" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
     AI/NLP with social impact, Gender-inclusive AI development, LLM vulnerability mitigation   
   </span>  <br>
       <!-- ALWAYS LEARNING -->
      <div style="text-align: center; font-size: 10px; margin: 10px 0 ; padding-left: 20px;">
-      &nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/ae926104-62df-4063-a5e8-17ea549194dc" height="18px" style="vertical-align: middle; margin-right: 5px;">
+      <img src="https://github.com/user-attachments/assets/ae926104-62df-4063-a5e8-17ea549194dc" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
     through collaboration with teams and colleagues, constantly improving my technical abilities.
   </span>  <br>
         <!-- THRIVE IN -->
       <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
-      &nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/cb46a099-0a05-4f00-bd54-c8e980650770" height="15px" style="vertical-align: middle; margin-right: 5px;">
+      <img src="https://github.com/user-attachments/assets/cb46a099-0a05-4f00-bd54-c8e980650770" height="15px" style="vertical-align: middle; margin-right: 5px;">
   <span>
     collaborative environments where knowledge sharing and teamwork are valued. I do my best work when surrounded by people who are passionate about helping each other grow.
   </span>  <br>
