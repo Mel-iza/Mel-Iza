@@ -299,18 +299,18 @@ Here are some projects I've been working on, whether they are projects I might h
 
 
 <div align="justify "style="display: block;">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/b6994d6a-6344-42fd-81ac-af2c108feb37" alt="Data Science">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/5aaeb37d-c4b0-4dc5-a78f-a8b468199174" alt="Machine Learning">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/ae0e317b-3dbc-48da-8275-351927f826b4" alt="Deep Learning">
-       <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/d815c322-6f60-4d7e-aec7-05423a09353a" alt="NLP">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/8bcf4290-cfda-457f-9d92-523c1a3660e1" alt="Ethics">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/a5d27216-89a3-4e71-8e1e-5fcf33a05bec" alt="Statistic">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/ec042be8-16db-4856-9feb-c043b2b85e57" alt="Responsible AI">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/ae96a2f4-6988-458e-aaf1-f0fb867465a8" alt="AI Explainability">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/3c0249a4-b827-4ac4-9d9f-a80c16f1c35f" alt="Epistemology">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/4cd52aca-3beb-4833-b6d7-095eddb0a192" alt="Philosophy">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/e0381a97-70f5-42bf-af18-fd9d36480edf" alt="LLMs">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:26.5px ;" src="https://github.com/user-attachments/assets/75fff8df-bb69-452a-a20f-5165e6f1321f" alt="LLMs">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/b6994d6a-6344-42fd-81ac-af2c108feb37" alt="Data Science">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/5aaeb37d-c4b0-4dc5-a78f-a8b468199174" alt="Machine Learning">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ae0e317b-3dbc-48da-8275-351927f826b4" alt="Deep Learning">
+       <img align="center" height="25px" style="max-width:px ; width:; height:21px ;" src="https://github.com/user-attachments/assets/d815c322-6f60-4d7e-aec7-05423a09353a" alt="NLP">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/8bcf4290-cfda-457f-9d92-523c1a3660e1" alt="Ethics">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/a5d27216-89a3-4e71-8e1e-5fcf33a05bec" alt="Statistic">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ec042be8-16db-4856-9feb-c043b2b85e57" alt="Responsible AI">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ae96a2f4-6988-458e-aaf1-f0fb867465a8" alt="AI Explainability">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/3c0249a4-b827-4ac4-9d9f-a80c16f1c35f" alt="Epistemology">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/4cd52aca-3beb-4833-b6d7-095eddb0a192" alt="Philosophy">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/e0381a97-70f5-42bf-af18-fd9d36480edf" alt="LLMs">
+       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/75fff8df-bb69-452a-a20f-5165e6f1321f" alt="LLMs">
        </div>
        
 <br>
