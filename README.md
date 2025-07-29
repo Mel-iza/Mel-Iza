@@ -86,122 +86,125 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
 <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/caf8a498-423e-4a31-8bd6-08aa2415714c"><br>
    Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.
    <div style="display: block;">
-   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;"">
+  <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
      <tbody> 
-       <tr style= "border: none;"> 
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+       <tr style="border: none !important; background-color: transparent !important;"> 
+         <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
             <!-- PYTHON -->
            <img src="https://github.com/user-attachments/assets/b10085e0-514f-4b0f-b816-fdf3de447323" 
                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+         <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
             <!-- GIT -->
            <img height="32px" src="https://github.com/user-attachments/assets/444806ca-4afd-4363-9322-0f3789d26288"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
             <!-- GITHUB -->
            <img height="32px" src="https://github.com/user-attachments/assets/3723eba6-89da-4d91-8367-3aa402075184"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
             <!-- JUPYTER -->
            <img height="32" src="https://github.com/user-attachments/assets/74140ad2-7a4f-4862-8b8f-aecaee82b2f9"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+         <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
             <!-- DOCKER -->
            <img height="32px" src="https://github.com/user-attachments/assets/d0c7fc2e-d7fb-4dbf-80d3-bfc90538e59a"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
             <!-- LINUX -->
            <img height="32px" src="https://github.com/user-attachments/assets/8d65a854-2748-4766-8c4f-5a8a0ad78a51"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
             <!-- PYTORCH -->
            <img height="32px" src="https://github.com/user-attachments/assets/6a348897-2129-4f94-904d-5f15fdc5375a" 
              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
             <!-- FASTAPI -->
            <img height="32px" src="https://github.com/user-attachments/assets/21ac3fd3-0a17-48dd-b119-ea06133b880c"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
             <!-- HUGGINGFACE -->
            <img height="32px" src="https://github.com/user-attachments/assets/0e52b3b6-938e-4b28-bf1b-ecdb6d2e59cf"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+           <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- RUNPOD -->
            <img height="32px" src="https://github.com/user-attachments/assets/8a309d5e-81c1-426f-aef4-7fc41dd3b581"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-          <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
-              <!-- GOOGLE COLAB -->
-              <img height="32" src="https://github.com/user-attachments/assets/57e0db6d-1106-4a9a-ad81-3d5f110d014f"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>  
        </tr>
         <tr> 
-        <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+        <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- NUMPY -->
            <img height="32px" src="https://github.com/user-attachments/assets/d7fa66a1-33aa-4523-92ef-fc3d59700277"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- VSCODE -->
            <img height="32px" src="https://github.com/user-attachments/assets/04f35a6c-e59f-47bd-b5d7-7fbb027727e2"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- ANACONDA -->
            <img height="32px" src="https://github.com/user-attachments/assets/d5fa245e-fd39-498d-8b37-8e0f5db7f346"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- PANDAS -->
            <img height="32" src="https://github.com/user-attachments/assets/1eb3d9a7-9b74-44e4-8826-9125d666c099"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-          <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- SQL -->
               <img height="32" src="https://github.com/user-attachments/assets/2bae58e9-5a0f-47a1-9134-9ea114e9879b"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>
-           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- VERCEL -->
               <img height="32" src="https://github.com/user-attachments/assets/e35addb5-9482-47cc-8dd5-5088e2461cfe"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>   
-           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- STREAMLIT -->
               <img height="32" src="https://github.com/user-attachments/assets/7323b5b2-8f1d-478e-be39-858605f80193"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>   
-           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
-              <!-- WEIGHTS AND BIASES -->
-              <img height="32" src="https://github.com/user-attachments/assets/092d668e-6708-431b-b5b3-0bf1b87b42f5"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>   
-           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- INSOMNIA -->
               <img height="32" src="https://github.com/user-attachments/assets/5452cfcc-0893-4397-9306-78cd86f1ac09"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>  
-           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- POSTMAN -->
               <img height="32" src="https://github.com/user-attachments/assets/9db257d9-7de9-40a2-b3b1-552c28813630"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>
-           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- NGROK -->
               <img height="32" src="https://github.com/user-attachments/assets/9587eb9f-544f-461e-941a-c25a28a66fc5"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td> 
         </tr>
+         <tr> 
+        <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+              <!-- WEIGHTS AND BIASES -->
+              <img height="32" src="https://github.com/user-attachments/assets/092d668e-6708-431b-b5b3-0bf1b87b42f5"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td>   
+          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+              <!-- GOOGLE COLAB -->
+              <img height="32" src="https://github.com/user-attachments/assets/57e0db6d-1106-4a9a-ad81-3d5f110d014f"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td>  
+         </td> 
+         </tr>
      </tbody>
    </table>
 
