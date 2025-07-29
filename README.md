@@ -1,3 +1,4 @@
+
 <img align="center" src= "https://github.com/user-attachments/assets/e7664201-b692-4a78-819c-90ae6dcaa16a" width="1200px">
 
 
@@ -18,14 +19,22 @@
     <img style="width: 265px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" alt="Productive Time">
   </div>
 </div>
-
+<br>
 --> 
 
-<div style="width: 100%; height: 650px; display: flex; justify-content: center; align-items: center;">
-  <div style="font-size: 0; width: 100%; max-width: 100vw; overflow: hidden;">
-    <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/profile-details?username=Mel-iza&theme=florescent_dahlia" 
-         style="width: 100%; height: 250px; object-fit: cover;" alt="Profile Details">
-  </div>
+<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
+    
+</div>
+<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
+      <img style="width: 500px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
+      <img style="width: 363px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
+</div>
+
+<!-- TROFÉUS -->
+<div align="center" display="block" style="width:100%; overflow-x: auto;">
+   <img height="300cm" width="400cm" style="max-width: 870px; width: 870px; height: 108px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
+
+<!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> -->
 </div><br>
 
 <!-- ABOUT ME -->   
@@ -141,67 +150,92 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
            <img height="35px" src="https://github.com/user-attachments/assets/d7fa66a1-33aa-4523-92ef-fc3d59700277"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-          <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- VSCODE -->
            <img height="35px" src="https://github.com/user-attachments/assets/04f35a6c-e59f-47bd-b5d7-7fbb027727e2"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-          <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- ANACONDA -->
            <img height="35px" src="https://github.com/user-attachments/assets/d5fa245e-fd39-498d-8b37-8e0f5db7f346"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-            <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
            <!-- PANDAS -->
            <img height="35px" src="https://github.com/user-attachments/assets/1eb3d9a7-9b74-44e4-8826-9125d666c099"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-          <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- SQL -->
               <img height="35px" src="https://github.com/user-attachments/assets/2bae58e9-5a0f-47a1-9134-9ea114e9879b"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>
-            <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- VERCEL -->
               <img height="35px" src="https://github.com/user-attachments/assets/e35addb5-9482-47cc-8dd5-5088e2461cfe"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>   
-            <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- STREAMLIT -->
               <img height="35px" src="https://github.com/user-attachments/assets/7323b5b2-8f1d-478e-be39-858605f80193"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>   
-            <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- INSOMNIA -->
               <img height="35px" src="https://github.com/user-attachments/assets/5452cfcc-0893-4397-9306-78cd86f1ac09"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>  
-            <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- POSTMAN -->
               <img height="35px" src="https://github.com/user-attachments/assets/9db257d9-7de9-40a2-b3b1-552c28813630"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>
         </tr>
          <tr> 
-        <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- WEIGHTS AND BIASES -->
               <img height="35px" src="https://github.com/user-attachments/assets/092d668e-6708-431b-b5b3-0bf1b87b42f5"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>   
-          <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+          <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- GOOGLE COLAB -->
-              <img height="32" src="https://github.com/user-attachments/assets/57e0db6d-1106-4a9a-ad81-3d5f110d014f"
+              <img height="35px" src="https://github.com/user-attachments/assets/57e0db6d-1106-4a9a-ad81-3d5f110d014f"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>  
          </td>
-         <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+         <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- RUNPOD -->
-           <img height="32px" src="https://github.com/user-attachments/assets/8a309d5e-81c1-426f-aef4-7fc41dd3b581"
+           <img height="35px" src="https://github.com/user-attachments/assets/8a309d5e-81c1-426f-aef4-7fc41dd3b581"
               style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-        <td width="100px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
               <!-- NGROK -->
-              <img height="32" src="https://github.com/user-attachments/assets/9587eb9f-544f-461e-941a-c25a28a66fc5"
+              <img height="35px" src="https://github.com/user-attachments/assets/9587eb9f-544f-461e-941a-c25a28a66fc5"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td> 
+           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+              <!-- SEABORN -->
+              <img height="35px" src="https://github.com/user-attachments/assets/eca239bc-ff2c-44a2-9839-0dae5f0542dd"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td> 
+           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+              <!-- NANO -->
+              <img height="35px" src="https://github.com/user-attachments/assets/27daf587-a046-4034-bc27-a39aac17916f"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td> 
+           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+              <!-- PYTEST -->
+              <img height="35px" src="https://github.com/user-attachments/assets/8623bb27-8134-46ff-a141-b9f9fdffcba0"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td> 
+           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+              <!-- SCIKIT LEARN -->
+               <img height="35px" src="https://github.com/user-attachments/assets/d1f03cfe-7fee-4856-b376-d60fe2c1725f"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td>
+           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+              <!-- AWS Bedrock -->
+               <img height="35px" src="https://github.com/user-attachments/assets/0ce8394f-00e2-4aa1-aa42-966423018e9d"
                  style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td> 
          </tr>
@@ -323,7 +357,7 @@ Here are some projects I've been working on, whether they are projects I might h
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
  <!-- CARDS PROFILE STATUS -->
-<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
+<!-- <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
     <img height="35" width="" style="margin: auto; display: block;" src="https://github.com/user-attachments/assets/24f9da00-470b-410e-a097-0eddcabc60bf">
 </div>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
@@ -331,14 +365,28 @@ Here are some projects I've been working on, whether they are projects I might h
    <img style="width: 290px; height: auto;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
  
   
-</div>
+</div>-->
 
 
 <!-- TROFÉUS -->
-<div align="center" display="block" style="width:100%; overflow-x: auto;">
-   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
+<!--<div align="center" display="block" style="width:100%; overflow-x: auto;">
+   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>-->
 
-<!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> -->
+<!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> 
+</div>-->
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Card 1 (Streak Stats) -->
+  <div style="width: 500px; height: 180px; display: flex; justify-content: center;">
+    <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" 
+         style="width: 100%; height: 100%; object-fit: contain;">
+  </div>
+  
+  <!-- Card 2 (Productive Time) -->
+  <div style="width: 300px; height: 180px; display: flex; justify-content: center;">
+    <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" 
+         style="width: 100%; height: 100%; object-fit: contain;">
+  </div>
 </div>
 
 
