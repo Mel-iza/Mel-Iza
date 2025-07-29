@@ -86,71 +86,121 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
 <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/caf8a498-423e-4a31-8bd6-08aa2415714c"><br>
    Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.
    <div style="display: block;">
-   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
+   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;"">
      <tbody> 
-       <tr> 
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Python<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+       <tr style= "border: none;"> 
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <!-- PYTHON -->
+           <img src="https://github.com/user-attachments/assets/b10085e0-514f-4b0f-b816-fdf3de447323" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Git<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <!-- GIT -->
+           <img height="32px" src="https://github.com/user-attachments/assets/444806ca-4afd-4363-9322-0f3789d26288"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           GitHub<br>
-           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/a5372fb0-95bc-4f35-9e44-58aaebb3c179">
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <!-- GITHUB -->
+           <img height="32px" src="https://github.com/user-attachments/assets/3723eba6-89da-4d91-8367-3aa402075184"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Jupyter<br>
-           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <!-- JUPYTER -->
+           <img height="32" src="https://github.com/user-attachments/assets/74140ad2-7a4f-4862-8b8f-aecaee82b2f9"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Docker<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <!-- DOCKER -->
+           <img height="32px" src="https://github.com/user-attachments/assets/d0c7fc2e-d7fb-4dbf-80d3-bfc90538e59a"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-          Ubuntu<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg">
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <!-- LINUX -->
+           <img height="32px" src="https://github.com/user-attachments/assets/8d65a854-2748-4766-8c4f-5a8a0ad78a51"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Pytorch<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" >
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <!-- PYTORCH -->
+           <img height="32px" src="https://github.com/user-attachments/assets/6a348897-2129-4f94-904d-5f15fdc5375a" 
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           FAST API<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <!-- FASTAPI -->
+           <img height="32px" src="https://github.com/user-attachments/assets/21ac3fd3-0a17-48dd-b119-ea06133b880c"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           HuggingFace<br>
-           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/87b19ec4-45ef-42f9-a1a7-95318fb49e4b">
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+            <!-- HUGGINGFACE -->
+           <img height="32px" src="https://github.com/user-attachments/assets/0e52b3b6-938e-4b28-bf1b-ecdb6d2e59cf"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           RunPod<br>
-           <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/2d9e4114-0d6f-473c-b517-b7439f8a0590">
-         </td>   
+           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+              <!-- RUNPOD -->
+           <img height="32px" src="https://github.com/user-attachments/assets/8a309d5e-81c1-426f-aef4-7fc41dd3b581"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
+         </td>
+          <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+              <!-- GOOGLE COLAB -->
+              <img height="32" src="https://github.com/user-attachments/assets/57e0db6d-1106-4a9a-ad81-3d5f110d014f"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td>  
        </tr>
         <tr> 
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Numpy<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+        <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+           <!-- NUMPY -->
+           <img height="32px" src="https://github.com/user-attachments/assets/d7fa66a1-33aa-4523-92ef-fc3d59700277"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           VSCode<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+           <!-- VSCODE -->
+           <img height="32px" src="https://github.com/user-attachments/assets/04f35a6c-e59f-47bd-b5d7-7fbb027727e2"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-         <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Anaconda<br>
-           <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+         <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+           <!-- ANACONDA -->
+           <img height="32px" src="https://github.com/user-attachments/assets/d5fa245e-fd39-498d-8b37-8e0f5db7f346"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td>
-           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-           Pandas<br>
-           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+           <!-- PANDAS -->
+           <img height="32" src="https://github.com/user-attachments/assets/1eb3d9a7-9b74-44e4-8826-9125d666c099"
+              style="width: 100%; height: 100%; object-fit: contain; display: block;">
          </td> 
-          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              SQL<br>
-              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+          <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+              <!-- SQL -->
+              <img height="32" src="https://github.com/user-attachments/assets/2bae58e9-5a0f-47a1-9134-9ea114e9879b"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td>
+           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+              <!-- VERCEL -->
+              <img height="32" src="https://github.com/user-attachments/assets/e35addb5-9482-47cc-8dd5-5088e2461cfe"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
             </td>   
+           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+              <!-- STREAMLIT -->
+              <img height="32" src="https://github.com/user-attachments/assets/7323b5b2-8f1d-478e-be39-858605f80193"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td>   
+           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+              <!-- WEIGHTS AND BIASES -->
+              <img height="32" src="https://github.com/user-attachments/assets/092d668e-6708-431b-b5b3-0bf1b87b42f5"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td>   
+           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+              <!-- INSOMNIA -->
+              <img height="32" src="https://github.com/user-attachments/assets/5452cfcc-0893-4397-9306-78cd86f1ac09"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td>  
+           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+              <!-- POSTMAN -->
+              <img height="32" src="https://github.com/user-attachments/assets/9db257d9-7de9-40a2-b3b1-552c28813630"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td>
+           <td width="100px" style="border: none; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center;">
+              <!-- NGROK -->
+              <img height="32" src="https://github.com/user-attachments/assets/9587eb9f-544f-461e-941a-c25a28a66fc5"
+                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
+            </td> 
         </tr>
      </tbody>
    </table>
@@ -299,18 +349,18 @@ Here are some projects I've been working on, whether they are projects I might h
 
 
 <div align="justify "style="display: block;">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/b6994d6a-6344-42fd-81ac-af2c108feb37" alt="Data Science">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/5aaeb37d-c4b0-4dc5-a78f-a8b468199174" alt="Machine Learning">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ae0e317b-3dbc-48da-8275-351927f826b4" alt="Deep Learning">
-       <img align="center" height="25px" style="max-width:px ; width:; height:21px ;" src="https://github.com/user-attachments/assets/d815c322-6f60-4d7e-aec7-05423a09353a" alt="NLP">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/8bcf4290-cfda-457f-9d92-523c1a3660e1" alt="Ethics">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/a5d27216-89a3-4e71-8e1e-5fcf33a05bec" alt="Statistic">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ec042be8-16db-4856-9feb-c043b2b85e57" alt="Responsible AI">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ae96a2f4-6988-458e-aaf1-f0fb867465a8" alt="AI Explainability">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/3c0249a4-b827-4ac4-9d9f-a80c16f1c35f" alt="Epistemology">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/4cd52aca-3beb-4833-b6d7-095eddb0a192" alt="Philosophy">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/e0381a97-70f5-42bf-af18-fd9d36480edf" alt="LLMs">
-       <img align="center" height="26.5px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/75fff8df-bb69-452a-a20f-5165e6f1321f" alt="LLMs">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/b6994d6a-6344-42fd-81ac-af2c108feb37" alt="Data Science">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/5aaeb37d-c4b0-4dc5-a78f-a8b468199174" alt="Machine Learning">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ae0e317b-3dbc-48da-8275-351927f826b4" alt="Deep Learning">
+       <img align="center" height="21px" style="max-width:px ; width:; height:21px ;" src="https://github.com/user-attachments/assets/d815c322-6f60-4d7e-aec7-05423a09353a" alt="NLP">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/8bcf4290-cfda-457f-9d92-523c1a3660e1" alt="Ethics">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/a5d27216-89a3-4e71-8e1e-5fcf33a05bec" alt="Statistic">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ec042be8-16db-4856-9feb-c043b2b85e57" alt="Responsible AI">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/ae96a2f4-6988-458e-aaf1-f0fb867465a8" alt="AI Explainability">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/3c0249a4-b827-4ac4-9d9f-a80c16f1c35f" alt="Epistemology">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/4cd52aca-3beb-4833-b6d7-095eddb0a192" alt="Philosophy">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/e0381a97-70f5-42bf-af18-fd9d36480edf" alt="LLMs">
+       <img align="center" height="23px" style="max-width:px ; width:; height:23px ;" src="https://github.com/user-attachments/assets/75fff8df-bb69-452a-a20f-5165e6f1321f" alt="LLMs">
        </div>
        
 <br>
