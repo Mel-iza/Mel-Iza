@@ -22,16 +22,16 @@
 <br>
 --> 
 
-<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;">
+<div align="center" style="width: 100%; overflow-x: auto; text-align: center;"">
     
 </div>
-<div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
+<div align="center" style="width:80%; overflow-x: auto; margin: auto; display: block;"> 
       <img style="width: 490px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
       <img style="width: 358px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
 </div>
 
 <!-- TROFÉUS -->
-<div align="center" display="block" style="width:100%; overflow-x: auto;">
+<div align="center" display="block" style="width:20%; overflow-x: auto;">
    <img height="300cm" width="400cm" style="max-width: 870px; width: 870px; height: 108px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
 
 <!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> -->
