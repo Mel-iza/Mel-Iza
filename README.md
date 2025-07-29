@@ -26,8 +26,8 @@
     
 </div>
 <div align="center" style="width:100%; overflow-x: auto; margin: auto; display: block;"> 
-      <img style="width: 500px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
-      <img style="width: 363px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
+      <img style="width: 490px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
+      <img style="width: 358px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
 </div>
 
 <!-- TROFÉUS -->
@@ -375,18 +375,28 @@ Here are some projects I've been working on, whether they are projects I might h
 <!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> 
 </div>-->
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Card 1 (Streak Stats) -->
-  <div style="width: 500px; height: 180px; display: flex; justify-content: center;">
-    <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" 
-         style="width: 100%; height: 100%; object-fit: contain;">
+<!--
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; width: 100%;">
+  <div style="flex: 1; min-width: 300px; max-width: 400px; display: flex; justify-content: center;">
+    <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" style="height: 180px; width: 100%; object-fit: contain">
   </div>
   
-  <!-- Card 2 (Productive Time) -->
-  <div style="width: 300px; height: 180px; display: flex; justify-content: center;">
-    <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" 
-         style="width: 100%; height: 100%; object-fit: contain;">
+  <div style="flex: 1; min-width: 150px; max-width: 100px; display: flex; justify-content: center;">
+    <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" style="height: 180px; width: 100%; object-fit: contain">
   </div>
+</div>-->
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 10px; text-align: center">
+        <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" style="height: 180px">
+      </td>
+      <td style="padding: 10px; text-align: center">
+        <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" style="height: 180px">
+      </td>
+    </tr>
+  </table>
 </div>
 
 
@@ -427,7 +437,7 @@ Here are some projects I've been working on, whether they are projects I might h
 <div>
   <!-- MY STUDY SPACE -->
    <div align="right" width="48%" style="display: inline-block;">
-    <img align="right" style="display: block; margin-left: auto; margin-right: auto; max-width: 500px; width: 500px;  height:180px; max-height:180px"  src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D">
+   
   </div>  
       <img src="https://github.com/user-attachments/assets/25f9cdc7-e46a-4c21-a7e2-8a36bd1af104" height="33px"/>
         <p align="justify">This is the study space I've built and continue to develop over time. Here you'll find repositories documenting my learning roadmaps and study plans, current focus areas and ongoing projects and future project ideas and experiments.</p>
@@ -475,12 +485,7 @@ Here are some projects I've been working on, whether they are projects I might h
 
 
 <!-- LETS CONNECT -->
-
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <!-- Coluna Esquerda - Texto -->
-    <td width="60%" style="vertical-align: top; padding-right: 20px;">
-      <img align=center height="33px" src="https://github.com/user-attachments/assets/b755a694-44be-4faa-a430-6d86b4f5d6d0">
+   <img align=center height="33px" src="https://github.com/user-attachments/assets/b755a694-44be-4faa-a430-6d86b4f5d6d0">
        <p style="text-align: justify; margin: 0;">
         Feel free to contact me for collaborations on AI/NLP projects, 
         discussions about women in tech initiatives, sharing game recommendations 
@@ -509,16 +514,10 @@ Here are some projects I've been working on, whether they are projects I might h
              <img src="https://github.com/user-attachments/assets/cb83dc39-e7cd-4a42-8b7c-fa2ea97c39de" height="22px" width=""></a>
         </div>
       </p>
-    </td>
-    <!-- Coluna Direita - Contatos -->
-    <td width="50%" style="align=center"; padding: 2px;">
- <div style="display: flex; justify-content: center; align-items: center; height: 100%; text-align: center;">
-  <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" 
-       style="width: 300px; height: auto; object-fit: contain;" alt="Productive Time">
+
 </div>
-</td>
-  </tr>
-</table>
+
+
 
 
 <div align="center">
