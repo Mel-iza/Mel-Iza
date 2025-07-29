@@ -26,13 +26,13 @@
     
 </div>
 <div align="center" style="width:80%; overflow-x: auto; margin: auto; display: block;"> 
-      <img style="width: 480px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
-      <img style="width: 348px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
+      <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
+      <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
 </div>
 
 <!-- TROFÉUS -->
 <div align="center" display="block" style="width:20%; overflow-x: auto;">
-   <img height="300cm" width="400cm" style="max-width: 870px; width: 870px; height: 108px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
+   <img height="300cm" width="300cm" style="max-width: 770px; width: 770px; height: 95px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&title=Joined2020,Repositories,Experience,Star,Followers,Commit,PR,Issues&column=8&row=1&margin-w=10"> <br>
 
 <!-- TROFÉU POR RANK   <img height="200cm" width="300cm" style="max-width: 720px; width: 720px; height: 80px;" src="https://github-profile-trophy.vercel.app/?username=Mel-iza&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=8&row=1&margin-w=4"> <br> -->
 </div><br>
@@ -93,7 +93,7 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
 
 <!-- I'M LEARNING AND HOBBIES -->
 <img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/caf8a498-423e-4a31-8bd6-08aa2415714c"><br>
-   Technologies I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.
+   Technologies, tools and frameworks I have had contact with or have closer contact with in my daily work and am learning today. I have a bit more familiarity and am in a continuous learning process with these technologies.
    <div style="display: block;">
   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
      <tbody> 
@@ -245,7 +245,7 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
 
 <!-- WISH TO LEARN -->
 <div style="display: block;">
-<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/86c907b1-725c-4b3c-80c3-3636acc10f6c"><br>The main technologies I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br>
+<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/86c907b1-725c-4b3c-80c3-3636acc10f6c"><br>The main technologies, tools and frameworks I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br>
    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
      <tbody> 
        <tr>
