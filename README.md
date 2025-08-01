@@ -494,10 +494,10 @@ Here are some projects I've been working on, whether they are projects I might h
       <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
         <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span><br>
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> RPG enthusiast</b>: My favorite D&D class is monk <br>
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Gaming lover</b>: Stardew Valley, Monster Hunter, Skyrim fan<br>
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Horror genre addic</b>: Both in books and movies<br>
-    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Naturally curious</b>: Forever exploring new knowledge areas<br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> RPG enthusiast</b>: My favorite D&D class is monk <br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Gaming lover</b>: Stardew Valley, Monster Hunter, Skyrim<br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Horror genre addic</b>: Both in books and movies<br>
+     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Naturally curious</b>: Forever exploring new knowledge areas<br>
   </span>
       </td>
     </tr>
@@ -511,52 +511,58 @@ Here are some projects I've been working on, whether they are projects I might h
 
 
 <!-- LETS CONNECT -->
+<div align="center">
    <img align=center height="33px" src="https://github.com/user-attachments/assets/b755a694-44be-4faa-a430-6d86b4f5d6d0">
-       <p style="text-align: justify; margin: 0;">
+       <!--<p style="text-align: justify; margin: 0;">-->
+       <p style="text-align: justify; width: 70% !important; margin: 0 auto !important;">  
         Feel free to contact me for collaborations on AI/NLP projects, 
         discussions about women in tech initiatives, sharing game recommendations 
         (RPGs preferred!) and opportunities in the area!<br>      
           <div style="display: inline-block; align-items: center;">
           <!-- how to reach me -->
-            <img height="22px" align-items: center src="https://github.com/user-attachments/assets/49b2fc92-a1d9-4409-8ea9-d86ed6ff57f3" style="display: flex">
+            <!--<img height="22px" align-items: center src="https://github.com/user-attachments/assets/49b2fc92-a1d9-4409-8ea9-d86ed6ff57f3" style="display: flex"><br>-->
           <!-- Ícones -->
              <!-- LINKEDIN -->
            <a href="https://www.linkedin.com/in/mel-augusto/" style="text-decoration: none;">
-               <img src="https://github.com/user-attachments/assets/ad7b2ccf-017c-493d-b1e3-8a34fe9d2ee8" height="22px" alt="Linkedin"></a>  
+               <img src="https://github.com/user-attachments/assets/ad7b2ccf-017c-493d-b1e3-8a34fe9d2ee8" height="35px" alt="Linkedin"></a>  
          <!-- EMAIL --> 
             <a href="mailto:meliza.caug@gmail.com" style="text-decoration: none;">
-                <img src="https://github.com/user-attachments/assets/4454590c-64fe-4bb4-94fe-355dc170e850" height="22px" width=""></a>
+                <img src="https://github.com/user-attachments/assets/4454590c-64fe-4bb4-94fe-355dc170e850" height="35px" width=""></a>
          <!-- HOTMAIL -->
          <a href="mailto:mel.augusto@fatec.sp.gov.br" style="text-decoration: none;">
-             <img src="https://github.com/user-attachments/assets/65c12352-c536-4c01-a887-0e2991c53c15" height="22px" width=""></a>
+             <img src="https://github.com/user-attachments/assets/65c12352-c536-4c01-a887-0e2991c53c15" height="35px" width=""></a>
          <!-- DISCORD -->
          <a href="#" onclick="alert('mel7514'); return false;" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/1860a872-59c1-4651-a9ab-c98ecdcb3b2a" height="22px" width=""></a>
+             <img src="https://github.com/user-attachments/assets/1860a872-59c1-4651-a9ab-c98ecdcb3b2a" height="35px" width=""></a>
          <!-- HUGGINGFACE -->
          <a href="https://huggingface.co/Mel-Iza0" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/214036e7-f154-47b1-91ba-b1e84097b588" height="22px" width=""></a>
+             <img src="https://github.com/user-attachments/assets/214036e7-f154-47b1-91ba-b1e84097b588" height="35px" width=""></a>
         <!-- LATTES -->
-         <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8533292E6&tokenCaptchar=03AFcWeA7f0Si2jVZseedjFBWX9KVGB8_JOa4cIRrxVRxlAGK4b-7d93P2LWAeaWjBHoyTdkuT4UfEsVpFZ2F8MQn28M9QKxx9SVwXfSnpphv3bazSovD7Qm-vtsXIrF6varT9BkCO8fG5581qqtJi6CJl6QSFgCNFVtfmbvzyC9jyUXc_HwRy64h2R8vWMtRIa8J84i1r25nnX9xV584Eq0_vaT0Ch9icwgqFZxejix-7Ldvic2k0_93vdT9k8bJqPOdR2yVWxJY_SdE7CnmkDmzt27DFF28_pjHq1YTGDRnrxuPbTYt4zEhCPEejA-F09CbN3fNkRF73OCOeUWS9Ihvv7YGK1C-2ORgHUUjczynGGCoceWmxCHmVfdsN3AA3xsWfjk1G0BixhNuJlcOA_qtEVd9ipCrsH_lE6Xc4Rk3hZmmZP3ggKiVcFrGZP9-VvFcGUyhAlwZjlUunNgq806J_ZbyKA4l_0Vk-Gd4P9XBb7MxfJmNvtiGETsJEyfIqqRHUiGYx46Dxw7HCurHJiRB-5Gf_72A40a9oqjxHP5ncD57qagT4FjWzkBuO2kC7w1JXdr7WvMuIG_y-c9bPtuNuNk5gcBHO9TWu6gZvj5awux22AAgmPYaAunreoQcNWIDl6n8FX4SKyj2fDq23lXOG3w7xlWvFLtuYNDl_JRuGKdYFGF-qn0FkHb5UjSQyB-aYMR2qY4Jlv8hW1GctBTqLwrGYD8VNsTiGLmbj6a9ELflxiWZ9OnTduj2xQkFsgh5FviiNbG9v6aa4j247xKfUPqjV7xIvFq2GrfyqnFc-ENCDe5lB7x8Qf13XSgOwFsMGBsdp-nwGHVTiuIuTeSx8in99qk4xVfWMfjkoCjI65_huFMFAnMELicswk8fRwj-WKVg-SHc0c1IfAG3wVBgtv0EFHYGVgQEzW4Du42YZ0CnTURwouz8XktLtQ6M0-zsnYVSVwzNWnRk52Q1T5RCjbymZlWaQSMI7eI5l_fdKnCM7NeE_OW_4WFcK7zHJGqHT-TEKiBk5i4G8n0h9htrbR38fIBbAdw" style="text-decoration: none;"> 
-             <img src="https://github.com/user-attachments/assets/cb83dc39-e7cd-4a42-8b7c-fa2ea97c39de" height="22px" width=""></a>
+         <a href="http://lattes.cnpq.br/3726468291337472" style="text-decoration: none;"> 
+             <img src="https://github.com/user-attachments/assets/cb83dc39-e7cd-4a42-8b7c-fa2ea97c39de" height="35px" width=""></a>
         </div>
       </p>
+
+   
+</div>
+   
 
 </div>
 
 
 
-
+<!--
 <div align="center">
   <img src="https://github.com/user-attachments/assets/09c82474-9912-44f1-9979-03963a28bb5b" 
        width="950" 
        style="height: auto; display: inline-block;">
-</div>
+</div> -->
 <br>
 
    <br>
    <!-- YEAR -->  
    <div align="center">
-      <img align=center src="https://github.com/user-attachments/assets/64b9201a-f378-4fe9-a66e-990909807ed1" height="40">
+      <img align=center src="https://github.com/user-attachments/assets/64b9201a-f378-4fe9-a66e-990909807ed1" height="35">
    </div>
 </div>
 
