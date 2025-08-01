@@ -1,5 +1,5 @@
 
-<img align="center" src= "https://github.com/user-attachments/assets/e7664201-b692-4a78-819c-90ae6dcaa16a" width="1200px">
+<img align="center" src= "https://github.com/user-attachments/assets/39a067ab-1abf-4aa2-af44-a702bf4d1944" width="1200px">
 
 
 
@@ -27,6 +27,8 @@
 </div>
 <div align="center" style="width:80%; overflow-x: auto; margin: auto; display: block;"> 
       <img style="width: 450px; height: 80%;" src="https://github-readme-stats.vercel.app/api?username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">
+   <!--  MY VERCEL APP -->
+   <!--<img style="width: 450px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/username=Mel-iza&show_icons=true&rank_icon=github&hide_rank=false&show=discussions_started&card_width=400px&title_color=E86C85&text_color=FFA39A&icon_color=FF9C8E&bg_color=fffbf7&ring_color=E86C85&border_radius=5.5&line_height=20&number_format=long" alt="GitHub Stats">-->
       <img style="width: 328px; height: 80%;" src="http://github-profile-summary-cards-umber.vercel.app/api/cards/repos-per-language?username=Mel-iza&theme=florescent_dahlia" alt="Top Languages">
 </div>
 
@@ -98,216 +100,244 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
      <tbody> 
        <tr style="border: none !important; background-color: transparent !important;"> 
-         <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-            <!-- PYTHON -->
-           <img src="https://github.com/user-attachments/assets/b10085e0-514f-4b0f-b816-fdf3de447323" 
-                style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-         <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-            <!-- GIT -->
-           <img height="35px" src="https://github.com/user-attachments/assets/444806ca-4afd-4363-9322-0f3789d26288"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-            <!-- GITHUB -->
-           <img height="35px" src="https://github.com/user-attachments/assets/3723eba6-89da-4d91-8367-3aa402075184"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td> 
-          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-            <!-- JUPYTER -->
-           <img height="35" src="https://github.com/user-attachments/assets/74140ad2-7a4f-4862-8b8f-aecaee82b2f9"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-         <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-            <!-- DOCKER -->
-           <img height="35px" src="https://github.com/user-attachments/assets/d0c7fc2e-d7fb-4dbf-80d3-bfc90538e59a"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-            <!-- LINUX -->
-           <img height="35px" src="https://github.com/user-attachments/assets/8d65a854-2748-4766-8c4f-5a8a0ad78a51"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-            <!-- PYTORCH -->
-           <img height="35px" src="https://github.com/user-attachments/assets/6a348897-2129-4f94-904d-5f15fdc5375a" 
+               <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- PYTHON -->
+        <img src="https://github.com/user-attachments/assets/b10085e0-514f-4b0f-b816-fdf3de447323" 
              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-            <!-- FASTAPI -->
-           <img height="35px" src="https://github.com/user-attachments/assets/21ac3fd3-0a17-48dd-b119-ea06133b880c"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-            <!-- HUGGINGFACE -->
-           <img height="35px" src="https://github.com/user-attachments/assets/0e52b3b6-938e-4b28-bf1b-ecdb6d2e59cf"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-       </tr>
-        <tr> 
-        <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- NUMPY -->
-           <img height="35px" src="https://github.com/user-attachments/assets/d7fa66a1-33aa-4523-92ef-fc3d59700277"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td> 
-          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- VSCODE -->
-           <img height="35px" src="https://github.com/user-attachments/assets/04f35a6c-e59f-47bd-b5d7-7fbb027727e2"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td> 
-          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- ANACONDA -->
-           <img height="35px" src="https://github.com/user-attachments/assets/d5fa245e-fd39-498d-8b37-8e0f5db7f346"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-           <!-- PANDAS -->
-           <img height="35px" src="https://github.com/user-attachments/assets/1eb3d9a7-9b74-44e4-8826-9125d666c099"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td> 
-          <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- SQL -->
-              <img height="35px" src="https://github.com/user-attachments/assets/2bae58e9-5a0f-47a1-9134-9ea114e9879b"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>
-            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- VERCEL -->
-              <img height="35px" src="https://github.com/user-attachments/assets/e35addb5-9482-47cc-8dd5-5088e2461cfe"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>   
-            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- STREAMLIT -->
-              <img height="35px" src="https://github.com/user-attachments/assets/7323b5b2-8f1d-478e-be39-858605f80193"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>   
-            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- INSOMNIA -->
-              <img height="35px" src="https://github.com/user-attachments/assets/5452cfcc-0893-4397-9306-78cd86f1ac09"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>  
-            <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- POSTMAN -->
-              <img height="35px" src="https://github.com/user-attachments/assets/9db257d9-7de9-40a2-b3b1-552c28813630"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>
-        </tr>
-         <tr> 
-        <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- WEIGHTS AND BIASES -->
-              <img height="35px" src="https://github.com/user-attachments/assets/092d668e-6708-431b-b5b3-0bf1b87b42f5"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>   
-          <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- GOOGLE COLAB -->
-              <img height="35px" src="https://github.com/user-attachments/assets/57e0db6d-1106-4a9a-ad81-3d5f110d014f"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>  
-         </td>
-         <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- RUNPOD -->
-           <img height="35px" src="https://github.com/user-attachments/assets/8a309d5e-81c1-426f-aef4-7fc41dd3b581"
-              style="width: 100%; height: 100%; object-fit: contain; display: block;">
-         </td>
-        <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- NGROK -->
-              <img height="35px" src="https://github.com/user-attachments/assets/9587eb9f-544f-461e-941a-c25a28a66fc5"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td> 
-           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- SEABORN -->
-              <img height="35px" src="https://github.com/user-attachments/assets/eca239bc-ff2c-44a2-9839-0dae5f0542dd"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td> 
-           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- NANO -->
-              <img height="35px" src="https://github.com/user-attachments/assets/27daf587-a046-4034-bc27-a39aac17916f"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td> 
-           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- PYTEST -->
-              <img height="35px" src="https://github.com/user-attachments/assets/8623bb27-8134-46ff-a141-b9f9fdffcba0"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td> 
-           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- SCIKIT LEARN -->
-               <img height="35px" src="https://github.com/user-attachments/assets/d1f03cfe-7fee-4856-b376-d60fe2c1725f"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td>
-           <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
-              <!-- AWS Bedrock -->
-               <img height="35px" src="https://github.com/user-attachments/assets/0ce8394f-00e2-4aa1-aa42-966423018e9d"
-                 style="width: 100%; height: 100%; object-fit: contain; display: block;">
-            </td> 
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- GIT -->
+        <img height="35px" src="https://github.com/user-attachments/assets/444806ca-4afd-4363-9322-0f3789d26288"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- GITHUB -->
+        <img height="35px" src="https://github.com/user-attachments/assets/3723eba6-89da-4d91-8367-3aa402075184"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- JUPYTER -->
+        <img height="35" src="https://github.com/user-attachments/assets/74140ad2-7a4f-4862-8b8f-aecaee82b2f9"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- GOOGLE COLAB -->
+        <img height="35px" src="https://github.com/user-attachments/assets/57e0db6d-1106-4a9a-ad81-3d5f110d014f"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- NANO -->
+        <img height="35px" src="https://github.com/user-attachments/assets/27daf587-a046-4034-bc27-a39aac17916f"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- LINUX -->
+        <img height="35px" src="https://github.com/user-attachments/assets/8d65a854-2748-4766-8c4f-5a8a0ad78a51"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- VSCODE -->
+        <img height="35px" src="https://github.com/user-attachments/assets/04f35a6c-e59f-47bd-b5d7-7fbb027727e2"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- DOCKER -->
+        <img height="35px" src="https://github.com/user-attachments/assets/d0c7fc2e-d7fb-4dbf-80d3-bfc90538e59a"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      </tr>
+      <tr> 
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- FASTAPI -->
+        <img height="35px" src="https://github.com/user-attachments/assets/21ac3fd3-0a17-48dd-b119-ea06133b880c"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- STREAMLIT -->
+        <img height="35px" src="https://github.com/user-attachments/assets/7323b5b2-8f1d-478e-be39-858605f80193"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- NGROK -->
+        <img height="35px" src="https://github.com/user-attachments/assets/9587eb9f-544f-461e-941a-c25a28a66fc5"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- VERCEL -->
+        <img height="35px" src="https://github.com/user-attachments/assets/e35addb5-9482-47cc-8dd5-5088e2461cfe"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- INSOMNIA -->
+        <img height="35px" src="https://github.com/user-attachments/assets/5452cfcc-0893-4397-9306-78cd86f1ac09"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- POSTMAN -->
+        <img height="35px" src="https://github.com/user-attachments/assets/9db257d9-7de9-40a2-b3b1-552c28813630"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- RUNPOD -->
+        <img height="35px" src="https://github.com/user-attachments/assets/8a309d5e-81c1-426f-aef4-7fc41dd3b581"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- HUGGINGFACE -->
+        <img height="35px" src="https://github.com/user-attachments/assets/0e52b3b6-938e-4b28-bf1b-ecdb6d2e59cf"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- WEIGHTS AND BIASES -->
+        <img height="35px" src="https://github.com/user-attachments/assets/092d668e-6708-431b-b5b3-0bf1b87b42f5"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      </tr>
+      <tr> 
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- AWS Bedrock -->
+        <img height="35px" src="https://github.com/user-attachments/assets/0ce8394f-00e2-4aa1-aa42-966423018e9d"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- PYTEST -->
+        <img height="35px" src="https://github.com/user-attachments/assets/8623bb27-8134-46ff-a141-b9f9fdffcba0"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- ANACONDA -->
+        <img height="35px" src="https://github.com/user-attachments/assets/d5fa245e-fd39-498d-8b37-8e0f5db7f346"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- PANDAS -->
+        <img height="35px" src="https://github.com/user-attachments/assets/1eb3d9a7-9b74-44e4-8826-9125d666c099"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- SCIKIT LEARN -->
+        <img height="35px" src="https://github.com/user-attachments/assets/d1f03cfe-7fee-4856-b376-d60fe2c1725f"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- SEABORN -->
+        <img height="35px" src="https://github.com/user-attachments/assets/eca239bc-ff2c-44a2-9839-0dae5f0542dd"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- NUMPY -->
+        <img height="35px" src="https://github.com/user-attachments/assets/d7fa66a1-33aa-4523-92ef-fc3d59700277"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- SQL -->
+        <img height="35px" src="https://github.com/user-attachments/assets/2bae58e9-5a0f-47a1-9134-9ea114e9879b"
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- PYTORCH -->
+        <img height="35px" src="https://github.com/user-attachments/assets/6a348897-2129-4f94-904d-5f15fdc5375a" 
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      </tr>
          </tr>
+     <tr>
+         <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- AWS LAMBDA -->
+        <img height="35px" src="https://github.com/user-attachments/assets/6739686e-6cd5-4e46-91ed-912d6c8dd102" 
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 50px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- Fask-->
+        <img height="35px" src="https://github.com/user-attachments/assets/5e8e427b-dba2-45d8-969f-074d333f148e" 
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>  
+     </tr>
      </tbody>
    </table>
 
 
 <!-- WISH TO LEARN -->
 <div style="display: block;">
-<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/86c907b1-725c-4b3c-80c3-3636acc10f6c"><br>The main technologies, tools and frameworks I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br>
-   <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
+<img align="center" height="25px" style="max-width:px ; width:; height:25px ;" src="https://github.com/user-attachments/assets/86c907b1-725c-4b3c-80c3-3636acc10f6c"><br>The main technologies, tools and frameworks I intend to develop, enhance, or study in the future.Technology I have little familiarity with at the moment but have a lot of interest in learning.These technologies/frameworks are definitely on my list for future studies.<br><br>
+    <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
      <tbody> 
-       <tr>
-          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              Tensorflow<br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
-           </td> 
-            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              Django<br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">         
-            </td>
-            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-                 Flask<br>
-                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"> 
-            </td>
-          <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              Java<br>
-              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-            </td>   
-           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              Google Cloud<br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
-           </td> 
-           <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              Kubernetes<br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
-           </td>
-            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              Grafana<br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-            </td>
-            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              AWS<br>
-              <img height="32px" src="https://github.com/Mel-iza/Mel-Iza/assets/72058182/f15fe088-bc15-41c3-aac1-81e3a1f18dd7">
-            </td>
-            <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-              Bash<br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
-            </td>  
+       <tr style="border: none !important; background-color: transparent !important;"> 
+         <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+           <!-- TENSORFLOW -->
+           <img src="https://github.com/user-attachments/assets/a8dc35fa-608e-431c-a195-8f57ec2e40ba" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+           <!-- KERAS -->
+           <img src="https://github.com/user-attachments/assets/a82bc809-dc92-443e-ac79-8e27485e331f" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+           <!-- BASH -->
+            <img src="https://github.com/user-attachments/assets/7839353e-d612-494b-8225-341f84b83f1b" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>  
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+           <!-- GRAFANA -->
+            <img src="https://github.com/user-attachments/assets/2ae28e21-0fb2-4ed5-98b4-42ce5c43d445" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>   
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+           <!-- ARGO -->
+            <img src="https://github.com/user-attachments/assets/922e8e9b-9fbb-4480-9e7e-a49654514261" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+           <!-- GOOGLE CLOUD -->
+            <img src="https://github.com/user-attachments/assets/95e2a8d1-330a-4e65-bf6c-5c593d706f297" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>  
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+           <!-- AWS -->
+            <img src="https://github.com/user-attachments/assets/048c1983-461f-46ff-a1fc-c2b0850f23b0" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>      
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+           <!-- KUBERNETES -->
+            <img src="https://github.com/user-attachments/assets/7d0fe47b-be8c-4970-a287-39c876b1024d" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>  
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+           <!-- TERRAFORM -->
+            <img src="https://github.com/user-attachments/assets/1ff9c336-8be2-4b78-b513-eba66e693a86" 
+                style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>       
        </tr>
      </tbody>
-   </table>
+    </table>
    </div>   
 
 Also <b>hobbies</b> I have had experience in non-work contexts, enjoy practicing, or find it to be a very enjoyable activity.<br>
  <div style="display: block;">
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; background-color: transparent; border-spacing: 0;">
-  <tbody> 
-    <tr> 
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Markdown<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
+     <tbody> 
+       <tr style="border: none !important; background-color: transparent !important;"> 
+         <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- MARKDOWN -->
+        <img src="https://github.com/user-attachments/assets/94adc440-8a8b-40d1-888e-2f4e1c542c63" 
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Photoshop<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- PHOTOSHOP -->
+        <img src="https://github.com/user-attachments/assets/be5dd03e-ff15-459e-96d6-794c361c1ac3" 
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>
-      <td width="100px" align="center" style="border: 1px solid transparent; padding: 8px;">
-        Canva<br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-      </td> 
-    </tr></tbody></table></div></details>
+      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+        <!-- CANVA -->
+           <img src="https://github.com/user-attachments/assets/d2651315-d98a-45ec-b0f5-217c20a8cccb" 
+             style="width: 100%; height: 100%; object-fit: contain; display: block;">
+      </td>    
+       </tr>
+     </tbody>
+</table>
+
+</div></details>
 
 
 <!-- PROJECTS -->
