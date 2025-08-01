@@ -320,17 +320,17 @@ Also <b>hobbies</b> I have had experience in non-work contexts, enjoy practicing
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none !important; background-color: transparent !important;">
      <tbody> 
        <tr style="border: none !important; background-color: transparent !important;"> 
-         <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+         <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
         <!-- MARKDOWN -->
         <img src="https://github.com/user-attachments/assets/94adc440-8a8b-40d1-888e-2f4e1c542c63" 
              style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+      <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
         <!-- PHOTOSHOP -->
         <img src="https://github.com/user-attachments/assets/be5dd03e-ff15-459e-96d6-794c361c1ac3" 
              style="width: 100%; height: 100%; object-fit: contain; display: block;">
       </td>
-      <td width="110px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
+      <td width="100px" style="border: none !important; padding: 0; height: 52px; display: flex; justify-content: center; align-items: center; background-color: transparent !important;">
         <!-- CANVA -->
            <img src="https://github.com/user-attachments/assets/d2651315-d98a-45ec-b0f5-217c20a8cccb" 
              style="width: 100%; height: 100%; object-fit: contain; display: block;">
@@ -451,7 +451,14 @@ Here are some projects I've been working on, whether they are projects I might h
 </div>
 <br>
 
+<div align="center" style="width: 100%; overflow-x: auto; text-align: center;">
+  <div style="display: inline-flex; gap: 10px; align-items: center;">
+    <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" style="height: 200px">
+   <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" style="height: 200px">
+  </div>
+</div>
 
+<!--
 <div align="center">
   <table>
     <tr>
@@ -463,7 +470,7 @@ Here are some projects I've been working on, whether they are projects I might h
       </td>
     </tr>
   </table>
-</div>
+</div>-->
 
 
 <!-- SEPARADOR 
@@ -515,9 +522,9 @@ Here are some projects I've been working on, whether they are projects I might h
    <img align=center height="33px" src="https://github.com/user-attachments/assets/b755a694-44be-4faa-a430-6d86b4f5d6d0">
        <!--<p style="text-align: justify; margin: 0;">-->
        <p style="text-align: justify; width: 70% !important; margin: 0 auto !important;">  
-        Feel free to contact me for collaborations on AI/NLP projects, 
+        Feel free to contact me! I'm opened for collaborations on AI/NLP projects, <br>
         discussions about women in tech initiatives, sharing game recommendations 
-        (RPGs preferred!) and opportunities in the area!<br>      
+        (RPGs preferred!) <br>and opportunities in the area!<br>      
           <div style="display: inline-block; align-items: center;">
           <!-- how to reach me -->
             <!--<img height="22px" align-items: center src="https://github.com/user-attachments/assets/49b2fc92-a1d9-4409-8ea9-d86ed6ff57f3" style="display: flex"><br>-->
@@ -558,8 +565,6 @@ Here are some projects I've been working on, whether they are projects I might h
        style="height: auto; display: inline-block;">
 </div> -->
 <br>
-
-   <br>
    <!-- YEAR -->  
    <div align="center">
       <img align=center src="https://github.com/user-attachments/assets/64b9201a-f378-4fe9-a66e-990909807ed1" height="35">
