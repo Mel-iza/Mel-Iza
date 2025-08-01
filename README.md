@@ -87,6 +87,8 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
 <!-- PROJECTS, STUDIES AND GOAL -->
 <div align="left"><img height="33px" src="https://github.com/user-attachments/assets/9d079824-a056-4d44-a39c-af1ea6a44b94"><br>
    <span>
+       <p align="justify">This is the study space I've built and continue to develop over time. Here you'll find repositories documenting my learning roadmaps and study plans, current focus areas and ongoing projects and future project ideas and experiments.</p>
+   <img src="https://github.com/user-attachments/assets/7eb913c2-17d3-4c04-a5c0-d40a8323285c" height="40px"/><br>
       My current career goal is to focus on my learning and solidifying the foundational knowledge required to work as a data scientist, specializing in NLP. I have mapped out these areas of knowledge that I intend to study further, and I aim to become a technical expert in the field.
    </span>
 </div>
@@ -416,22 +418,7 @@ Here are some projects I've been working on, whether they are projects I might h
   </div>
 </div>-->
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding: 10px; text-align: center">
-        <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" style="height: 180px">
-      </td>
-      <td style="padding: 10px; text-align: center">
-        <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" style="height: 180px">
-      </td>
-    </tr>
-  </table>
-</div>
 
-
-<!-- SEPARADOR -->
-<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
 <!-- INTERESTED IN -->
 <div align="left "style="display: block;"><img src="https://github.com/user-attachments/assets/ab80b4b1-188c-40c7-a781-81801670fcab" height="33px"></div>
@@ -464,18 +451,23 @@ Here are some projects I've been working on, whether they are projects I might h
 </div>
 <br>
 
-<div>
-  <!-- MY STUDY SPACE -->
-   <div align="right" width="48%" style="display: inline-block;">
-   
-  </div>  
-      <img src="https://github.com/user-attachments/assets/25f9cdc7-e46a-4c21-a7e2-8a36bd1af104" height="33px"/>
-        <p align="justify">This is the study space I've built and continue to develop over time. Here you'll find repositories documenting my learning roadmaps and study plans, current focus areas and ongoing projects and future project ideas and experiments.</p>
-   <img src="https://github.com/user-attachments/assets/7eb913c2-17d3-4c04-a5c0-d40a8323285c" height="40px"/>
-  <!-- Limpar floats -->
-  <div style="clear: both;"></div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 10px; text-align: center">
+        <img src="https://streak-stats.demolab.com?user=Mel-iza&theme=buefy&stroke=D88D8D&sideNums=E99898&dates=8D8FEB&ring=FFA8A9&sideLabels=BE4116&fire=7957d5&currStreakLabel=EB5454&currStreakNum=EB8D61&border_radius=10&date_format=j%20M%5B%20Y%5D" style="height: 180px">
+      </td>
+      <td style="padding: 10px; text-align: center">
+        <img src="http://github-profile-summary-cards-umber.vercel.app/api/cards/productive-time?username=Mel-iza&theme=florescent_dahlia&utcOffset=8" style="height: 180px">
+      </td>
+    </tr>
+  </table>
 </div>
 
+
+<!-- SEPARADOR 
+<img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> -->
 
  <!-- SEPARATOR --> <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
 
@@ -485,30 +477,34 @@ Here are some projects I've been working on, whether they are projects I might h
       <img src="https://github.com/user-attachments/assets/8deb1302-6d7d-427d-8773-83aee38e75cc" height="33px"> <br>
       <!-- FIRM BELIEVER IN -->
          <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
-  <img src="https://github.com/user-attachments/assets/76b5b3a2-3a6e-410a-b59e-488d35310d3e" height="18px" style="vertical-align: middle; margin-right: 5px;">
+
+   <div align="center">
+   <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
+        <img src="https://github.com/user-attachments/assets/76b5b3a2-3a6e-410a-b59e-488d35310d3e" height="18px" style="vertical-align: middle; margin-right: 5px;"><br>
   <span>
   Supporting and encouraging women in technology. <br>I have the honor of participating in two amazing communities in the field.<br>Check their work for incredible initiatives supporting women in tech!<br>
-  <div style="margin-left: 20px;">
+  <div style="margin-left: 10px;">
     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
     <b>MIA - Mulheres em IA</b>: <a href="https://www.instagram.com/mulheres.em.ia/">@mulheres.em.ia</a><br>
     &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> 
     <b>BPLN - Brasileiras em PLN</b>: <a href="https://brasileiraspln.com">brasileiraspln.com</a>
-  </div>
-    
-</span>
-     <br>
-       <!-- FUN FACTS -->
-     <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px; margin-left: 20px;">
-      <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
+      </td>
+      <td style="padding: 20px; text-align: justify; vertical-align: top; width: 50%;">
+        <img src="https://github.com/user-attachments/assets/044e576a-3779-4c19-be36-2a8290a1512a" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span><br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> RPG enthusiast</b>: My favorite D&D class is monk <br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Gaming lover</b>: Stardew Valley, Monster Hunter and Skyrim fan<br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Horror genre addic</b>: Both in books and movies<br>
-    &nbsp&nbsp&nbsp&nbsp&nbsp<img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Naturally curious</b>: Forever exploring new knowledge areas<br>
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /><b> RPG enthusiast</b>: My favorite D&D class is monk <br>
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Gaming lover</b>: Stardew Valley, Monster Hunter, Skyrim fan<br>
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Horror genre addic</b>: Both in books and movies<br>
+    <img height="16px" src="https://github.com/user-attachments/assets/141cb0d7-344f-4f29-8a77-feea744b98c2" /> <b> Naturally curious</b>: Forever exploring new knowledge areas<br>
   </span>
-</div>
-</div>
+      </td>
+    </tr>
+  </table>
+  </div>
 
+   
 
 <!-- SEPARADOR -->
 <img src="https://github.com/user-attachments/assets/15c00b71-2105-44b8-bb91-f0d5431b9613"> 
