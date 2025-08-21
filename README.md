@@ -61,7 +61,7 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
    <div style="text-align: center; font-size: 10px; margin: 10px 0; padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/da5f5dff-088b-4d58-8ebc-c3f752dd861a" height="18px" style="vertical-align: middle; margin-right: 5px;">
   <span>
-    AI/NLP with social impact, Gender-inclusive AI development, LLM vulnerability mitigation   
+    AI/NLP with social impact, Gender-inclusive AI development, LLM vulnerability mitigation, Data Governance   
   </span>  <br>
       <!-- ALWAYS LEARNING -->
      <div style="text-align: center; font-size: 10px; margin: 10px 0 ; padding-left: 20px;">
@@ -89,7 +89,7 @@ As a Machine Learning Engineer at Weni by VTEX's Technology and Innovation depar
    <span>
        <p align="justify">This is the study space I've built and continue to develop over time. Here you'll find repositories documenting my learning roadmaps and study plans, current focus areas and ongoing projects and future project ideas and experiments.</p>
    <img src="https://github.com/user-attachments/assets/7eb913c2-17d3-4c04-a5c0-d40a8323285c" height="40px"/><br>
-      My current career goal is to focus on my learning and solidifying the foundational knowledge required to work as a data scientist, specializing in NLP. I have mapped out these areas of knowledge that I intend to study further, and I aim to become a technical expert in the field.
+      My current career goal is to focus on my learning and solidifying the foundational knowledge in data science field and bring my Philosophical expertise to  work with Data Governance. I have mapped out these areas of knowledge that I intend to study further, and I aim to become a technical expert in the field.
    </span>
 </div>
 <br>
